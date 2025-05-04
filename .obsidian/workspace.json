@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "b47768cd5b0b4573",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "0fd0400fc8504558",
             "type": "leaf",
             "state": {
@@ -120,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -271,7 +283,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e250d2987f6ead2d",
+  "active": "b47768cd5b0b4573",
   "lastOpenFiles": [
     "Projects/1 - DIY Keyboard.md",
     "index.md",
