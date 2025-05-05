@@ -67,12 +67,14 @@
             "id": "b47768cd5b0b4573",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Planning/0 - Keyboard - Mk. 3/Planning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Planning"
             }
           },
           {
@@ -283,23 +285,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7cb2194fe6c89b2c",
+  "active": "b47768cd5b0b4573",
   "lastOpenFiles": [
+    "index.md",
+    "Planning/0 - Keyboard - Mk. 3/Planning.md",
+    "Planning/0 - Keyboard - Mk. 3",
+    "how-i-made-this-wiki.md",
+    "README.md",
     "Planning",
     "Projects/1 - DIY Keyboard.md",
-    "index.md",
     "Projects/Diagram.md",
     "Projects/2 - Split Keyboard - Mk. I.md",
     "_site/Projects/Diagram.html",
     "_site/Projects/Drawing 2025-02-08 16.16.14.excalidraw.html",
     "FAQ/FAQ.md",
     "_templates/main.md",
-    "README.md",
     "_site/README.md",
     "_site/README.md.md",
     "Projects/0 - Projects.md",
     "Resources/0 - Resources.md",
-    "how-i-made-this-wiki.md",
     "_site/FAQ/FAQ.html",
     "_site/FAQ",
     "_site/FAQ.html",
@@ -309,8 +313,6 @@
     "FAQ/Untitled",
     "FAQ",
     "_site/Resources/0 - Resources.html",
-    "_site/Resources/Useful Links.html",
-    "_site/Resources/Random.html",
     "_site/Projects/Untitled.md",
     "_site/Projects/Projects.md",
     "_site/Projects/Split Keyboard - Mk. I.md",

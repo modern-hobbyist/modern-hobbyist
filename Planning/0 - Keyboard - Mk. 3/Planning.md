@@ -1,0 +1,32 @@
+# Thoughts
+- #creamy is the goal I think
+	- #### 🟢 **Switches**
+- **Type:** Lubed linear switches (e.g., Kailh Choc Pro Red, Gateron Low Profile Red 2.0) 
+- **Feel:** Smooth travel, no tactile bump, no click
+- **Modding:** Hand-lubed + optional switch pads
+#### 🟢 **Plate**
+- **Material:** Polycarbonate, POM, or FR4
+- **Feel:** Soft and flexible
+- **Sound:** Muted, deep “thock”
+#### 🟢 **Mount Style**
+- **Preferred:** Gasket mount
+- **Why:** Softens bottom-out, adds bounce/flex
+- **Alternative:** Top mount with good dampening
+
+#### 🟢 **Case**
+- **Material:** Dense plastic (e.g., polycarbonate), wood (hardwoods), or aluminum (with damping)
+    
+- **Features:** Internally dampened, solid weight, no hollowness
+    
+- **Mount compatibility:** Supports soft mount methods
+    
+
+#### 🟢 **Dampening Materials**
+
+- **Case foam:** Reduces echo/hollow sound
+    
+- **Plate foam:** Softens keystroke acoustics
+    
+- **Switch pads:** Softens bottom-out impact
+    
+- **Silicone/poron layers:** Absorb vibration and add plushness
