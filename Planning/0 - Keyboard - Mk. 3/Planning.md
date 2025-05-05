@@ -1,5 +1,5 @@
 # Thoughts
-- #creamy is the goal I think:
+- Creamy is the goal I think:
 	- **Switches**
 		- **Type:** Lubed linear switches (e.g., Kailh Choc Pro Red, [Gateron Low Profile Red 2.0](https://www.gateron.co/products/gateron-low-profile-mechanical-switch-set)) 
 		- **Modding:** Hand-lubed + [optional switch pads](https://kbdfans.com/products/kbdfans-switches-pads-2-versions?srsltid=AfmBOoptZHauGuXYJ7l-Q1lHE2x1i-Pt6qjrls7YjJZdpwHf8CYOd4Ru)
@@ -15,3 +15,5 @@
 		- **Plate foam:** Softens keystroke acoustics
 		- **Switch pads:** Softens bottom-out impact
 		- **Silicone/poron layers:** Absorb vibration and add plushness
+- An aluminum or wooden case would be sweet
+- Can't 3d print it, would be too wide.
