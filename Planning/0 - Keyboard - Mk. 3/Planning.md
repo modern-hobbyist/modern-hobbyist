@@ -2,12 +2,9 @@
 - #creamy is the goal I think:
 	- **Switches**
 		- **Type:** Lubed linear switches (e.g., Kailh Choc Pro Red, [Gateron Low Profile Red 2.0](https://www.gateron.co/products/gateron-low-profile-mechanical-switch-set)) 
-		- **Feel:** Smooth travel, no tactile bump, no click
-		- **Modding:** Hand-lubed + optional switch pads
+		- **Modding:** Hand-lubed + [optional switch pads](https://kbdfans.com/products/kbdfans-switches-pads-2-versions?srsltid=AfmBOoptZHauGuXYJ7l-Q1lHE2x1i-Pt6qjrls7YjJZdpwHf8CYOd4Ru)
 	- **Plate**
 		- **Material:** Polycarbonate, POM, or FR4
-		- **Feel:** Soft and flexible
-		- **Sound:** Muted, deep “thock”
 	- **Mount Style**
 		- **Preferred:** Gasket mount
 		- **Why:** Softens bottom-out, adds bounce/flex
