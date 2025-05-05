@@ -1,7 +1,7 @@
 # Thoughts
 - #creamy is the goal I think:
 	- **Switches**
-		- **Type:** Lubed linear switches (e.g., Kailh Choc Pro Red, Gateron Low Profile Red 2.0) 
+		- **Type:** Lubed linear switches (e.g., Kailh Choc Pro Red, [Gateron Low Profile Red 2.0](https://www.gateron.co/products/gateron-low-profile-mechanical-switch-set)) 
 		- **Feel:** Smooth travel, no tactile bump, no click
 		- **Modding:** Hand-lubed + optional switch pads
 	- **Plate**
