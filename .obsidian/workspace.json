@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/0 - Keyboard - Mk. 3/Planning.md",
+                "file": "Projects/2 - Split Keyboard - Mk. I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planning"
+              "title": "2 - Split Keyboard - Mk. I"
             }
           },
           {
@@ -187,8 +187,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -298,8 +297,8 @@
   },
   "active": "b47768cd5b0b4573",
   "lastOpenFiles": [
-    "index.md",
     "Planning/0 - Keyboard - Mk. 3/Planning.md",
+    "index.md",
     "Planning/0 - Keyboard - Mk. 3",
     "how-i-made-this-wiki.md",
     "README.md",
