@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FAQ.md",
+                "file": "Projects/0 - Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FAQ"
+              "title": "0 - Projects"
             }
           },
           {
@@ -297,15 +297,16 @@
   },
   "active": "b47768cd5b0b4573",
   "lastOpenFiles": [
-    "how-i-made-this-wiki.md",
-    "FAQ.md",
-    "index.md",
-    "Resources/0 - Resources.md",
-    "Resources/Useful Links.md",
-    "Projects/2 - Split Keyboard - Mk. I.md",
     "Projects/1 - DIY Keyboard.md",
     "Projects/0 - Projects.md",
     "Planning/Keyboard - Mk. 3/Planning.md",
+    "index.md",
+    "README.md",
+    "FAQ.md",
+    "how-i-made-this-wiki.md",
+    "Resources/0 - Resources.md",
+    "Resources/Useful Links.md",
+    "Projects/2 - Split Keyboard - Mk. I.md",
     "Planning/Split Keyboard Mk. 2",
     "Planning/PrintNC",
     "Planning/Keyboards to Review",
@@ -315,7 +316,6 @@
     "img",
     "Projects/Untitled",
     "Planning/Keyboard - Mk. 3",
-    "README.md",
     "Planning",
     "Projects/Diagram.md",
     "_site/Projects/Diagram.html",
