@@ -7,7 +7,7 @@ parent: Projects
 # Split Keyboard Mk. I
 
 ----
-![[../img/hermod-mk-1/thumbnail-5.png]]
+<img src="../img/hermod-mk-1/thumbnail-5.png" alt="hermod-thumbnail"/>
 This is my very first split keyboard build ever, and while it's far from perfect, it was an amazing learning experience. 
 
 ## Specs
