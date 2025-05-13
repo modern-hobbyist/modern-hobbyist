@@ -13,11 +13,11 @@ So, you want to design a custom keyboard from scratch? Well, let's assume (like 
 Well first, let's take stock of what knowledge you'll need to gain in order to complete this project:
 
 - PCB Design
-	You’ll need to be comfortable designing your own printed circuit board (PCB) — this is what connects all your switches, microcontroller, and components together. That means learning a tool like KiCad or EasyEDA, understanding switch footprints, matrix wiring, and how to place diodes and connectors correctly.
+	- You’ll need to be comfortable designing your own printed circuit board (PCB) — this is what connects all your switches, microcontroller, and components together. That means learning a tool like KiCad or EasyEDA, understanding switch footprints, matrix wiring, and how to place diodes and connectors correctly.
 - 3D Design
-	Next, you’ll need a case to hold everything. That means diving into 3D modeling software like Fusion 360 or FreeCAD to design a custom enclosure that fits your PCB, supports your switches, and ideally looks awesome on your desk.
+	- Next, you’ll need a case to hold everything. That means diving into 3D modeling software like Fusion 360 or FreeCAD to design a custom enclosure that fits your PCB, supports your switches, and ideally looks awesome on your desk.
 - Firmware
-	Once your hardware is built, it won’t do anything unless you program it. That’s where firmware like QMK or ZMK comes in. You’ll need to learn how to configure your keymap, define layers, and tell the microcontroller how to talk to the rest of the keyboard.
+	- Once your hardware is built, it won’t do anything unless you program it. That’s where firmware like QMK or ZMK comes in. You’ll need to learn how to configure your keymap, define layers, and tell the microcontroller how to talk to the rest of the keyboard.
 ### Where I started
 - PCB Design
 	- I had designed several PCB's up to this point, but nothing more complicated than connecting some traces between through hole components. Definitely nothing with any SMD components, and I have only ever glanced at datasheets (only to become overwhelmed and immediately close them).
@@ -31,16 +31,20 @@ Well first, let's take stock of what knowledge you'll need to gain in order to c
 - [https://www.youtube.com/watch?v=7azQkSu0m_U](https://www.youtube.com/watch?v=7azQkSu0m_U)
 - [https://www.youtube.com/watch?v=iznKltVU1yw](https://www.youtube.com/watch?v=iznKltVU1yw)
 - [https://www.youtube.com/watch?v=kGKN8SGkUD0](https://www.youtube.com/watch?v=kGKN8SGkUD0)
+
 ## Guides
 - [https://github.com/ruiqimao/keyboard-pcb-guide?tab=readme-ov-file#setting-up](https://github.com/ruiqimao/keyboard-pcb-guide?tab=readme-ov-file#setting-up)
 - [https://www.reddit.com/r/MechanicalKeyboards/comments/5nzpd2/guide_how_to_make_your_own_keyboard_pcb/](https://www.reddit.com/r/MechanicalKeyboards/comments/5nzpd2/guide_how_to_make_your_own_keyboard_pcb/)
+
 ## KiCad Parts Libraries
 - [https://github.com/tmk/kicad_lib_tmk](https://github.com/tmk/kicad_lib_tmk)
 - [https://github.com/tmk/keyboard_parts.pretty](https://github.com/tmk/keyboard_parts.pretty)
 - [https://github.com/egladman/keebs.pretty](https://github.com/egladman/keebs.pretty)
 
 ## Common MCU Datasheets
-- [https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf?ref=ohmbedded.com](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf?ref=ohmbedded.com)
+- [RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf?ref=ohmbedded.com)
+- [STM32F072CBT6](https://www.st.com/resource/en/datasheet/stm32g474cb.pdf)
+## Everything Else
 - [https://i.imgur.com/ajqxJWz.png](https://i.imgur.com/ajqxJWz.png)
 - [https://github.com/NCKiser/STM32F072_template](https://github.com/NCKiser/STM32F072_template)
 - [https://github.com/Zambumon/SKUF](https://github.com/Zambumon/SKUF)
