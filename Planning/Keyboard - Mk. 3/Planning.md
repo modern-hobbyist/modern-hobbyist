@@ -17,3 +17,4 @@
 		- **Silicone/poron layers:** Absorb vibration and add plushness
 - An aluminum or wooden case would be sweet
 - Can't 3d print it, would be too wide.
+	- Could mill it though, that'd be sweet. 
