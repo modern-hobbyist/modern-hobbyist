@@ -10,6 +10,7 @@ A collection of random tools, applications and resources without any real
 - Flycut - 
 - IntelliJ and/or WebStorm
 - VSCode
+- TickTick
 ## Discords and Communities
 - [Keyboard Atelier](https://kbatelier.org/) - A community dedicated to keyboard design.
 	- [Discord](https://discord.com/invite/b7vwhHS)
