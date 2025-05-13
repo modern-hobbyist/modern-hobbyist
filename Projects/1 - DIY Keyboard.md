@@ -5,6 +5,7 @@ nav_order: "0"
 parent: Projects
 ---
 # Project Heimdall
+<img src="../img/heimdall-mk-1/thumbnail-v1.png" alt="ProjectHeimdall"/>
 This was my first dive into building DIY mechanical keyboards, and needless to say, it was a huge undertaking. As such, there were so many different videos, wiki's and Discord channels as well as prior knowledge that all came together to allow me to build this keyboard, so I'll do my best to build out a comprehensive list of my sources, but keep in mind it will be constantly growing.
 
 # Getting Started
@@ -12,18 +13,21 @@ So, you want to design a custom keyboard from scratch? Well, let's assume (like 
 
 Well first, let's take stock of what knowledge you'll need to gain in order to complete this project:
 
-- PCB Design
-	- You’ll need to be comfortable designing your own printed circuit board (PCB) — this is what connects all your switches, microcontroller, and components together. That means learning a tool like KiCad or EasyEDA, understanding switch footprints, matrix wiring, and how to place diodes and connectors correctly.
-- 3D Design
-	- Next, you’ll need a case to hold everything. That means diving into 3D modeling software like Fusion 360 or FreeCAD to design a custom enclosure that fits your PCB, supports your switches, and ideally looks awesome on your desk.
-- Firmware
-	- Once your hardware is built, it won’t do anything unless you program it. That’s where firmware like QMK or ZMK comes in. You’ll need to learn how to configure your keymap, define layers, and tell the microcontroller how to talk to the rest of the keyboard.
+### PCB Design
+- You’ll need to be comfortable designing your own printed circuit board (PCB) — this is what connects all your switches, microcontroller, and components together. That means learning a tool like KiCad or EasyEDA, understanding switch footprints, matrix wiring, and how to place diodes and connectors correctly.
+  
+### 3D Design
+- Next, you’ll need a case to hold everything. That means diving into 3D modeling software like Fusion 360 or FreeCAD to design a custom enclosure that fits your PCB, supports your switches, and ideally looks awesome on your desk.
+  
+### Firmware
+- Once your hardware is built, it won’t do anything unless you program it. That’s where firmware like QMK or ZMK comes in. You’ll need to learn how to configure your keymap, define layers, and tell the microcontroller how to talk to the rest of the keyboard.
+
 ### Where I started
-- PCB Design
+- **PCB Design**
 	- I had designed several PCB's up to this point, but nothing more complicated than connecting some traces between through hole components. Definitely nothing with any SMD components, and I have only ever glanced at datasheets (only to become overwhelmed and immediately close them).
-- 3d design
+- **3d design**
 	- While I am certainly not "gifted" in this category, I have to admit I have some formal training in CAD from my early days of College as a mechanical engineer. 
-- Firmware
+- **Firmware**
 	- This is the category that I am most comfortable in, which is lucky as that's my day job. However, I don't have experience writing QMK and I haven't written C code in like 8 years, so I still had many things to learn.
 
 # Useful Links
