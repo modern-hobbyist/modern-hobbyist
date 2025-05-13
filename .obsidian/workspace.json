@@ -295,9 +295,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7cb2194fe6c89b2c",
+  "active": "b47768cd5b0b4573",
   "lastOpenFiles": [
     "how-i-made-this-wiki.md",
+    "FAQ.md",
     "index.md",
     "Resources/0 - Resources.md",
     "Resources/Useful Links.md",
@@ -318,7 +319,6 @@
     "Planning",
     "Projects/Diagram.md",
     "_site/Projects/Diagram.html",
-    "FAQ.md",
     "_templates/main.md",
     "_site/README.md",
     "_site/README.md.md",

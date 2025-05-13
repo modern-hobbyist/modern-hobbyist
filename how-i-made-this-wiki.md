@@ -25,6 +25,12 @@ To ensure my changes are automatically committed and deployed, I use the **[Obsi
 - **Accessible Anywhere:** Because it's hosted on GitHub Pages, I can view and share my knowledge base from anywhere.
 - It's Free. $0 free. Nada. Zilch
 
+## Downsides
+
+- **Security**: I don't have GitHub Pro, so I am unable to make the repository that this Wiki is build from `Private`. I am *mostly* ok with that, I just have to make sure not to put any sensitive information in the documentation, which isn't usually a problem. 
+- **Styling**: Styling can be a pain when going for a more custom look on a page, but markdown can get you pretty far most of the time.
+- **Obsidian Links**: One of the most powerful parts of Obsidian is the `Obsidian Links`, which allow you to quickly link to another document with `[[Another Document]]` notation. This breaks when building your markdown as a Jekyll Site, since it's an Obsidian specific feature. 
+
 ## How You Can Do It Too
 
 If you want to set up something similar, here’s a rough outline of what you need:
