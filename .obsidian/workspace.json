@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/2 - Split Keyboard - Mk. I.md",
+                "file": "how-i-made-this-wiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Split Keyboard - Mk. I"
+              "title": "how-i-made-this-wiki"
             }
           },
           {
@@ -297,6 +297,7 @@
   },
   "active": "b47768cd5b0b4573",
   "lastOpenFiles": [
+    "Projects/2 - Split Keyboard - Mk. I.md",
     "Projects/1 - DIY Keyboard.md",
     "Projects/0 - Projects.md",
     "Planning/Keyboard - Mk. 3/Planning.md",
@@ -307,7 +308,6 @@
     "img/hermod-mk-1/thumbnail-5.png",
     "index.md",
     "how-i-made-this-wiki.md",
-    "Projects/2 - Split Keyboard - Mk. I.md",
     "img/hermod-mk-1",
     "img",
     "Projects/Untitled",
