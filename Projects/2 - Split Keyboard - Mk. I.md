@@ -19,6 +19,8 @@ This is my very first split keyboard build ever, and while it's far from perfect
 - Two 2.2" LCD's
 - Per-Key RGB Lighting
 
+## Building
+
 # Conclusion
 ## Mistakes
 - No 5.1kΩ resistor on the Split USB Communication lines
