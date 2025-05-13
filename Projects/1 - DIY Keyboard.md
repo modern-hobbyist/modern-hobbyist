@@ -11,11 +11,13 @@ This was my first dive into building DIY mechanical keyboards, and needless to s
 So, you want to design a custom keyboard from scratch? Well, let's assume (like me) that you don't know the first thing about designing a custom keyboard from scratch. In that case, where do you start?
 
 Well first, let's take stock of what knowledge you'll need to gain in order to complete this project:
-- PCB Design
-	- You'll need to be 
-- 3d Design
-- Firmware
 
+- PCB Design
+	You’ll need to be comfortable designing your own printed circuit board (PCB) — this is what connects all your switches, microcontroller, and components together. That means learning a tool like KiCad or EasyEDA, understanding switch footprints, matrix wiring, and how to place diodes and connectors correctly.
+- 3D Design
+	Next, you’ll need a case to hold everything. That means diving into 3D modeling software like Fusion 360 or FreeCAD to design a custom enclosure that fits your PCB, supports your switches, and ideally looks awesome on your desk.
+- Firmware
+	Once your hardware is built, it won’t do anything unless you program it. That’s where firmware like QMK or ZMK comes in. You’ll need to learn how to configure your keymap, define layers, and tell the microcontroller how to talk to the rest of the keyboard.
 ### Where I started
 - PCB Design
 	- I had designed several PCB's up to this point, but nothing more complicated than connecting some traces between through hole components. Definitely nothing with any SMD components, and I have only ever glanced at datasheets (only to become overwhelmed and immediately close them).
