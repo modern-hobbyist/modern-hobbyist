@@ -8,5 +8,23 @@
       "key": "T"
     }
   ],
-  "workspace:undo-close-pane": []
+  "workspace:undo-close-pane": [],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ]
 }
