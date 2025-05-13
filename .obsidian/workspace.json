@@ -295,8 +295,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b47768cd5b0b4573",
+  "active": "7cb2194fe6c89b2c",
   "lastOpenFiles": [
+    "img/hermod-mk-1",
+    "img",
+    "Projects/Untitled",
     "Planning/0 - Keyboard - Mk. 3/Planning.md",
     "Resources/0 - Resources.md",
     "Projects/2 - Split Keyboard - Mk. I.md",
@@ -321,8 +324,6 @@
     "_site/Untitled.md",
     "Resources/Useful Links.md",
     "FAQ/Untitled",
-    "FAQ",
-    "_site/Resources/0 - Resources.html",
     "_site/Projects/Untitled.md",
     "_site/Projects/Projects.md",
     "_site/Projects/Split Keyboard - Mk. I.md",
@@ -332,7 +333,6 @@
     "_site/templates/index 1.md",
     "_site/templates/main.md",
     "NewPage.md",
-    "OtherPage.md",
-    "_site/NewPage.md"
+    "OtherPage.md"
   ]
 }
