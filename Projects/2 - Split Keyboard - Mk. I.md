@@ -23,7 +23,9 @@ This is my very first split keyboard build ever, and while it's far from perfect
 ## Cons
 - The STM32F072 was a poor choice.
 	- It's a good choice for entry level boards, but this board required too much from it. A beefier MCU would have been very handy when it came to time to write the firmware.
-	- I am experimenting with the STM32G474CETx
+	- I am experimenting with the [STM32G474CETx](https://www.digikey.com/en/products/detail/stmicroelectronics/stm32g474cet6/10326773) - Datasheet [Here](https://www.st.com/resource/en/datasheet/stm32g474cb.pdf)
+- Thumb clusters are a little too far away from my other fingers
+	- Not quite my thumbs natural resting position
 
 # Resources
 Below is a list of every single link I saved during the building of this keyboard. It might not be complete, and it might actually be a little bit overwhelming, but they were each helpful to me in some way, so I figured better safe than sorry and included them all!
