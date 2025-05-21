@@ -1,0 +1,5 @@
+{
+  "regex": "https?:\\/\\/(?:www\\.)?[a-zA-Z0-9\\-._~%]+(?:\\.[a-zA-Z]{2,})+(?::\\d+)?(?:\\/[^\\s]*)?",
+  "nothingSelected": 0,
+  "listForImgEmbed": ""
+}
