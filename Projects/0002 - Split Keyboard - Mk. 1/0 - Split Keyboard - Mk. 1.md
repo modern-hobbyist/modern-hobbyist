@@ -39,12 +39,14 @@ The inspiration for this build came from two other keyboards, and I wanted to ma
 	- Fixed by soldering an SMD 5.1kΩ resistor to the USB port pins and bridging with solder
 - Pin selection was sub-par
 	- Not necessarily a mistake, but it make the firmware much harder to write. 
+
 ## Pros
 - Absolutely Love the arrow keys being tucked in under my right palm. I never accidentally press them and they are always right there, easy to access when I need them.
 - The thumb clusters are awesome, having quicker access to Cmd, Ctrl, Layer changes, and other custom behavior with my thumbs has resulted in a huge productivity boost!
 - The 2.2" displays are amazing. I don't have any legends on my keycaps, so having a place to quickly determine which key is where at a glance is super handy.
 - The magnetically detachable numpad is great for when I'm at my desk and find myself needing to type lots of numbers, but if I'm on the road or a smaller desk, I can pop it off and free up some real estate. 
 	- Also, being able to add another numpad to the other side of my keyboard and map it to more custom macros is a huge bonus!
+
 ## Cons
 - The STM32F072 was a poor choice.
 	- It's a good choice for entry level boards, but this board required too much from it. A beefier MCU would have been very handy when it came to time to write the firmware.
