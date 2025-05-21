@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/0002. Split Keyboard - Mk. 1.md",
+                "file": "Projects/0000 - Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0002. Split Keyboard - Mk. 1"
+              "title": "0000 - Projects"
             }
           },
           {
@@ -291,12 +291,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7cb2194fe6c89b2c",
+  "active": "e250d2987f6ead2d",
   "lastOpenFiles": [
+    "Projects/0002. Split Keyboard - Mk. 1.md",
     "Projects/0000 - Projects.md",
     "Projects/0001 - DIY Keyboard.md",
     "Projects/0002. Split Keyboard - Mk. 1/1. Instructions.md",
-    "Projects/0002. Split Keyboard - Mk. 1.md",
     "Projects/2 - Split Keyboard - Mk. 1/Untitled.md",
     "Projects/0002. Split Keyboard - Mk. 1",
     "img/heimdall-mk-1/thumbnail-v1.png",
