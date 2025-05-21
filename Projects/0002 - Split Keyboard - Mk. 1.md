@@ -9,7 +9,7 @@ parent: Projects
 ----
 <img src="../../img/hermod-mk-1/thumbnail-5.png" alt="hermod-thumbnail"/>
 This is my very first split keyboard build ever, and while it's far from perfect, it was an amazing learning experience. 
-
+## [Instructions](<0002 - Split Keyboard - Mk. 1/1. Instructions>)
 ## Specs
 - Split, Columnar Staggered Layout
 - 2x1.5u and 2x1u Thumb Keys per side
