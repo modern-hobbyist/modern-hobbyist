@@ -3,7 +3,6 @@ description: A collection of information I've picked up along the way.
 theme: just-the-docs
 url: https://wiki.modhobbyist.com
 logo: "assets/images/modhob.png"
-favicon_ico: "assets/images/favicon.ico"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
