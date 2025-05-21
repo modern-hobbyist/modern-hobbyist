@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Projects/0002 - Split Keyboard - Mk. 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "0002 - Split Keyboard - Mk. 1"
             }
           },
           {
@@ -305,8 +305,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "81601340a1115eeb",
+  "active": "f4fb40be85113169",
   "lastOpenFiles": [
+    "index.md",
     "favicon.ico",
     "assets/images/modhob.png",
     "assets/images/favicon.ico",
@@ -320,7 +321,6 @@
     "Projects/0002 - Split Keyboard - Mk. 1.md",
     "0002..md",
     "Resources/0 - Resources.md",
-    "index.md",
     "Projects/0001 - DIY Keyboard.md",
     "Projects/2 - Split Keyboard - Mk. 1/Untitled.md",
     "Projects/0002 - Split Keyboard - Mk. 1",
@@ -335,7 +335,6 @@
     "Resources/Useful Links.md",
     "Planning/Split Keyboard Mk. 2",
     "Planning/PrintNC",
-    "Planning/Keyboards to Review",
     "img/hermod-mk-1/thumbnail-5.png",
     "Projects/Diagram.md",
     "_templates/main.md",

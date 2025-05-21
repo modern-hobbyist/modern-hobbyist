@@ -21,7 +21,9 @@ This DIY split keyboard PCB was designed for personal use and is shared as-is. W
 - Kailh Choc Brown Switches
 - Two 2.2" LCD's
 - Per-Key RGB Lighting
+
 # Conclusion
+
 ## Mistakes
 - No 5.1kΩ resistor on the Split USB Communication lines
 	- This meant the two halves literally couldn't communicate
@@ -29,6 +31,7 @@ This DIY split keyboard PCB was designed for personal use and is shared as-is. W
 - Pin selection was sub-par
 	- Not necessarily a mistake, but it make the firmware much harder to write. 
 ## Pros
+
 ## Cons
 - The STM32F072 was a poor choice.
 	- It's a good choice for entry level boards, but this board required too much from it. A beefier MCU would have been very handy when it came to time to write the firmware.
