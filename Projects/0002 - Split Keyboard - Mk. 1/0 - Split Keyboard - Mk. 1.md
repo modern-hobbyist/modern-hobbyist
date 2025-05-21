@@ -12,7 +12,7 @@ This is my very first split keyboard build ever, and while it's far from perfect
 
 **Disclaimer:**  
 This DIY split keyboard PCB was designed for personal use and is shared as-is. While it works well for me, it's not a professionally validated design—there may be imperfections or quirks. If you decide to build it, please do so at your own risk. Double-check everything, and make modifications as needed. Happy building!
-## [Instructions](<0002 - Split Keyboard - Mk. 1/1. Instructions>)
+## [Instructions](<1 - Instructions.md>)
 ## Specs
 - Split, Columnar Staggered Layout
 - 2x1.5u and 2x1u Thumb Keys per side
