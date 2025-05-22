@@ -90,6 +90,7 @@ You can also reach out on my [Discord](https://discord.gg/68WXGsjqJp), though I 
 - [Noah Kiser's STM32F072 Template](https://github.com/NCKiser/STM32F072_template)
 - [AIO3 Plate Generator](https://kbplate.ai03.com/)
 - [KBPlacer Plugin for KiCAD](https://github.com/adamws/kicad-kbplacer)
+
 ## Everything else
 Below is a list of every single link I saved during the building of this keyboard. It might not be complete, and it might actually be a little bit overwhelming, but they were each helpful to me in some way, so I figured better safe than sorry and included them all!
 
