@@ -20,4 +20,8 @@
 			- Max/Min settings so you can prevent the lights from ever going completely out if you want.
 		- Metronome tempo
 		- 
-	- 
+
+# Hardware
+MCU: [Teensy 4.1](https://www.sparkfun.com/teensy-4-1.html)
+- Amazon link: https://a.co/d/eKl3nWE
+Cables: 
