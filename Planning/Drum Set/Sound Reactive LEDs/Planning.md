@@ -20,6 +20,36 @@
 			- Max/Min settings so you can prevent the lights from ever going completely out if you want.
 		- Metronome tempo
 
+# Planned Features
+
+### 💡 Signal Conditioning for Sensors
+- Use a **low-pass filter** (resistor + capacitor) on the vibration sensor signal.
+- Consider a **Schmitt trigger** or **op-amp comparator** to clean up bounces.
+- Optionally include a **TVS diode or clamping diodes** to protect the analog input.
+
+### 🔄 LED Data Handling
+- If you're running lots of WS2812s:
+    - Use **level shifters** (Teensy outputs 3.3 V; WS2812s expect 5 V).
+    - Or, mount your first LED close enough to the Teensy and test at 3.3 V.
+
+### 🧵 Cable Lengths & Termination
+
+- Long data cables (LED or analog) might need **series resistors** (100 Ω) near the data source to prevent reflections.
+- Keep **analog sensor signal lines** short or shielded if possible.
+
+### 📟 OLED Display Suggestions
+- Use a **128×64 I²C OLED** (like SSD1306 or SH1106) to save pins.
+- Add a **rotary encoder** (with click) or joystick for a tactile UI.
+- Consider a **basic menu system**: Mode > Edit > Back structure.
+
+### 🔁 Expandability
+- If you want this to scale beyond 6–8 drums:
+    - Consider using a **multiplexer (e.g. CD74HC4067)** for analog inputs
+    - Or daisy-chain sensor daughterboards using I²C or UART (future-proofing)
+
+### 💾 Save/Load Configs
+- Add EEPROM or use Teensy's flash to **persist user settings** like brightness or mode.
+- Bonus: allow storing presets (e.g. different setups for songs).
 
 # Hardware
 MCU: [Teensy 4.1](https://www.sparkfun.com/teensy-4-1.html)
@@ -34,3 +64,9 @@ RGB Wires/Sockets
 # 3d Printed Cases
 - Motherboard
 - Each Daughterboard
+## Extras  To Consider Later
+
+- 🎛️ **MIDI over USB** for syncing with DAWs or lighting rigs
+- 📱 **Bluetooth or USB serial** config tool
+- 🕵️‍♂️ **Debug/Test mode** with hit visualization on OLED
+- 🌈 **Per-drum LED animations** (not just global)
