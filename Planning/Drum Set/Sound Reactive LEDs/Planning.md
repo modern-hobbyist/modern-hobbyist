@@ -7,8 +7,17 @@
 - Motherboard that can connect to X amount of daughter boards and send different animations when triggered. 
 - OLED display to show animation settings, sensitivity, etc...
 	- Settings
-		- Animation
-			- Random Color
-			- Solid Color
+		- Modes
+			- Random Color - Each drum gets a different color
+			- Solid Color - All drums the same color
+			- Color Cycle - Each hit, the colors change
+			- Velocity Mode - Blue, then Gets redder the faster you play
+			- Metronome - pulses to a beat
+			- Heat map - Redder to show the most played drums
 		- Sensitivity
 		- Fade Duration
+		- Brightness
+			- Max/Min settings so you can prevent the lights from ever going completely out if you want.
+		- Metronome tempo
+		- 
+	- 
