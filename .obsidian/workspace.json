@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/0 - Resources.md",
+                "file": "Planning/Drum Set/Sound Reactive LEDs/Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 - Resources"
+              "title": "Planning"
             }
           },
           {
@@ -307,6 +307,12 @@
   },
   "active": "f4fb40be85113169",
   "lastOpenFiles": [
+    "Resources/0 - Resources.md",
+    "Planning/Drum Set/Sound Reactive LEDs/Planning.md",
+    "Planning/Drum Set/Refinishing",
+    "Planning/Drum Set/Sound Reactive LEDs",
+    "Planning/Drum Set/Untitled.md",
+    "Planning/Drum Set",
     "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
     "Projects/0002 - Split Keyboard - Mk. 1/0 - Split Keyboard - Mk. 1.md",
     "index.md",
@@ -320,21 +326,17 @@
     "assets",
     "Projects/0000 - Projects.md",
     "0002..md",
-    "Resources/0 - Resources.md",
     "Projects/0001 - DIY Keyboard.md",
     "Projects/2 - Split Keyboard - Mk. 1/Untitled.md",
     "Projects/0002 - Split Keyboard - Mk. 1",
     "img/heimdall-mk-1/thumbnail-v1.png",
     "img/heimdall-mk-1",
-    "img/untitled folder",
     "img/thumbnail-v1.png",
     "Planning/Keyboard - Mk. 3/Planning.md",
     "README.md",
     "FAQ.md",
     "how-i-made-this-wiki.md",
     "Resources/Useful Links.md",
-    "Planning/Split Keyboard Mk. 2",
-    "Planning/PrintNC",
     "img/hermod-mk-1/thumbnail-5.png",
     "Projects/Diagram.md",
     "_templates/main.md",
@@ -347,7 +349,6 @@
     "_site/Projects/Split Keyboard - Mk. I.md",
     "_site/ThisWiki.md",
     "_site/TestFolder/Untitled.md",
-    "_site/Untitled.canvas",
-    "_site/templates/index 1.md"
+    "_site/Untitled.canvas"
   ]
 }

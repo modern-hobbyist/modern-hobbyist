@@ -1,0 +1,14 @@
+- Thinking vibration/shock sensors instead of sound, seems less likely to be triggered by other drums
+- Daughter boards for each tom/snare that houses the shock sensor and LED output, and maybe aviation cables with pins for:
+	- +5v
+	- Gnd
+	- LED Data Input
+	- Shock Sensor output
+- Motherboard that can connect to X amount of daughter boards and send different animations when triggered. 
+- OLED display to show animation settings, sensitivity, etc...
+	- Settings
+		- Animation
+			- Random Color
+			- Solid Color
+		- Sensitivity
+		- Fade Duration
