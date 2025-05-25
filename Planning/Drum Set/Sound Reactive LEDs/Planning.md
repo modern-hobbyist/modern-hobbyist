@@ -19,7 +19,7 @@
 		- Brightness
 			- Max/Min settings so you can prevent the lights from ever going completely out if you want.
 		- Metronome tempo
-		- 
+
 
 # Hardware
 MCU: [Teensy 4.1](https://www.sparkfun.com/teensy-4-1.html)
@@ -28,4 +28,9 @@ Cables
 - [4 Conductor Audio Cable - 22 awg](https://a.co/d/c5XqSRE)
 Aviation Connectors
 - [4 Pin GX-12 Connectors](https://a.co/d/fzi5WQ6)
+RGB Wires/Sockets
+- [JST-XH 3 pin](https://a.co/d/7NcoKhQ)
 
+# 3d Printed Cases
+- Motherboard
+- Each Daughterboard
