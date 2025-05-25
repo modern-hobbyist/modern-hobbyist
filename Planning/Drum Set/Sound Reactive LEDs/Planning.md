@@ -26,4 +26,6 @@ MCU: [Teensy 4.1](https://www.sparkfun.com/teensy-4-1.html)
 - Amazon link: https://a.co/d/eKl3nWE
 Cables
 - [4 Conductor Audio Cable - 22 awg](https://a.co/d/c5XqSRE)
-- 
+Aviation Connectors
+- [4 Pin GX-12 Connectors](https://a.co/d/fzi5WQ6)
+
