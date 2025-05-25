@@ -24,4 +24,6 @@
 # Hardware
 MCU: [Teensy 4.1](https://www.sparkfun.com/teensy-4-1.html)
 - Amazon link: https://a.co/d/eKl3nWE
-Cables: 
+Cables
+- [4 Conductor Audio Cable - 22 awg](https://a.co/d/c5XqSRE)
+- 
