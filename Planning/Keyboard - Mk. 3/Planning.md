@@ -9,6 +9,7 @@
 		- **Preferred:** Gasket mount
 	- **Case**
 		- **Material:** Dense plastic (e.g., polycarbonate), wood (hardwoods), or aluminum (with damping)
+		- I love the look of the acrylic bottom and aluminum top like my 
 		- **Features:** Internally dampened, solid weight, no hollowness
 	- **Dampening Materials**
 		- **Case foam:** Reduces echo/hollow sound
