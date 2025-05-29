@@ -22,7 +22,8 @@
 - #question Which footprints are compatible?
 	- Are Kailh Choc and Gateron KS-33's compatible?
 	- How bout those and the Cherry MXs or Gateron Normal profiles?
-- #ques
+- #question do I even wanna go with low profiles? I think most people prefer normal and they feel/sound better
+- 
 # Design
 - Thinking standard format with a qwerty layout, but instead of spacebar, thumb clusters
 - Arrow keys below palm
