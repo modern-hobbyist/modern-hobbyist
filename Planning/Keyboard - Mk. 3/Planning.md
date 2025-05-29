@@ -23,3 +23,8 @@
 # Design
 - Thinking standard format with a qwerty layout, but instead of spacebar, thumb clusters
 - Arrow keys below palm
+
+# Decisions
+- Switches: 
+- Keycaps: 
+- 
