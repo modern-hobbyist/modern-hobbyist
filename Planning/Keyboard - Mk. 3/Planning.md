@@ -19,7 +19,10 @@
 - An aluminum or wooden case would be sweet
 - Can't 3d print it, would be too wide.
 	- Could mill it though, that'd be sweet. 
-
+- #question Which footprints are compatible?
+	- Are Kailh Choc and Gateron KS-33's compatible?
+	- How bout those and the Cherry MXs or Gateron Normal profiles?
+- #ques
 # Design
 - Thinking standard format with a qwerty layout, but instead of spacebar, thumb clusters
 - Arrow keys below palm
