@@ -27,4 +27,5 @@
 # Decisions
 - Switches: 
 - Keycaps: 
-- 
+- Case:
+- Layout: 
