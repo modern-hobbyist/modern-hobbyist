@@ -30,7 +30,7 @@
 
 # Decisions
 - Switches: Going to design for KS-33 AND MX combined
-	- Implemented by overlapping the footprints. It will cause some DRC errors, but it should be functional even with an LED. Pretty much requires a plate for stability though
+	- Implemented by overlapping the footprints. It will cause some DRC errors, but it should be functional even with an LED. Pretty much requires a plate for stability though since the holes will be overlapping and not the proper size all the time.
 - Keycaps: 
 - Case:
 - Layout: 
