@@ -29,7 +29,8 @@
 - Arrow keys below palm
 
 # Decisions
-- Switches: 
+- Switches: Going to design for KS-33 AND MX combined
+	- Implemented by overlapping the footprints. It will cause some DRC errors, but it should be functional even with an LED. Pretty much requires a plate for stability though
 - Keycaps: 
 - Case:
 - Layout: 
