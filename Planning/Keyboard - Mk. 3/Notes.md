@@ -1,5 +1,5 @@
 ## Layout
-
+<img src="screenRecording-000167@2x 1.png" />
 
 ## Footprint
 For this design, I decided I wanted to support more than one kind of switch:
