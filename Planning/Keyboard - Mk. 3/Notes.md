@@ -1,6 +1,5 @@
 ## Layout
 <img src="screenRecording-000167@2x 1.png" />
-
 ## Footprint
 For this design, I decided I wanted to support more than one kind of switch:
 - Gateron KS-33 (low profile Gateron switches v2)
@@ -14,5 +13,10 @@ Couple things to note about doing this:
 - Might get some DRC errors, need to manually override them.
 - Manu might not be able to make them depending on how you overlap switches
 - Some switch types are NOT compatible, the pads and holes might overlap too much.
+
+## Gasket Mount
+- Should have about 1mm of space between the PCB and the plate sides
+- The gasket mount is basically a method of suspending the plate on gaskets or foam pads so that it has some bounce to it as the user is typing.
+- The Megalodon macropad I have is gasket mounted so that could be a good resource
 
 
