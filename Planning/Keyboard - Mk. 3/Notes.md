@@ -1,10 +1,11 @@
 ## Layout
-<img src="screenRecording-000174@2x.png" />
+<img src="screenRecording-000175@2x.png" />
 ### Features
 - Multiple thumb keys, a single space is a waste of space
 - Arrow keys nested under my right palm
 - Dedicated numpad
 - F13 spaced function row
+- LCD in the top right
 ## Footprint
 For this design, I decided I wanted to support more than one kind of switch:
 - Gateron KS-33 (low profile Gateron switches v2)
