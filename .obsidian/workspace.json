@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/CNC Machining/1 - Choosing The Right Bit.md",
+                "file": "Resources/CNC Machining/2 - Choosing The Right Bit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Choosing The Right Bit"
+              "title": "2 - Choosing The Right Bit"
             }
           },
           {
@@ -278,8 +278,9 @@
   },
   "active": "3ec528ef510e3c5b",
   "lastOpenFiles": [
+    "Resources/CNC Machining/1 - Feeds and Speeds.md",
     "Resources/CNC Machining/0 - CNC Machining.md",
-    "Resources/CNC Machining/1 - Choosing The Right Bit.md",
+    "Resources/CNC Machining/2 - Choosing The Right Bit.md",
     "Resources/0 - Resources.md",
     "Resources/CNC Machining",
     "Resources/Useful Links.md",
@@ -323,7 +324,6 @@
     "_site/FAQ.md",
     "_site/Untitled.md",
     "_site/Projects/Untitled.md",
-    "_site/Projects/Projects.md",
     "_site/Untitled.canvas"
   ]
 }
