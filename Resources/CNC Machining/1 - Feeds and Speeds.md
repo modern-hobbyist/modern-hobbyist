@@ -1,7 +1,7 @@
 ---
 title: Feeds and Speeds
 layout: home
-nav_order: "2"
+nav_order: "0"
 parent: CNC Machining
 ---
 
