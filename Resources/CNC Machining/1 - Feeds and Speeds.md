@@ -1,3 +1,11 @@
+---
+title: Feeds and Speeds
+layout: home
+nav_order: "2"
+parent: CNC Machining
+---
+
+
 <img src="img/Pasted image 20250601111306.png" width="500px" />
 
 ---
