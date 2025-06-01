@@ -22,5 +22,3 @@ A collection of random tools, applications and resources without any real
 	- [Discord](https://discord.com/invite/qmk)
 	- [GitHub](https://github.com/qmk/qmk_firmware)
 	- [Reddit](https://www.reddit.com/r/olkb/)
-
-----
