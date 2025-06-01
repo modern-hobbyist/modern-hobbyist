@@ -4,8 +4,6 @@ layout: home
 nav_order: "3"
 parent: Resources
 ---
-# Choosing the right bit
-
 # Feeds and Speeds
 <img src="img/Pasted image 20250601111306.png" width="500px" />
 
