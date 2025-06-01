@@ -277,8 +277,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e482fd8e64ed972e",
+  "active": "7cb2194fe6c89b2c",
   "lastOpenFiles": [
+    "Resources/img",
+    "Resources/img/Pasted image 20250601111306.png",
     "Planning/Keyboard - Mk. 3/Notes.md",
     "Resources/1 - CNC Machining.md",
     "Planning/Keyboard - Mk. 3/screenRecording-000175@2x.png",
@@ -310,7 +312,6 @@
     "Projects/0001 - DIY Keyboard.md",
     "Projects/2 - Split Keyboard - Mk. 1/Untitled.md",
     "Projects/0002 - Split Keyboard - Mk. 1",
-    "img/heimdall-mk-1/thumbnail-v1.png",
     "img/heimdall-mk-1",
     "README.md",
     "FAQ.md",
@@ -324,7 +325,6 @@
     "_site/Untitled.md",
     "_site/Projects/Untitled.md",
     "_site/Projects/Projects.md",
-    "_site/Projects/Split Keyboard - Mk. I.md",
     "_site/Untitled.canvas"
   ]
 }
