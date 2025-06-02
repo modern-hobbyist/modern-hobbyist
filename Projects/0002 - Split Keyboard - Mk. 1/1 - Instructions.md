@@ -83,6 +83,23 @@ If you find yourself needing to customize the displays, macros, activity timeout
 
 You can also reach out on my [Discord](https://discord.gg/68WXGsjqJp), though I likely won't be much help to you, as I barely scraped this together.
 
+### Updating LCD Layer Images
+To summarize the steps to update the layer images for the LCDs:
+1. Update the Photoshop file for the layer you want to update (in `qmk_userspace/layouts`
+2. Export Photoshop file as PNG
+3. 
+
+In the keymap.c file in my QMK Userspace, I include a few different files for each of the keymap layers I use. For now, I only use 2 layers, but with a split keyboard that comes out to 4 image files that need drawn to the LCDs. The current files are included at the top of `keymap.c` and are as follows:
+```
+#include "./graphics/left-base-layout.qgf.h"
+#include "./graphics/right-base-layout.qgf.h"
+#include "./graphics/left-1-layout.qgf.h"
+#include "./graphics/right-1-layout.qgf.h"
+```
+
+If you want to replace the images with your own custom layout, there are some Photoshop files in the `qmk_userspace/layouts` directory that you can edit. I found it easiest to edit the keymap in Photoshop or another editor of your choice to set the text for each key on each layer, then export it as a PNG.
+
+
 # Resources
 ## Absolute TOP resources:
 - [Keyboard Layout Editor](https://www.keyboard-layout-editor.com/)
