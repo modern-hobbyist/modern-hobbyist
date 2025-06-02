@@ -102,7 +102,19 @@ In the keymap.c file in my QMK Userspace, I include a few different files for ea
 
 If you want to replace the images with your own custom layout, there are some Photoshop files in the `qmk_userspace/layouts` directory that you can edit. I found it easiest to edit the keymap in Photoshop or another editor of your choice to set the text for each key on each layer, then export it as a PNG.
 
-Once you have updated the Photoshop files to have the proper text for each key in the layer you're working on and
+Once you have updated the Photoshop files to have the proper text for each key in the layer you're working on and exported them as PNG's, move them to the `qmk_userspace/layouts` directory (proper file management is important!) and open up a `terminal`.
+
+In your terminal, navigate to that `qmk_userspace/layouts` directory and run the following command to convert the PNG to a QGF format (results in a .c and a .h file).
+
+```
+qmk painter-convert-graphics -i base/left-base-layout.png -o output -f pal4
+```
+
+Replace the input (in this case `base/left-base-layout.png`) with the PNG you created earlier, and replace the output (in this case the `output` directory inside `qmk_userspace/layouts`) with the output directory you want to use. Or keep it the same as me and simplify your life.
+
+The above command will convert the input file to a `.c` and `.h` file with the same name as the input PNG and move it to the output file you specified. 
+
+From there, you can import the 
 # Resources
 ## Absolute TOP resources:
 - [Keyboard Layout Editor](https://www.keyboard-layout-editor.com/)
