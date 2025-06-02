@@ -122,7 +122,7 @@ From there, you can import the .h file in your keymap and render it as you pleas
 **Couple Notes:**
 1. Try not to force the screen to re-render too much, the MCU isn't very powerful and you'll bog down your keyboard to the point where it's not usable.
 	1.  To help with this, I only update the entire image when I hold down a specific key, NOT every time I change layers.
-2. Here is a link to the Quantum Painter docs: https://docs.qmk.fm/quantum_painter#quantum-painter
+2. Here is a link to the Quantum Painter docs: [https://docs.qmk.fm/quantum_painter#quantum-painter](https://docs.qmk.fm/quantum_painter#quantum-painter)
 
 # Resources
 ## Absolute TOP resources:
