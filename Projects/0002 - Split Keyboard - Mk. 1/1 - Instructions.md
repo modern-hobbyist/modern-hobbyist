@@ -12,8 +12,8 @@ parent: Split Keyboard - Mk. 1
 <img src="../../img/hermod-mk-1/thumbnail-5.png" alt="hermod-thumbnail"/>
 This is my very first split keyboard build ever, and while it's far from perfect, it was an amazing learning experience. 
 
->**Disclaimer:**  
-This DIY split keyboard PCB was designed for personal use and is shared as-is. While it works well for me, it's not a professionally validated design—there ~~may~~will be be imperfections or quirks. If you decide to build it, please do so at your own risk. Double-check everything, and make modifications as needed. Happy building!
+<span class="label label-yellow">Disclaimer:</span>
+>This DIY split keyboard PCB was designed for personal use and is shared as-is. While it works well for me, it's not a professionally validated design—there ~~may~~will be be imperfections or quirks. If you decide to build it, please do so at your own risk. Double-check everything, and make modifications as needed. Happy building!
 
 # Requirements
 To complete this build, you'll need the following:
