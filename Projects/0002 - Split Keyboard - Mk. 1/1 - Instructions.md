@@ -84,6 +84,7 @@ If you find yourself needing to customize the displays, macros, activity timeout
 You can also reach out on my [Discord](https://discord.gg/68WXGsjqJp), though I likely won't be much help to you, as I barely scraped this together.
 
 ### Updating LCD Layer Images
+
 To summarize the steps to update the layer images for the LCDs:
 
 1. Update the Photoshop file for the layer you want to update (in `qmk_userspace/layouts`
