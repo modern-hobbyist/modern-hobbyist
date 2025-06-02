@@ -112,6 +112,8 @@ qmk painter-convert-graphics -i base/left-base-layout.png -o output -f pal4
 
 Replace the input (in this case `base/left-base-layout.png`) with the PNG you created earlier, and replace the output (in this case the `output` directory inside `qmk_userspace/layouts`) with the output directory you want to use. Or keep it the same as me and simplify your life.
 
+`pal4` is the color format, in this case a 4-color palette.
+
 The above command will convert the input file to a `.c` and `.h` file with the same name as the input PNG and move it to the output file you specified. 
 
 From there, you can import the .h file in your keymap and render it as you please.
@@ -119,7 +121,7 @@ From there, you can import the .h file in your keymap and render it as you pleas
 **Couple Notes:**
 1. Try not to force the screen to re-render too much, the MCU isn't very powerful and you'll bog down your keyboard to the point where it's not usable.
 	1.  To help with this, I only update the entire image when I hold down a specific key, NOT every time I change layers.
-2. 
+2. Here is a link to the Quantum Painter docs
 # Resources
 ## Absolute TOP resources:
 - [Keyboard Layout Editor](https://www.keyboard-layout-editor.com/)
