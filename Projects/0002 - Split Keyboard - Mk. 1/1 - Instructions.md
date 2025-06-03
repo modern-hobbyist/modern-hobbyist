@@ -77,8 +77,6 @@ There isn't really any information regarding the PCB Assembly process, other tha
 	- I should have gotten some practice in by doing the LED caps or switch diodes--something cheap and simple.
 3. Order assembly from PCBWay using the Project link above.
 
-
-
 ### Assembly
 
 <span class="label label-yellow">TODO</span>
