@@ -79,7 +79,10 @@ There isn't really any information regarding the PCB Assembly process, other tha
 
 ### Assembly
 
-<span class="label label-yellow">TODO</span>
+1. 3d Prints
+   Start by printing out all the parts:
+	1. 
+2. 
 
 ### Firmware
 
