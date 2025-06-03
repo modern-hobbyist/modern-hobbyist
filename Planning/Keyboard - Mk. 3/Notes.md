@@ -31,6 +31,12 @@ Couple things to note about doing this:
 - The gasket mount is basically a method of suspending the plate on gaskets or foam pads so that it has some bounce to it as the user is typing.
 - The Megalodon macropad I have is gasket mounted so that could be a good resource
 
+# Keycaps
+If I go with the KS-33 switches, I'd like to get some low profile keycaps as well, and the Tai-hao switches (same the voyager uses) have a cherry version as well. They feel really nice and sit a little lower than the keebio ones I used on Mk. I:
+[https://shop.tai-hao.com/products](https://shop.tai-hao.com/products)
+
+Otherwise, for the Normal profile switches (Cherry or Gateron normal), go with XDA profile since they are uniform and I can put any keycap on any row.
+
 
 ## Plate to PCB
 For normal profile switches, the distance from the bottom of the plate to the top of the PCB is 5mm
