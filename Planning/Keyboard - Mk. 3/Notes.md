@@ -32,3 +32,4 @@ Couple things to note about doing this:
 - The Megalodon macropad I have is gasket mounted so that could be a good resource
 
 
+## Choc and Cherry/Gateron Normal
