@@ -87,8 +87,11 @@ There isn't really any information regarding the PCB Assembly process, other tha
 	- 4 perimeter walls
 2. Poron Foam
    While this step is not strictly necessary, I found it did help a bit with the overall sound of the Keyboard. 
-	- There is a model in the Printables link for 
-3. 
+	- There is a model in the Printables link for 3mm foam to sit between the bottom of the case and the PCB. 
+	- You can either use this model to laser cut the poron foam listed in the BOM, or print out the model as a template and use it to cut the poron by hand
+3. Heat-set Inserts
+   
+4. Assemble Case
 
 ### Firmware
 
