@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
+                "file": "Planning/Hermod Mk. 2/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Instructions"
+              "title": "Overview"
             }
           },
           {
@@ -278,8 +278,10 @@
   },
   "active": "3ec528ef510e3c5b",
   "lastOpenFiles": [
-    "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6750.jpg",
+    "Planning/Hermod Mk. 2",
     "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
+    "Planning/Hermod Mk. 2/Overview.md",
+    "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6750.jpg",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6752.jpg",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6751.jpg",
     "Projects/0002 - Split Keyboard - Mk. 1/img",
@@ -322,7 +324,6 @@
     "_site/README.md",
     "_site/README.md.md",
     "_site/FAQ.md",
-    "_site/Untitled.md",
     "_site/Untitled.canvas"
   ]
 }
