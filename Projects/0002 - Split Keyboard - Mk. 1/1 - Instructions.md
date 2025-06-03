@@ -69,7 +69,7 @@ There isn't really any information regarding the PCB Assembly process, other tha
 	- Will allow you to see quickly see what each component on the PCB is, which I found invaluable during my solder process.
 2. Practice on a test PCB or *at least* don't start with the MCU
 	- I started with the MCU, which has the tiniest pins of all the components, and that was a mistake.
-3. Order assembly from PCBWay 
+3. Order assembly from PCBWay using the Project link above.
 ### Assembly
 
 <span class="label label-yellow">TODO</span>
