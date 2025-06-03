@@ -62,6 +62,7 @@ I have included a link to the 3D models on Printables for you to download and pr
 | Poron Foam - 3mm                | 50X15X0.3CM                                                    | 1   | 1         | $5.69      | $5.69              | [Link](https://www.aliexpress.us/item/3256804497716681.html?spm=a2g0o.order_list.order_list_main.112.263f18022PcLB8&gatewayAdapt=glo2usa) |
 | M3x5mm Standoff                 | M3x5mm                                                         | 8   | 25        | $8.39      | $2.68              | [Link](https://a.co/d/9zuHsuM)                                                                                                            |
 | M3x10mm Hex Head bolts          | M3x5mm                                                         | 8   | 1         | $0.12      | $0.96              | [Link](https://boltdepot.com/Product-Details?product=13636)                                                                               |
+| M3 Nuts                         | M3                                                             | 8   |           |            |                    |                                                                                                                                           |
 
 # Building
 
@@ -77,7 +78,10 @@ There isn't really any information regarding the PCB Assembly process, other tha
 	- I should have gotten some practice in by doing the LED caps or switch diodes--something cheap and simple.
 3. Order assembly from PCBWay using the Project link above.
 4. Whether you order from PCBWay or solder yourself, you'll likely still need to install the LCD's manually
-	- 
+	- Start by installing the 5mm standoffs to the display with the M3x10mm bolts
+	- Install the display onto the PCB. You may need to "thread" the bolts through the PCB bolt holes, depending on the manufacturers tolerances.
+	- Thread the M3 nuts 
+	- Solder the LCD into place
 
 ### Assembly
 
