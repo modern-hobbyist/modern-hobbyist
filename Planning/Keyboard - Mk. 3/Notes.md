@@ -40,4 +40,6 @@ Otherwise, for the Normal profile switches (Cherry or Gateron normal), go with X
 
 ## Plate to PCB
 For normal profile switches, the distance from the bottom of the plate to the top of the PCB is 5mm
-For the 
+For the KS-33, it appears the plate distance is 2.5mm
+>Make sure to make the 3d model parametric based on the Plate-to-PCB distance so I can design a single model for both switch types
+
