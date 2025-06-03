@@ -36,7 +36,7 @@ If I go with the KS-33 switches, I'd like to get some low profile keycaps as wel
 [https://shop.tai-hao.com/products](https://shop.tai-hao.com/products)
 
 Otherwise, for the Normal profile switches (Cherry or Gateron normal), go with XDA profile since they are uniform and I can put any keycap on any row.
-
+[https://a.co/d/fiPymVV](https://a.co/d/fiPymVV)
 
 ## Plate to PCB
 For normal profile switches, the distance from the bottom of the plate to the top of the PCB is 5mm
