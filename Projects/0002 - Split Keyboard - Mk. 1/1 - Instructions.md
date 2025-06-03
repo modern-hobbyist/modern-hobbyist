@@ -80,8 +80,8 @@ There isn't really any information regarding the PCB Assembly process, other tha
 4. Whether you order from PCBWay or solder yourself, you'll likely still need to install the LCD's manually
 	- Start by installing the 5mm standoffs to the display with the M3x10mm bolts
 	  <p align="center">
-	  <img src="img/IMG_6750.jpg" width="200px" />
-</p>
+		  <img src="img/IMG_6750.jpg" width="200px" />
+		</p>
 	  
 	- Install the display onto the PCB. You may need to "thread" the bolts through the PCB bolt holes, depending on the manufacturers tolerances.
 	  <p align="center">
