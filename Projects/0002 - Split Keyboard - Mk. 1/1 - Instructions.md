@@ -76,6 +76,8 @@ There isn't really any information regarding the PCB Assembly process, other tha
 	- I started with the MCU (bad), which has the tiniest pins of all the components, and that was a mistake.
 	- I should have gotten some practice in by doing the LED caps or switch diodes--something cheap and simple.
 3. Order assembly from PCBWay using the Project link above.
+4. Whether you order from PCBWay or solder yourself, you'll likely still need to install the LCD's manually
+	- 
 
 ### Assembly
 
@@ -90,8 +92,11 @@ There isn't really any information regarding the PCB Assembly process, other tha
 	- There is a model in the Printables link for 3mm foam to sit between the bottom of the case and the PCB. 
 	- You can either use this model to laser cut the poron foam listed in the BOM, or print out the model as a template and use it to cut the poron by hand
 3. Heat-set Inserts
-   
+	- To mount the top half of the case to the bottom, you'll need to install 9 heat set inserts into the bottom half of the case
+	- This is easiest to do by heating the insert with a soldering iron and slowly pressing it into place
 4. Assemble Case
+	- Mount the top half of the case to the base with the M3x8mm bolts
+5. Install switches!
 
 ### Firmware
 
