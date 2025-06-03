@@ -32,4 +32,6 @@ Couple things to note about doing this:
 - The Megalodon macropad I have is gasket mounted so that could be a good resource
 
 
-## Choc and Cherry/Gateron Normal
+## Plate to PCB
+For normal profile switches, the distance from the bottom of the plate to the top of the PCB is 5mm
+For the 
