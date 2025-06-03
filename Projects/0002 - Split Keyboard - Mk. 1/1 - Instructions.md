@@ -38,7 +38,10 @@ I have included a link to the 3D models on Printables for you to download and pr
 
 <span class="label">Use this link to get $5 off your first order!</span> - https://pcbway.com/g/F41R62
 
-- [PCBWay Project](https://www.pcbway.com/project/shareproject/Modular_Split_Mechanical_Keyboard_7a8f16f0.html) - You can order it directly from here, and even have it assembled.
+- [PCBWay Project](https://www.pcbway.com/project/shareproject/Modular_Split_Mechanical_Keyboard_7a8f16f0.html) - You can order it directly from here, and even have it assembled. PCBWay requires each board to be a separate project, so the three are separate:
+	- [Right](https://www.pcbway.com/project/shareproject/Modular_Split_Mechanical_Keyboard_7a8f16f0.html)
+	- [Left](https://www.pcbway.com/project/shareproject/Module_Split_Mechanical_Keyboard_Left_Half_f05e1cac.html)
+	- [Numpad](https://www.pcbway.com/project/shareproject/Modular_Split_Mechanical_Keyboard_Numpad_5ea6c1e4.html)
 - [KiCAD Project](https://github.com/modern-hobbyist/aesir/tree/main/hermod) - In case you need to reference the PCB or Schematic during the soldering process.
 - [PCB BOM](https://www.digikey.com/en/mylists/list/8VSL0OSHL7) - If anything is missing from this list please contact me on Discord so I can update it!
 
@@ -68,8 +71,12 @@ There isn't really any information regarding the PCB Assembly process, other tha
 1. Install the [Interactive HTML BOM](https://github.com/openscopeproject/InteractiveHtmlBom) plugin in KiCad
 	- Will allow you to see quickly see what each component on the PCB is, which I found invaluable during my solder process.
 2. Practice on a test PCB or *at least* don't start with the MCU
-	- I started with the MCU, which has the tiniest pins of all the components, and that was a mistake.
+	- I started with the MCU (bad), which has the tiniest pins of all the components, and that was a mistake.
+	- I should have gotten some practice in by doing the LED caps or switch diodes--something cheap and simple.
 3. Order assembly from PCBWay using the Project link above.
+
+
+
 ### Assembly
 
 <span class="label label-yellow">TODO</span>
