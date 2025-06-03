@@ -62,7 +62,14 @@ I have included a link to the 3D models on Printables for you to download and pr
 
 ### PCB Assembly
 
-<span class="label label-yellow">TODO</span>
+<span class="label label-yellow">Work in Progress</span>
+There isn't really any information regarding the PCB Assembly process, other than to provide a few tips that helped me along the way. I am far from an expert when it comes to SMD soldering, as evidenced by my sub-par soldering job in the video, but I did recently learn how to do it, so I can at least give beginner advice.
+
+1. Install the [Interactive HTML BOM](https://github.com/openscopeproject/InteractiveHtmlBom) plugin in KiCad
+	- Will allow you to see quickly see what each component on the PCB is, which I found invaluable during my solder process.
+2. Practice on a test PCB or *at least* don't start with the MCU
+	- I started with the MCU, which has the tiniest pins of all the components, and that was a mistake.
+3. Order assembly from PCBWay 
 ### Assembly
 
 <span class="label label-yellow">TODO</span>
