@@ -85,7 +85,10 @@ There isn't really any information regarding the PCB Assembly process, other tha
 	- 0.15mm Layer Height
 	- 50% infill
 	- 4 perimeter walls
-2. 
+2. Poron Foam
+   While this step is not strictly necessary, I found it did help a bit with the overall sound of the Keyboard. 
+	- There is a model in the Printables link for 
+3. 
 
 ### Firmware
 
