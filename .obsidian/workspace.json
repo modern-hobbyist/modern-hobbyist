@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/CNC Bitsetter and Tool Changes.md",
+                "file": "Planning/Hermod Mk. 2/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CNC Bitsetter and Tool Changes"
+              "title": "Overview"
             }
           },
           {
@@ -278,8 +278,11 @@
   },
   "active": "3ec528ef510e3c5b",
   "lastOpenFiles": [
-    "Planning/Laser Cut PCB Stencils/Notes.md",
+    "screenRecording-000186.png",
+    "Planning/Hermod Mk. 2/img/screenRecording-000185.png",
+    "Planning/Hermod Mk. 2/img",
     "Notes/CNC Bitsetter and Tool Changes.md",
+    "Planning/Laser Cut PCB Stencils/Notes.md",
     "Notes",
     "Planning/Keyboard - Mk. 3/Notes.md",
     "Planning/Hermod Mk. 2/Overview.md",
@@ -305,7 +308,6 @@
     "Planning/Keyboard - Mk. 3/screenRecording-000166@2x.png",
     "Planning/Keyboard - Mk. 3/screenRecording-000167@2x.png",
     "screenRecording-000167@2x 1.png",
-    "screenRecording-000167@2x.png",
     "Planning/Drum Set/Sound Reactive LEDs/Planning.md",
     "Planning/Drum Set/Refinishing",
     "Planning/Drum Set/Sound Reactive LEDs",
@@ -313,7 +315,6 @@
     "Planning/Drum Set",
     "index.md",
     "favicon.ico",
-    "assets/images/favicon.ico",
     "0002..md",
     "Projects/0001 - DIY Keyboard.md",
     "Projects/2 - Split Keyboard - Mk. 1/Untitled.md",
@@ -323,7 +324,6 @@
     "Projects/Diagram.md",
     "_templates/main.md",
     "_site/README.md",
-    "_site/README.md.md",
     "_site/Untitled.canvas"
   ]
 }
