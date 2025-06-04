@@ -31,6 +31,8 @@
 # Names
 - Dagr - literally means "day"
 - Vidar - Silent vengeance
+- Hávamál - Collection of proverbs and wisdom spoken by Odin
+- Skald - Prophet or storyteller
 - 
 
 # Decisions
