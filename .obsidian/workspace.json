@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Laser Cut PCB Stencils/Notes.md",
+                "file": "Notes/CNC Bitsetter and Tool Changes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "CNC Bitsetter and Tool Changes"
             }
           },
           {
@@ -278,8 +278,10 @@
   },
   "active": "3ec528ef510e3c5b",
   "lastOpenFiles": [
-    "Planning/Keyboard - Mk. 3/Notes.md",
     "Planning/Laser Cut PCB Stencils/Notes.md",
+    "Notes/CNC Bitsetter and Tool Changes.md",
+    "Notes",
+    "Planning/Keyboard - Mk. 3/Notes.md",
     "Planning/Hermod Mk. 2/Overview.md",
     "Planning/Hermod Mk. 2",
     "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
@@ -312,7 +314,6 @@
     "index.md",
     "favicon.ico",
     "assets/images/favicon.ico",
-    "assets/images",
     "0002..md",
     "Projects/0001 - DIY Keyboard.md",
     "Projects/2 - Split Keyboard - Mk. 1/Untitled.md",
@@ -323,7 +324,6 @@
     "_templates/main.md",
     "_site/README.md",
     "_site/README.md.md",
-    "_site/FAQ.md",
     "_site/Untitled.canvas"
   ]
 }
