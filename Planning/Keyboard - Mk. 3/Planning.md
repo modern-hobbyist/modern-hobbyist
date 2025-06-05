@@ -33,7 +33,7 @@
 - Vidar - Silent vengeance
 - Hávamál - Collection of proverbs and wisdom spoken by Odin
 - Skald - Prophet or storyteller
-- Mist - One of the Valkyrie's names
+- **Mist - One of the Valkyrie's names**
 
 # Decisions
 - Switches: Going to design for KS-33 AND MX combined
