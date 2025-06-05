@@ -36,6 +36,7 @@
 - **Mist - One of the Valkyrie's names**
 
 # Decisions
+- MCU: Was going to do [STM32G474CETx](https://www.st.com/resource/en/datasheet/stm32g474cb.pdf), but it didn't have enough pins (with the LCD) so going to upgrade to the [STM32G474RETx](https://www.st.com/resource/en/datasheet/stm32g474cb.pdf)
 - Switches: Going to design for KS-33 AND MX combined
 	- Implemented by overlapping the footprints. It will cause some DRC errors, but it should be functional even with an LED. Pretty much requires a plate for stability though since the holes will be overlapping and not the proper size all the time.
 - Keycaps: 
