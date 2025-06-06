@@ -4,7 +4,6 @@ layout: home
 nav_order: "3"
 parent: Split Keyboard - Mk. 1
 ---
-
 # Left
 ```
 [{x:4.5,a:7},"\n\n\n\n5"],
