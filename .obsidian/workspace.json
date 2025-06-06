@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/Keyboard Building/4. Choosing Hardware.md",
+                "file": "Projects/0002 - Split Keyboard - Mk. 1/2 - KLE Configs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Choosing Hardware"
+              "title": "2 - KLE Configs"
             }
           },
           {
@@ -278,8 +278,14 @@
   },
   "active": "3ec528ef510e3c5b",
   "lastOpenFiles": [
-    "Topics/Keyboard Building/2. PCB Design.md",
+    "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
+    "Projects/0002 - Split Keyboard - Mk. 1/2 - KLE Configs.md",
+    "Planning/Keyboard - Mk. 3/Notes.md",
+    "Projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-left.json",
+    "Projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-numpad.json",
+    "Projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-right.json",
     "Topics/Keyboard Building/4. Choosing Hardware.md",
+    "Topics/Keyboard Building/2. PCB Design.md",
     "Topics/Keyboard Building/1. Layout.md",
     "Topics/Keyboard Building/3. Firmware.md",
     "Topics/Keyboard Building/0. Keyboard Building.md",
@@ -288,7 +294,6 @@
     "Topics/Topics.md",
     "Topics/CNC Machining/0 - CNC Machining.md",
     "Topics/CNC Machining/1 - Feeds and Speeds.md",
-    "Planning/Keyboard - Mk. 3/Notes.md",
     "Topics",
     "Planning/Keyboard - Mk. 3/Planning.md",
     "Planning/Hermod Mk. 2/Overview.md",
@@ -299,7 +304,6 @@
     "Planning/Laser Cut PCB Stencils/Notes.md",
     "Notes",
     "Planning/Hermod Mk. 2",
-    "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6750.jpg",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6752.jpg",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6751.jpg",
@@ -309,21 +313,17 @@
     "Projects/0000 - Projects.md",
     "Topics/CNC Machining",
     "Resources/Useful Links.md",
-    "Topics/CNC Machining/img",
     "Topics/CNC Machining/img/Pasted image 20250601111306.png",
     "Planning/Keyboard - Mk. 3/screenRecording-000175@2x.png",
     "Planning/Keyboard - Mk. 3/screenRecording-000174@2x.png",
     "Planning/Keyboard - Mk. 3/screenRecording-000166@2x.png",
     "Planning/Keyboard - Mk. 3/screenRecording-000167@2x.png",
     "Planning/Drum Set/Sound Reactive LEDs/Planning.md",
-    "Planning/Drum Set/Refinishing",
-    "Planning/Drum Set/Sound Reactive LEDs",
     "Planning/Drum Set/Untitled.md",
     "index.md",
     "0002..md",
     "Projects/0001 - DIY Keyboard.md",
     "Projects/2 - Split Keyboard - Mk. 1/Untitled.md",
-    "README.md",
     "_site/Untitled.canvas"
   ]
 }
