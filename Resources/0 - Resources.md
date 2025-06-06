@@ -1,7 +1,7 @@
 ---
 title: Resources
 layout: home
-nav_order: "2"
+nav_order: "3"
 ---
 # Resources
 A collection of random tools, applications and resources without any real 

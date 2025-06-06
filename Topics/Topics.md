@@ -1,7 +1,7 @@
 ---
 title: Topics
 layout: home
-nav_order: "0"
+nav_order: "2"
 ---
 # Topics
 This is a collection of topics I've needed to learn about to implement my projects. 
