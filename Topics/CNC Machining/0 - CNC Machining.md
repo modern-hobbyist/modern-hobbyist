@@ -2,7 +2,7 @@
 title: CNC Machining
 layout: home
 nav_order: "3"
-parent: Resources
+parent: Topics
 ---
 # CNC Machining
 
