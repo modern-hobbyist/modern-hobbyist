@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/0002 - Split Keyboard - Mk. 1/2 - KLE Configs.md",
+                "file": "Topics/Keyboard Building/0. Keyboard Building.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - KLE Configs"
+              "title": "0. Keyboard Building"
             }
           },
           {
@@ -278,8 +278,8 @@
   },
   "active": "3ec528ef510e3c5b",
   "lastOpenFiles": [
-    "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
     "Projects/0002 - Split Keyboard - Mk. 1/2 - KLE Configs.md",
+    "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
     "Planning/Keyboard - Mk. 3/Notes.md",
     "Projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-left.json",
     "Projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-numpad.json",
