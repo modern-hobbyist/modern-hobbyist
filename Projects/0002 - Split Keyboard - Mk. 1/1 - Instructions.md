@@ -45,6 +45,7 @@ I have included a link to the 3D models on Printables for you to download and pr
 - [KiCAD Project](https://github.com/modern-hobbyist/aesir/tree/main/hermod) - In case you need to reference the PCB or Schematic during the soldering process.
 - [PCB BOM](https://www.digikey.com/en/mylists/list/8VSL0OSHL7) - If anything is missing from this list please contact me on Discord so I can update it!
 
+> Note: The PCB Projects do not include the LCD Displays, the Magnetic Pogo Connectors or the Hot Swap sockets. I found it much cheaper and easier to do that myself so they aren't included in the PCB BOM or the centroid file (the pick and place file)
 # Hardware BOM
 
 | Item                            | Description                                                    | Qty | Qty/ Pack | Unit Price | Extended Price USD | Link                                                                                                                                      |
