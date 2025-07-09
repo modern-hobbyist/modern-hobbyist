@@ -40,5 +40,7 @@
 - Switches: Going to design for KS-33 AND MX combined
 	- Implemented by overlapping the footprints. It will cause some DRC errors, but it should be functional even with an LED. Pretty much requires a plate for stability though since the holes will be overlapping and not the proper size all the time.
 - Keycaps: 
+	- Need something with a little bit of flexibility for the thumbkeys anyways. 
+	- It's pretty much standard ANSI 105, but d
 - Case:
 - Layout: 
