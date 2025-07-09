@@ -49,5 +49,11 @@ Based on AI03's Brutal V2 design, he's got:
 - Standoffs between plate and PCB -- Screws from either side
 - Looks like 2 separate layers of foam beneath the PCB
 - Weights screwed into bottom aluminum case for ballast
+
+Another design by AI03 - [Polaris v2](https://ai03.com/projects/polaris-v2/)
+- Gasket mounted plate
+- 6.5º inclide
+- 17.4mm tall front edge
+- 1.2kg weight
 - 
 
