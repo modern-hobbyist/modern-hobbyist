@@ -25,14 +25,17 @@
             "id": "e684e280afdc3f37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Planning/Keyboard - Mk. 3/Manufacturing.md",
-                "mode": "source",
-                "source": false
+                "file": "Planning/Keyboard - Mk. 3/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Manufacturing"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {
@@ -293,8 +296,9 @@
   },
   "active": "e684e280afdc3f37",
   "lastOpenFiles": [
-    "Planning/Keyboard - Mk. 3/Planning.md",
     "Planning/Keyboard - Mk. 3/Manufacturing.md",
+    "Planning/Keyboard - Mk. 3/Untitled.canvas",
+    "Planning/Keyboard - Mk. 3/Planning.md",
     "Planning/Untitled",
     "Planning/Keyboard - Mk. 3/Notes.md",
     "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
@@ -338,7 +342,6 @@
     "Planning/Drum Set/Untitled.md",
     "index.md",
     "0002..md",
-    "Projects/0001 - DIY Keyboard.md",
     "_site/Untitled.canvas"
   ]
 }
