@@ -19,12 +19,12 @@ In this example, these are 2 different `hotswap` footprints that I've manually c
 >**Note:** These switches, while now technically supported by the PCB, will not be hot swappable for 2 reasons:
 >- The HotSwap sockets can't **both** be installed at once, the maker will need to chose
 >- The Case/Plate design will be different. The KS-33's, being low-profile, will have a different distance between plate and PCB than the normal profile MX and Gateron Switches
+>- So, you'll be able to swap between MX and Gateron normal profile switches, but not between MX/Normal and KS-33
 
 Couple things to note about doing this:
-- Will require a plate to keep the switch steady since you're overlapping several of the post holes. 
+- Will require a plate to keep the switch steady since I'm overlapping several of the post holes. 
 - Might get some DRC errors, need to manually override them.
 - Manu might not be able to make them depending on how you overlap switches
-- Some switch types are NOT compatible, the pads and holes might overlap too much.
 
 ## Gasket Mount
 - Should have about 1mm of space between the PCB and the plate sides
