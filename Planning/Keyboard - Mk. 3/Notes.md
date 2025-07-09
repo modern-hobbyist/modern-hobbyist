@@ -50,6 +50,9 @@ Based on AI03's Brutal V2 design, he's got:
 - Looks like 2 separate layers of foam beneath the PCB
 - Weights screwed into bottom aluminum case for ballast
 
+Seems he uses `Hongtu` as his manu
+
+
 Another design by AI03 - [Polaris v2](https://ai03.com/projects/polaris-v2/)
 - Gasket mounted plate
 - 6.5º inclide
