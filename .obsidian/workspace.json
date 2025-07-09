@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Keyboard - Mk. 3/Planning.md",
+                "file": "Planning/Keyboard - Mk. 3/Manufacturing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planning"
+              "title": "Manufacturing"
             }
           },
           {
@@ -293,6 +293,9 @@
   },
   "active": "e684e280afdc3f37",
   "lastOpenFiles": [
+    "Planning/Keyboard - Mk. 3/Planning.md",
+    "Planning/Keyboard - Mk. 3/Manufacturing.md",
+    "Planning/Untitled",
     "Planning/Keyboard - Mk. 3/Notes.md",
     "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
     "Topics/Keyboard Building/1. Layout.md",
@@ -310,7 +313,6 @@
     "Topics/CNC Machining/0 - CNC Machining.md",
     "Topics/CNC Machining/1 - Feeds and Speeds.md",
     "Topics",
-    "Planning/Keyboard - Mk. 3/Planning.md",
     "Planning/Hermod Mk. 2/Overview.md",
     "screenRecording-000186.png",
     "Planning/Hermod Mk. 2/img/screenRecording-000185.png",
@@ -326,7 +328,6 @@
     "Projects/0002 - Split Keyboard - Mk. 1/0 - Split Keyboard - Mk. 1.md",
     "Topics/CNC Machining/2 - Choosing The Right Bit.md",
     "Projects/0000 - Projects.md",
-    "Topics/CNC Machining",
     "Resources/Useful Links.md",
     "Topics/CNC Machining/img/Pasted image 20250601111306.png",
     "Planning/Keyboard - Mk. 3/screenRecording-000175@2x.png",
@@ -338,7 +339,6 @@
     "index.md",
     "0002..md",
     "Projects/0001 - DIY Keyboard.md",
-    "Projects/2 - Split Keyboard - Mk. 1/Untitled.md",
     "_site/Untitled.canvas"
   ]
 }

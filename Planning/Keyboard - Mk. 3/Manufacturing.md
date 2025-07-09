@@ -1,0 +1,1 @@
+OEM - OEM stands for ==Original Equipment Manufacturer==. It refers to a company that produces components or products that are then incorporated into another company's finished product, often under the branding of that second company. In essence, OEMs are suppliers to other manufacturers.
