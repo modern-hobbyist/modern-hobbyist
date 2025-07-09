@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/Message to Brian.md",
+                "file": "Planning/Keyboard - Mk. 3/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Message to Brian"
+              "title": "Notes"
             }
           },
           {
@@ -293,8 +293,8 @@
   },
   "active": "e684e280afdc3f37",
   "lastOpenFiles": [
-    "README.md",
     "temp/Message to Brian.md",
+    "README.md",
     "temp",
     "Untitled.md",
     "Planning/Keyboard - Mk. 3/Untitled.canvas",
