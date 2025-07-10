@@ -37,7 +37,9 @@
 - PCB and Plate mounted together with standoffs
 - Top case bolted to bottom case pinching plate on gaskets
 - Optional foam between PCB and Plate
+	- 
 - Optional foam between PCB and bottom case
+	- Cutouts for the hotswap sockets and other protruding components, don't want to compress the foam with them too much
 
 # Names
 - Dagr - literally means "day"
