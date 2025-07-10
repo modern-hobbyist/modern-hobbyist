@@ -61,3 +61,9 @@
 	- It's pretty much standard ANSI 105, but 
 - Case:
 - Layout: 
+
+# Important Dimensions
+- `3.5mm` between Plate and PCB for standard MX and Gateron Switches
+- `1.3mm` between plate and PCB for KS-33 switches
+- `5.5mm` from TOP of plate to TOP of top case. This will effectively hide the switches and expose the keycaps nicely.
+- 
