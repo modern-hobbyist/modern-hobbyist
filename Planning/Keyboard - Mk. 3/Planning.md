@@ -36,6 +36,8 @@
 	- #Todo Add mount holes on PCB and plate
 - PCB and Plate mounted together with standoffs
 - Top case bolted to bottom case pinching plate on gaskets
+- Optional foam between PCB and Plate
+- Optional foam between PCB and bottom case
 
 # Names
 - Dagr - literally means "day"
