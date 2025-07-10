@@ -8,7 +8,7 @@ OEM - OEM stands for ==Original Equipment Manufacturer==. It refers to a compa
 # Case
 - Aluminum Top Case
 - Aluminum Bottom Case
-- Plate (material tbd)
-- Gasket mounted plate
+- **Plate** - Polycarbonate, POM, or FR4
+	- Gasket mounted
 - 
 # Tips
