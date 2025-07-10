@@ -32,6 +32,8 @@
 	- The angle of the daughter board USBC will match the plane of the desk rather than the 6.5º incline of the PCB.
 		- Can be lower to the desk as well.
 	- [Case Design Spec for UDB](https://unified-daughterboard.github.io/#/info-designer-case)
+- Mount points between the Plate and the PCB with standoffs, esp for the MX standard switches.
+	- #Todo Add mount holes on PCB and plate
 
 # Names
 - Dagr - literally means "day"
