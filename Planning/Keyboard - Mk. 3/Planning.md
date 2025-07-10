@@ -34,6 +34,8 @@
 	- [Case Design Spec for UDB](https://unified-daughterboard.github.io/#/info-designer-case)
 - Mount points between the Plate and the PCB with standoffs, esp for the MX standard switches.
 	- #Todo Add mount holes on PCB and plate
+- PCB and Plate mounted together with standoffs
+- Top case bolted to bottom case pinching plate on gaskets
 
 # Names
 - Dagr - literally means "day"
