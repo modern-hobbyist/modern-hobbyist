@@ -27,6 +27,11 @@
 # Design
 - Thinking standard format with a qwerty layout, but instead of spacebar, thumb clusters
 - Arrow keys below palm
+- Decided to switch to a [unified daughter board](https://unified-daughterboard.github.io/#/?id=unified-daughterboard) rather than a USB C directly on the board. 
+	- Allows me to simplify the board itself
+	- The angle of the daughter board USBC will match the plane of the desk rather than the 6.5º incline of the PCB.
+		- Can be lower to the desk as well.
+	- [Case Design Spec for UDB](https://unified-daughterboard.github.io/#/info-designer-case)
 
 # Names
 - Dagr - literally means "day"
@@ -37,6 +42,10 @@
 
 # Decisions
 - MCU: Was going to do [STM32G474CETx](https://www.st.com/resource/en/datasheet/stm32g474cb.pdf), but it didn't have enough pins (with the LCD) so going to upgrade to the [STM32G474RETx](https://www.st.com/resource/en/datasheet/stm32g474cb.pdf)
+- [Unified Daughter Board](https://unified-daughterboard.github.io/#/?id=unified-daughterboard)
+	- Rather than an on-board USB C and ESD protection
+	- Required Molex PICOEZMATE 4 CIRCUIT 300MM cables and connectors though, which are a little tricky to order.
+	- Can order in bulk with custom sizes from [Alibaba manus](https://www.alibaba.com/product-detail/Customized-Molex-EZmate-to-Molex-EZmate_1600697379284.html)
 - Switches: Going to design for KS-33 AND MX combined
 	- Implemented by overlapping the footprints. It will cause some DRC errors, but it should be functional even with an LED. Pretty much requires a plate for stability though since the holes will be overlapping and not the proper size all the time.
 - Keycaps: 
