@@ -43,7 +43,7 @@ For normal profile switches, the distance from the bottom of the plate to the to
 For the KS-33, it appears the plate distance is 2.5mm - 1.2mm plate thickness so `1.3mm`
 >Make sure to make the 3d model parametric based on the Plate-to-PCB distance so I can design a single model for both switch types
 
-## Assembly
+## Assembly Inspiration
 Based on AI03's Brutal V2 design, he's got:
 - Foam between plate and PCB
 - Standoffs between plate and PCB -- Screws from either side
