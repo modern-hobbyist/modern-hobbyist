@@ -22,7 +22,6 @@ MCU: Was going to do [STM32G474CETx](https://www.st.com/resource/en/datasheet/st
 		- Or skip the standoffs entirely and just go with thin foam or nothing
 
 ### Sound Tuning
-- `3.5mm` Poron foam between plate and PCB (Plate Foam)
-	- `2mm` or preferably `1.5mm` foam for KS-33
-- `2mm` Poron just below the PCB for socket noise cancelling (PCB Foam)
-- 
+- `3mm` Poron foam between plate and PCB (Plate Foam)
+	- `1mm` foam for KS-33
+- 2 x `1.5mm` Poron just below the PCB for socket noise cancelling (Case Foam)
