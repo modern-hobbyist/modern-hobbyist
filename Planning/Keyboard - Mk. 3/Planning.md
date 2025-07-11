@@ -60,6 +60,8 @@
 	- Need something with a little bit of flexibility for the thumb keys anyways. 
 	- It's pretty much standard ANSI 105, but 
 - Case:
+- Plate:
+	- Gasket mount with poron gaskets
 - Layout: 
 
 # Important Dimensions
