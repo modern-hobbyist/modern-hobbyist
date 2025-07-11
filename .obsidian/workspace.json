@@ -53,12 +53,14 @@
             "id": "7cbaa82730598005",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Planning/Keyboard - Mk. 3/Drawing 2025-07-10 22.13.01.excalidraw.md"
+                "file": "Planning/Keyboard - Mk. 3/Planning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-10 22.13.01.excalidraw"
+              "icon": "lucide-file",
+              "title": "Planning"
             }
           },
           {
@@ -319,10 +321,10 @@
   },
   "active": "7cbaa82730598005",
   "lastOpenFiles": [
-    "Planning/Keyboard - Mk. 3/Planning.md",
-    "Planning/Keyboard - Mk. 3/Drawing 2025-07-10 22.13.01.excalidraw.md",
     "Planning/Keyboard - Mk. 3/Notes.md",
     "Planning/Keyboard - Mk. 3/Build.md",
+    "Planning/Keyboard - Mk. 3/Drawing 2025-07-10 22.13.01.excalidraw.md",
+    "Planning/Keyboard - Mk. 3/Planning.md",
     "Planning/Keyboard - Mk. 3/Manufacturing.md",
     "temp/Message to Brian.md",
     "README.md",
