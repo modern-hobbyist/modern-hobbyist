@@ -63,6 +63,7 @@
 - Plate:
 	- Gasket mount with poron gaskets
 - Layout: 
+	- Mostly ANSI 105, but the arrow keys 
 
 # Important Dimensions
 - `3.5mm` between Plate and PCB for standard MX and Gateron Switches
