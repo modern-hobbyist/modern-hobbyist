@@ -17,3 +17,4 @@ MCU: Was going to do [STM32G474CETx](https://www.st.com/resource/en/datasheet/st
 	- Designed for M2 screws. Top side would be countersunk into the plate, bottom would not be (under the PCB). 
 	- 3.5mm standoffs for gateron or MX normal profile keycaps
 	- For KS33, it might make more sense to use a 1.3mm shim with a bolt and nut that goes all the way through the plate and PCB.
+		- Or skip the standoffs entirely and just go with thin foam or nothing
