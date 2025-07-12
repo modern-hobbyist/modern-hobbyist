@@ -26,10 +26,9 @@ MCU: Was going to do [STM32G474CETx](https://www.st.com/resource/en/datasheet/st
 ## Gateron Normal/Cherry
 ### Important Dimensions
 - `3.5mm` between Plate and PCB
-- 
+- `1.5mm` plate thickness
 ### Sound Tuning
 - `3mm` Poron foam between plate and PCB (Plate Foam)
-	- `1mm` foam for KS-33
 - 2 x `1.5mm` Poron just below the PCB for socket noise cancelling (Case Foam)
 
 ## KS-33
@@ -38,3 +37,4 @@ MCU: Was going to do [STM32G474CETx](https://www.st.com/resource/en/datasheet/st
 - `1.2mm` Plate Thickness
 ### Sound Tuning
 - `1mm` poron foam between plate and PCB (Plate Foam)
+- `1.5mm` poron foam below PCB 
