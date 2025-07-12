@@ -21,7 +21,16 @@ MCU: Was going to do [STM32G474CETx](https://www.st.com/resource/en/datasheet/st
 	- For KS33, it might make more sense to use a 1.3mm shim with a bolt and nut that goes all the way through the plate and PCB.
 		- Or skip the standoffs entirely and just go with thin foam or nothing
 
+
+# Two Variants
+## Gateron Normal/Cherry
+### Plate-PCB Spacing
+- `3.5mm`
 ### Sound Tuning
 - `3mm` Poron foam between plate and PCB (Plate Foam)
 	- `1mm` foam for KS-33
 - 2 x `1.5mm` Poron just below the PCB for socket noise cancelling (Case Foam)
+
+## KS-33
+### Sound Tuning
+- `1mm` poron foam between plate and PCB (Plate Foam)
