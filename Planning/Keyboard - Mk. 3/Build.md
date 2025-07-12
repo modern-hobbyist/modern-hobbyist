@@ -37,4 +37,4 @@ MCU: Was going to do [STM32G474CETx](https://www.st.com/resource/en/datasheet/st
 - `1.2mm` Plate Thickness
 ### Sound Tuning
 - `1mm` poron foam between plate and PCB (Plate Foam)
-- `1.5mm` poron foam below PCB 
+- `1.5mm` poron foam below PCB (Case Foam)
