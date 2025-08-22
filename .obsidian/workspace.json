@@ -83,12 +83,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Keyboard - Mk. 3/Planning.md",
+                "file": "Planning/Keyboard - Mk. 3/Manufacturing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planning"
+              "title": "Manufacturing"
+            }
+          },
+          {
+            "id": "f5bc1086533f218f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           },
           {
@@ -186,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -335,6 +347,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -347,11 +360,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5d862f7003eb0dc1",
+  "active": "f5bc1086533f218f",
   "lastOpenFiles": [
-    "Planning/Keyboard - Mk. 3/Actual Build - 1.md",
     "Planning/Keyboard - Mk. 3/Build.md",
     "Planning/Keyboard - Mk. 3/Planning.md",
+    "Planning/Keyboard - Mk. 3/Actual Build - 1.md",
     "Planning/Keyboard - Mk. 3/Manufacturing.md",
     "Planning/Keyboard - Mk. 3/Notes.md",
     "Planning/Keyboard - Mk. 3/Drawing 2025-07-10 22.13.01.excalidraw.md",
