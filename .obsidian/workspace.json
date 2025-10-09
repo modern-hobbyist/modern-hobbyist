@@ -92,18 +92,6 @@
             }
           },
           {
-            "id": "f5bc1086533f218f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
-          },
-          {
             "id": "b54a132aaa7d1f3b",
             "type": "leaf",
             "state": {
@@ -198,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -360,7 +348,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f5bc1086533f218f",
+  "active": "5d862f7003eb0dc1",
   "lastOpenFiles": [
     "Planning/Keyboard - Mk. 3/Build.md",
     "Planning/Keyboard - Mk. 3/Planning.md",
