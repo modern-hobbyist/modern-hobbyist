@@ -13,3 +13,10 @@ I like to buy blank keycap so I can have a little more freedom in terms of where
 This layout is pretty much your standard ANSI 104, but the big ticket items for me were the thumb clusters and arrow keys tucked beneath my right palm. With those in place, I was able to repurpose a lot of the keys along the bottom row and this sort of central column to fill in the extra space around the bottom.
 
 And of course, I slapped on a full standard numpad, but I made sure to align it with the bottom row leaving this nice little space at the top, which I'll fill in later... 
+
+
+At this point, I was pretty sure I had the keyboard layout how I wanted it, but before I move on, I always make sure to 3d print some test plates so I can actually get my hands on it and feel it.
+
+I ended up doing several different versions with just some slight changes, they only take about an hour to print so they save me tons of time and money not having to reorder PCB's that only needed some slight tweaking.
+
+Anyways, once was I certain I had the layout perfected, the real work begins.
