@@ -8,7 +8,8 @@ However, I did go against my own advice in this scenario. I added 1.5u keys to t
 
 Now, you have to try not to go too crazy during the layout designing phase, because you have to keep in mind the keycaps you want to use. There are services where you can order custom text or graphics on keycaps, but you're limited to the standard sets. 
 
-For the prototyping phase at least, I've been buying blank sets, which allows me a little more freedom in terms of where I can put each keycap, but I gotta admit, sometimes I can't remember where the hell some of the keys are.
+I like to buy blank keycap sets so I can have a little more freedom in terms of where i put each one. 
 
-Most of this layout is pretty much your standard ANSI 104 kit, but I filled out the rest of the keyboard with 
+This layout is pretty much your standard ANSI 104, but the big ticket items for me were the thumb clusters and arrow keys tucked beneath my right palm. With those in place, I was able to repurpose a lot of the keys along the bottom row and this sort of central column to fill in the extra space around the thumb clusters.
 
+And of course, I slapped on a full standard numpad, but I made sure to align it with the bottom row leaving this nice little space at the top, which I'll fill in later... 
