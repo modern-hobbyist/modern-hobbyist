@@ -8,7 +8,7 @@ However, I did go against my own advice in this scenario. I added 1.5u keys to t
 
 Now, you have to try not to go too crazy during the layout designing phase, because you have to keep in mind the keycaps you want to use. There are services where you can order custom text or graphics on keycaps, but you're limited to the standard sets. 
 
-I like to buy blank keycap sets so I can have a little more freedom in terms of where i put each one. 
+I like to buy blank keycap so I can have a little more freedom in terms of where i put each one. 
 
 This layout is pretty much your standard ANSI 104, but the big ticket items for me were the thumb clusters and arrow keys tucked beneath my right palm. With those in place, I was able to repurpose a lot of the keys along the bottom row and this sort of central column to fill in the extra space around the thumb clusters.
 
