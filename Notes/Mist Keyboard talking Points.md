@@ -10,5 +10,5 @@ Now, you have to try not to go too crazy during the layout designing phase, beca
 
 For the prototyping phase at least, I've been buying blank sets, which allows me a little more freedom in terms of where I can put each keycap, but I gotta admit, sometimes I can't remember where the hell some of the keys are.
 
-So just try to keep that in mind, and as you'll see, I actually didn't follow my own advice here because I put 1.5u keycaps in my thumb clusters, but I didn't have enough in the blank set I bought, so I had to use 1.25u keycaps instead.
+So just try to keep that in mind, and as you'll see, I actually didn't follow my own advice here because I put 1.5u keycaps in my thumb clusters, but I didn't have enough in the blank set I bought, so I had to use 1.25u keycaps instead.  
 
