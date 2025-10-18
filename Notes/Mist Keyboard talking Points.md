@@ -10,6 +10,6 @@ Now, you have to try not to go too crazy during the layout designing phase, beca
 
 I like to buy blank keycap so I can have a little more freedom in terms of where i put each one. 
 
-This layout is pretty much your standard ANSI 104, but the big ticket items for me were the thumb clusters and arrow keys tucked beneath my right palm. With those in place, I was able to repurpose a lot of the keys along the bottom row and this sort of central column to fill in the extra space around the thumb clusters.
+This layout is pretty much your standard ANSI 104, but the big ticket items for me were the thumb clusters and arrow keys tucked beneath my right palm. With those in place, I was able to repurpose a lot of the keys along the bottom row and this sort of central column to fill in the extra space around the bottom.
 
 And of course, I slapped on a full standard numpad, but I made sure to align it with the bottom row leaving this nice little space at the top, which I'll fill in later... 
