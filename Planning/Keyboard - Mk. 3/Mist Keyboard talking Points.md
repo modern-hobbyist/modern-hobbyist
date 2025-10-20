@@ -22,7 +22,7 @@ I ended up doing several different versions with just some slight changes, they 
 Anyways, once was I certain I had the layout perfected, the real work begins.
 
 - To actually make a keyboard, I need a PCB, and I like to design my PCB's in KiCAD. 
-- KiCAD can have a little bit of a steep learning curve, but there are some plugins that help to speed this process up quite a bit
+- KiCAD can have a bit of a steep learning curve, but there are some plugins that help to speed this process up quite a bit
 - First is the Keyboard Plugin which allows you to take a layout from KLE and it will automatically place all your switches for you according to that layout.
 - But before you can do that, you need to create a project and add all your switches. I have a set of template projects, that admittedly could probably use an update, but in any case they make it really easy for me to quickly spin up a new design.
 - From there, I usually create a new sheet and start adding my switches, but for this project I wanted to do something a little different.
