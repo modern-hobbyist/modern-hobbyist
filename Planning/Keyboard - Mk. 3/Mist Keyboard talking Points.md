@@ -23,3 +23,11 @@ Anyways, once was I certain I had the layout perfected, the real work begins.
 
 - I do my design in KiCAD, but there are some plugins that help to speed this process up quite a bit
 - First is the Keyboard Plugin which allows you to take a layout from KLE and it will automatically place all your switches for you according to that layout.
+- But before you can do that, you need to create a project and add all your switches. I have a set of template projects, that admittedly could probably use an update, but in any case they make it really easy for me to quickly spin up a new design.
+- From there, I usually create a new sheet and start adding my switches, but for this project I wanted to do something a little different.
+- In the interest of making this board as customizable as possible, I want it to support more than one type of switch. I know I want it to support standard MX switches which are compatible with standard Gateron switches as well, but I also want it to support Gateron KS-33 switches, which are their low profile switch. 
+- To do that, I could either design two separate PCB's entirely, or I could create a new footprint that combines the MX hotswap socket with the KS-33 hotswap socket, and that's exactly what I did!
+- Now, I know it looks a little funky but I promise it works because I'm making this video in the future where I've actually tested it out. 
+- One thing to note is that this doesn't allow you to switch between KS-33 and MX profile switches willy nilly, because you have to actually solder the hotswap sockets on, so you have to choose which one you want when you're building the board. 
+- But the benefit, is that if I'm successful, and I'm able to sell this as an actual kit, I can support the MX profile crowd and the low profile crowd with a single PCB design, provided I tell the manufacturer which sockets to install. 
+- 
