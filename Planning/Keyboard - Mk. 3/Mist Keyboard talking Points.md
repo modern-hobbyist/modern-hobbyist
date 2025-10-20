@@ -50,4 +50,8 @@ It might take a little tweaking to get them laid out exactly where I want them, 
 
 At this point, I have all the switches, diodes, LEDs and capacitors in place, so I can get started adding some brains and other fun features to this PCB.
 
-I chose the STM32G474
+I chose the STM32G474RETx MCU which I know is just a bunch of numbers that you probably don't even care about, but I mention it because this really is a massively overpowered MCU for most keyboard applications, but I needed the extra pins and I wanted the extra flash memory for the 2.2" LCD.
+
+Remember that little LCD shaped space I left at the top right of my keyboard, yeah well that's where it's going!
+
+That also gives me a really convenient spot to stick the MCU and all of it's components. Speaking of the MCU components, normally you need a USB C input with ESD protection, reverse polarity protection, a bunch of decoupling capacitors, etc etc...
