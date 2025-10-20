@@ -32,9 +32,9 @@ Anyways, once was I certain I had the layout perfected, the real work begins.
 - One thing to note is that this doesn't allow you to switch between KS-33 and MX profile switches willy nilly, because you have to actually solder the hotswap sockets on, so you have to choose which one you want when you're building the board. 
 - But the benefit, is that if I'm successful, and I'm able to sell this as an actual kit, I can support the MX profile crowd and the low profile crowd with a single PCB design, provided I tell the manufacturer which sockets to install. 
 
-So with my new footprint made, I can go ahead and place all the switches I'm gonna need and wire them up with their diodes. To make the layout part easier, I always make sure to renumber all the components to increment from left to right and top to bottom.
+So with my new footprint made, I can go ahead and place all the switches and wire them up with their diodes. To make the layout part easier, I always make sure to renumber all the components to increment from left to right and top to bottom.
 
-This board is gonna have per-key LEDs, so I went ahead and added all the symbols for those. I like the SK6812-mini undermount LEDs cause that way all of the soldering is done on only the bottom side of the board.
+This board is gonna have per-key LEDs, so I also and added all the symbols for those. I like the SK6812-mini undermount LEDs cause that way all of the soldering is done on only the bottom side of the board.
 
 I wish I had time to get into all the details that go into designing a keyboard PCB, but I got a lot of stuff to get through so in the interest of time, I'll just link all the resources I used to learn this stuff down in the description.
 
@@ -64,3 +64,4 @@ I picked up one of these S Series UDB's which means all I have to do is slap a M
 
 Now my PCB should be protected from most common electrical issues and I know they definitely did a better job of it than I would have, so WIN WIN.
 
+So after placing the display, routing everything together, doing a little clean up and finalizing the board outline, I'm finally ready to order my PCB, and there's no better way to do it than with today's video sponsor PCBWay.
