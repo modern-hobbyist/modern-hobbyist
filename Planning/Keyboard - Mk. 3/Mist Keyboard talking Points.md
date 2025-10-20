@@ -63,3 +63,8 @@ I picked up one of these S Series UDB's which means all I have to do is slap a M
 Now my PCB should be protected from most common electrical issues and I know they definitely did a better job of it than I would have, so WIN WIN.
 
 So after placing the display, routing everything together, doing a little clean up and finalizing the board outline, I'm finally ready to order my PCB, and there's no better way to do it than with today's video sponsor PCBWay.
+
+- PCBWay ad 
+
+PCB Soldering thoughts
+- I wish I had better footage of the actual soldering process, but not only am in just not that great of a cinematographer, but I also don't have a lense that can zoom in enough to show it off. So this is the best you're gonna get.
