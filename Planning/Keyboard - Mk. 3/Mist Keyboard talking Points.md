@@ -48,4 +48,4 @@ The nice thing about this plugin is that I can tell it to place additional compo
 
 It might take a little tweaking to get them laid out exactly where I want them, so I usually uncheck the option to "Route with switches" until I'm done messing with it. Then I run it one final time and it'll connect the diodes and the switches for me.
 
-At this point, I shouldha
+At this point, I have all the switches, diodes, LEDs and capacitors in place, so I can get start
