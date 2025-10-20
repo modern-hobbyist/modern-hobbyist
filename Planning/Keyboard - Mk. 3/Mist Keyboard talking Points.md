@@ -46,4 +46,5 @@ With that done, I can download KLE JSON and run the Keyboard Placer plugin to se
 
 The nice thing about this plugin is that I can tell it to place additional components beyond the switches and their corresponding diodes, which means I can have it place the LEDs and capacitors as well.
 
-It might take a little tweaking to get them laid out exactly where I want them, so I usually uncheck the option to routes 
+It might take a little tweaking to get them laid out exactly where I want them, so I usually uncheck the option to "Route with switches" until I'm done messing with it. Then I run it one final time and it'll connect the diodes and the switches for me.
+
