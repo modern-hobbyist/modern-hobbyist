@@ -20,3 +20,6 @@ At this point, I was pretty sure I had the keyboard layout how I wanted it, but 
 I ended up doing several different versions with just some slight changes, they only take about an hour to print so they save me tons of time and money not having to reorder PCB's that only needed some slight tweaking.
 
 Anyways, once was I certain I had the layout perfected, the real work begins.
+
+- I do my design in KiCAD, but there are some plugins that help to speed this process up quite a bit
+- 
