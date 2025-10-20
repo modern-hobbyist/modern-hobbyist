@@ -54,4 +54,13 @@ I chose the STM32G474RETx MCU which I know is just a bunch of numbers that you p
 
 Remember that little LCD shaped space I left at the top right of my keyboard, yeah well that's where it's going!
 
-That also gives me a really convenient spot to stick the MCU and all of it's components. Speaking of the MCU components, normally you need a USB C input with ESD protection, reverse polarity protection, a bunch of decoupling capacitors, etc etc...
+That also gives me a really convenient spot to stick the MCU and all of it's components. Speaking of the MCU components, normally you need a USB C input with ESD and reverse polarity protection and a fuse, and I initially added all those things to this build, but I decided to switch to something better.
+
+One of the things I always struggle with is the USB placement. It's hard to get the port in the exact spot you want it while also having it protrude enough for a cable to connect to it through a case. That's why for this build, I opted to use a unified daughterboard instead.
+
+The UDB not only allows me to place the USB port pretty much wherever I want in the case, but it also provides all the other protections I mentioned earlier for free! Well, not for free, but you get the idea.
+
+I picked up one of these S Series UDB's which means all I have to do is slap a Molex Pico-EZMate connector onto my PCB and wire it up to the 5v's, Ground and the MCU data lines.
+
+Now my PCB should be protected from most common electrical issues and I know they definitely did a better job of it than I would have, so WIN WIN.
+
