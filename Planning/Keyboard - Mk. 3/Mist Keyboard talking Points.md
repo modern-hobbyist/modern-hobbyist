@@ -38,9 +38,7 @@ This board is gonna have per-key LEDs, so I also and added all the symbols for t
 
 I wish I had time to get into all the details that go into designing a keyboard PCB, but I got a lot of stuff to get through so in the interest of time, I'll just link all the resources I used to learn this stuff down in the description.
 
-With all the switches and LEDs added to our schematic, I'm almost ready to run the KB Placer plugin, but first I always make sure to go back to KLE and add an annotation to each key so that the plugin knows where we want each key to go.
-
-There are a couple ways to do this, but I like the simple route of adding the component number to the front-center legend input. So mirroring the KiCAD schematic, I'll increment from left to right and top to bottom.
+With all the switches and LEDs added to my schematic, I'm almost ready to run the KB Placer plugin, but first I always make sure to go back and add the component number as an annotation on the front-center legend for each key so that the plugin knows where I want each key to go.
 
 With that done, I can download KLE JSON and run the Keyboard Placer plugin to see my PCB come to life.
 
