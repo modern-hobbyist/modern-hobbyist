@@ -22,4 +22,4 @@ I ended up doing several different versions with just some slight changes, they 
 Anyways, once was I certain I had the layout perfected, the real work begins.
 
 - I do my design in KiCAD, but there are some plugins that help to speed this process up quite a bit
-- 
+- First is the Keyboard Plugin which allows you to take a layout from KLE and it will automatically place all your switches for you according to that layout.
