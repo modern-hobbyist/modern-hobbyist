@@ -68,3 +68,10 @@ So after placing the display, routing everything together, doing a little clean 
 
 PCB Soldering thoughts
 - I wish I had better footage of the actual soldering process, but not only am in just not that great of a cinematographer, but I also don't have a lense that can zoom in enough to show it off. So this is the best you're gonna get.
+
+
+
+
+
+# Conclusion
+- So I set out to design a keyboard that everybody loves, was I successful? You tell me...-
