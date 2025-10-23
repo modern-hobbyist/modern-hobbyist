@@ -85,9 +85,9 @@
               "state": {
                 "file": "Planning/Keyboard - Mk. 3/Product Design Phases.canvas",
                 "viewState": {
-                  "x": 1110.72396733538,
-                  "y": -166.0083046376079,
-                  "zoom": 0.34467950689069266
+                  "x": 875.4529843629266,
+                  "y": -260.2135280083343,
+                  "zoom": -0.19354480199742485
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -351,7 +351,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "81601340a1115eeb",
+  "active": "5d862f7003eb0dc1",
   "lastOpenFiles": [
     "Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md",
     "Planning/Keyboard - Mk. 3/Product Design Phases.canvas",
