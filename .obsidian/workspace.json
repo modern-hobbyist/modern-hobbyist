@@ -81,14 +81,17 @@
             "id": "5d862f7003eb0dc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Planning/Keyboard - Mk. 3/YouTube Description.md",
-                "mode": "source",
-                "source": false
+                "file": "Planning/Keyboard - Mk. 3/Product Design Phases.canvas",
+                "viewState": {
+                  "x": 1110.72396733538,
+                  "y": -166.0083046376079,
+                  "zoom": 0.34467950689069266
+                }
               },
-              "icon": "lucide-file",
-              "title": "YouTube Description"
+              "icon": "lucide-layout-dashboard",
+              "title": "Product Design Phases"
             }
           },
           {
@@ -348,9 +351,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5d862f7003eb0dc1",
+  "active": "81601340a1115eeb",
   "lastOpenFiles": [
     "Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md",
+    "Planning/Keyboard - Mk. 3/Product Design Phases.canvas",
     "Planning/Keyboard - Mk. 3/YouTube Description.md",
     "Planning/Keyboard - Mk. 3/Manufacturing.md",
     "Planning/Keyboard - Mk. 3/Build.md",
@@ -362,7 +366,6 @@
     "README.md",
     "temp",
     "Untitled.md",
-    "Planning/Keyboard - Mk. 3/Untitled.canvas",
     "Planning/Untitled",
     "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
     "Topics/Keyboard Building/1. Layout.md",
@@ -391,7 +394,6 @@
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6750.jpg",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6752.jpg",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6751.jpg",
-    "Projects/0002 - Split Keyboard - Mk. 1/0 - Split Keyboard - Mk. 1.md",
     "Topics/CNC Machining/img/Pasted image 20250601111306.png",
     "Planning/Keyboard - Mk. 3/screenRecording-000175@2x.png",
     "Planning/Keyboard - Mk. 3/screenRecording-000174@2x.png",

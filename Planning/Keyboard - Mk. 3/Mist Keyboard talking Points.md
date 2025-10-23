@@ -67,7 +67,11 @@ So after placing the display, routing everything together, doing a little clean 
 - PCBWay ad 
 
 PCB Soldering thoughts
-- I wish I had better footage of the actual soldering process, but not only am in just not that great of a cinematographer, but I also don't have a lense that can zoom in enough to show it off. So this is the best you're gonna get.
+- I wish I had better footage of the actual soldering process, but not only do I not have the right lens for that, I'm also just not great at soldering, so I'd rather not show it off in high definition. 
+- The soldering went better overall this time around, but I chose to skip the PCB stencil in an effort to save money again, so I had to drop a dot of solder paste onto every single pad, which really sucks. 
+- At this point in the process, I'm still technically designing a prototype, and I don't have a bottomless bank account, so I try to save money where I can.
+- 
+- Like I mentioned before, you have to pick if you wanna go with the low profile KS-33 sockets or the standard MX sockets when you assemble your board, 
 
 
 
