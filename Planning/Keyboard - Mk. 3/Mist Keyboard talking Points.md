@@ -75,6 +75,10 @@ PCB Soldering thoughts
 - There is a much wider range of keycaps that fit standard MX switches, so for this build I went that route, but for either case, the process is pretty much the same.
 - Solder on your diodes, LED's, Capacitors for your LEDS, your MCU and it's various support components, all the hotswap sockets, the Pico EZ-Mate connector for the Unified daughter board, and finally the LCD. 
 
+Now this is when I start to get reaaaallly restless to plug it in and test it out, and I guess that makes sense cause I don't wanna waste a bunch of time designing a case for a PCB that doesn't work.
+
+So I slapped together a simple firmware build and to my absolute horror... it, no I'm just kidding it worked great! I'll talk more about the firmware later, so for now lets talk about the case.
+
 
 
 
