@@ -67,11 +67,13 @@ So after placing the display, routing everything together, doing a little clean 
 - PCBWay ad 
 
 PCB Soldering thoughts
+- PCB's that I, since I'm cheap, now have to assemble. 
 - I wish I had better footage of the actual soldering process, but not only do I not have the right lens for that, I'm also just not great at soldering, so I'd rather not show it off in high definition. 
 - The soldering went better overall this time around, but I chose to skip the PCB stencil in an effort to save money again, so I had to drop a dot of solder paste onto every single pad, which really sucks. 
-- At this point in the process, I'm still technically designing a prototype, and I don't have a bottomless bank account, so I try to save money where I can.
-- 
-- Like I mentioned before, you have to pick if you wanna go with the low profile KS-33 sockets or the standard MX sockets when you assemble your board, 
+- But in the grand scheme of bringing a product into the world, I'm like... here. So I'm still technically designing a prototype, and I don't have a bottomless bank account, so I try to save money where I can.
+- Like I mentioned before, you have to pick if you wanna go with the low profile KS-33 sockets or the standard MX sockets when you assemble your board. 
+- There is a much wider range of keycaps that fit standard MX switches, so for this build I went that route, but for either case, the process is pretty much the same.
+- Solder on your diodes, LED's, Capacitors for your LEDS, your MCU and it's various support components, all the hotswap sockets, the Pico EZ-Mate connector for the Unified daughter board, and finally the LCD. 
 
 
 

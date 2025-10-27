@@ -81,17 +81,14 @@
             "id": "5d862f7003eb0dc1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Planning/Keyboard - Mk. 3/Product Design Phases.canvas",
-                "viewState": {
-                  "x": 875.4529843629266,
-                  "y": -260.2135280083343,
-                  "zoom": -0.19354480199742485
-                }
+                "file": "Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Product Design Phases"
+              "icon": "lucide-file",
+              "title": "Mist Keyboard talking Points"
             }
           },
           {
@@ -353,8 +350,8 @@
   },
   "active": "5d862f7003eb0dc1",
   "lastOpenFiles": [
-    "Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md",
     "Planning/Keyboard - Mk. 3/Product Design Phases.canvas",
+    "Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md",
     "Planning/Keyboard - Mk. 3/YouTube Description.md",
     "Planning/Keyboard - Mk. 3/Manufacturing.md",
     "Planning/Keyboard - Mk. 3/Build.md",
