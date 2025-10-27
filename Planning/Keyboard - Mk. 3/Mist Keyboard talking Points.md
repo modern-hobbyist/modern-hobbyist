@@ -80,8 +80,14 @@ Now this is when I start to get reaaaallly restless to plug it in and test it ou
 So I slapped together a simple firmware build and to my absolute horror... it, no I'm just kidding it worked great! I'll talk more about the firmware later, so for now lets talk about the case.
 
 - Hard because I have to keep in mind machinability
+- Don't want to design a case that looks really cool, but costs a ton of money to manufacture
+- First couple iterations --> 3d printed so cost will be fairly low, but eventually
 
 
 
 # Conclusion
-- So I set out to design a keyboard that everybody loves, was I successful? You tell me...-
+- I wanna know if this project is worth pursuing as an actual product, so I'll have a comment pinned down below and if this is a keyboard that you would actually want to buy, either like or respond to that comment.
+- That way, once I've got all the design wrinkles ironed out, I can see if it's worth putting together a production run.
+- Also, let me know what other materials you'd like to see the plate or case to be made out of so I can get some extra prototypes put together.
+- Lastly, make sure to check out PCBWay for all your PCB manufacturing needs and use the code MODHOB or the link in the description to get $5 off your first order.
+- So, at the beginning of this video, I set out to design a keyboard that everybody loves... How'd I do?
