@@ -81,10 +81,12 @@ So I slapped together a simple firmware build and to my absolute horror... it, n
 
 - Hard because I have to keep in mind machinability
 - Don't want to design a case that looks really cool, but costs a ton of money to manufacture
-- First couple iterations --> 3d printed so cost will be fairly low, but eventually
+- I'm also limited to the materials that I have the ability to machine in my own shop, at least for the first couple iterations
+- The main body of the case is just 3d printed, but it's too big for any of the printers, even my fancy new Anycubic Kobra S1, so I had to split it up into two halves, which is unfortunate cause that leaves an ugly seam 
 
-
-
+# Firmware
+- Since this isn't a split keyboard, the firmware itself is fairly simple and it's extremely customizable, but what makes it a little bit harder is the display. 
+- 
 # Conclusion
 - I wanna know if this project is worth pursuing as an actual product, so I'll have a comment pinned down below and if this is a keyboard that you would actually want to buy, either like or respond to that comment.
 - That way, once I've got all the design wrinkles ironed out, I can see if it's worth putting together a production run.
