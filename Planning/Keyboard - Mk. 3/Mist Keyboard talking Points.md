@@ -79,7 +79,7 @@ Now this is when I start to get reaaaallly restless to plug it in and test it ou
 
 So I slapped together a simple firmware build and to my absolute horror... it, no I'm just kidding it worked great! I'll talk more about the firmware later, so for now lets talk about the case.
 
-
+- Hard because I have to keep in mind machinability
 
 
 
