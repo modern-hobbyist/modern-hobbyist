@@ -94,11 +94,20 @@ So I slapped together a simple firmware build and to my absolute horror... it, n
 - I made the plate out of 1.5mm thick acrylic, which honestly isn't a bad choice, it's nice and flexible which makes for a really soft and quiet typing experience, and it's super easy for me to machine with my CO2 laser.
 - I also cut the plate foam and the little gaskets on my laser, but even though it's supposedly "safe" with proper ventilation, it's still pretty stinky, and it leaves the edges covered in a sticky black residue that isn't ideal when the keyboard you're building is entirely white.
 	- So hopefully any manufacturers I work with in the future have a better way to cut this stuff.
-- 
+- As usual, I completely nailed the design the first time and didn't have to print 100 different versions, so with all the parts finalized I can start putting it all together!
+- But before I show you the final product, let's quickly talk about the firmware.
 
 # Firmware
-- Since this isn't a split keyboard, the firmware itself is fairly simple and it's extremely customizable, but what makes it a little bit harder is the display. 
-- 
+- I wrote the firmware in QMK and since this isn't a split keyboard, it's actually fairly simple and it's extremely customizable, but what makes it a little bit harder is the display. 
+- It's not hard to put text or graphics on the display, but since this keyboard has several dedicated macro keys and I chose to use blank keycaps, I'd really like a way to see what each key does ON THE DISPLAY.
+- However, there's not really a great way to do this programmatically. I can make custom keymap images and compile them, but they'll be unique to my keyboard, if someone wanted these keys to do something else, they'd have to compile their own keymaps into the firmware.
+- I did add the current caps lock, layer and RGB animation as well, but you'll have to let me know down in the comments what else you'd like to see on this display.
+- Who knows, maybe the answer is that for a keyboard like this, people are gonna want to customize the firmware anyway, so the choice is left up to them.
+- Anyways, I've left you hanging for long enough now, its time to show you the finished product.
+
+# Finished Product
+- This is project Mist. A full size keyboard with a 2.2" LCD, per-key RGB lighting, a gasket-mounted plate system, and a reimagined bottom row replacing the boring ol spacebar with a thumb cluster for each hand, 10 new macro keys and arrow keys tucked neatly beneath the right palm.
+- This build has an acrylic plate paired with 3.3mm plate foam and Gateron Milky Yellow switches for a smooth and creamy typing experience
 # Conclusion
 - I wanna know if this project is worth pursuing as an actual product, so I'll have a comment pinned down below and if this is a keyboard that you would actually want to buy, either like or respond to that comment.
 - That way, once I've got all the design wrinkles ironed out, I can see if it's worth putting together a production run.
