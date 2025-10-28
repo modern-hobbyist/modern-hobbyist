@@ -79,11 +79,11 @@ Now this is when I start to get reaaaallly restless to plug it in and test it ou
 
 So I slapped together a simple firmware build and to my absolute horror... it, no I'm just kidding it worked great! I'll talk more about the firmware later, so for now lets talk about the case.
 
-- Hard because I have to keep in mind machinability
-- Don't want to design a case that looks really cool, but costs a ton of money to manufacture
+# Case
+
+- Hard because I don't want it to cost a ton to manufacture and I want people to be able to customize certain aspects of it.
 - I'm also limited to the materials that I have the ability to machine in my own shop, at least for the first couple iterations
 - For now, I just 3d printed the main body of the case, but it's too big for any of the printers, even my fancy new Anycubic Kobra S1, so I had to split it up into two halves. That leaves a pretty ugly seam, but I have to keep telling myself this is still just a very early prototype.
-
 - Poron foam between the PCB and the plate, this is called the plate foam and it's supposed to help with ... {{What it helps with}}
 - 
 
