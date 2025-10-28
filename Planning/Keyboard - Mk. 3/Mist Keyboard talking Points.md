@@ -86,11 +86,11 @@ So I slapped together a simple firmware build and to my absolute horror... it, n
 - The plate is what's called Gasket mounted, which means it doesn't rest on any hard surface, nor is it screwed in place, it simply gets sandwiched between several sets of these small poron foam gaskets. 
 	- This gasket mount system will not only give the finished keyboard better acoustics, but it will also greatly improve the typing feel, by reducing the bottom-out shock--among other things.
 - The PCB itself is physically attached to the plate with some standoffs, and between them is some more poron foam, this time a 3mm sheet. This is often called the Plate foam and it's main purpose is again to achieve better acoustics.
-- I was going to add some silicone below the PCB to further improve the acoustics, but I wanted to hold off on that until I've tested the finished keyboard to decide if it's necessary or not.
-- A couple other details that might be worth mentioning, I added a cutout for the Unified daughter board with some slots for some silicone feet on the bottom to keep it from sliding around on your desk.
+- I was going to add some silicone below the PCB to further improve the acoustics, but I decided to hold off on that until I've tested the finished keyboard to see if it's necessary or not.
+- A couple other details that might be worth mentioning, I added a cutout for the Unified daughter board and some slots on the bottom for some silicone feet to keep it from sliding around on your desk.
 - Now, you could really make the plate and case out of whatever materials you want, but I'm limited to the materials that I have the ability to machine in my own shop, at least for the first couple iterations
-- So for now, I'm going with a 3d printed main body, but it's too big for any of my printers, so I had to split it up into two halves. That leaves a pretty ugly seam, but I have to keep telling myself this is still just a very early prototype.
-- 
+- So for now, I'm going to be 3d printing the main body, but it's too big for any of my printers, so I had to split it up into two halves. That leaves a pretty ugly seam, but I have to keep telling myself this is still just a very early prototype.
+- I made the plate out of 1.5mm thick acrylic, which honestly isn't a bad choice, it's nice and flexible which makes for a really soft and quiet typing experience, and it's super easy for me to machine with my CO2 laser.
 
 # Firmware
 - Since this isn't a split keyboard, the firmware itself is fairly simple and it's extremely customizable, but what makes it a little bit harder is the display. 
