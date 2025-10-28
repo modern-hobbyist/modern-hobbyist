@@ -82,9 +82,14 @@ So I slapped together a simple firmware build and to my absolute horror... it, n
 # Case
 
 - Designing the case is hard because I don't want it to cost a ton to manufacture and I want people to be able to customize certain aspects of it.
-- I'm also limited to the materials that I have the ability to machine in my own shop, at least for the first couple iterations
-- For now, I just 3d printed the main body of the case, but it's too big for any of the printers, even my fancy new Anycubic Kobra S1, so I had to split it up into two halves. That leaves a pretty ugly seam, but I have to keep telling myself this is still just a very early prototype.
-- Poron foam between the PCB and the plate, this is called the plate foam and it's supposed to help with ... {{What it helps with}}
+- The case is broken up into basically 3 main components, its got the bottom, the top, and the plate--as well as the PCB and the Unified Daughter board, obviously. 
+- The plate is what's called Gasket mounted, which means it doesn't rest on any hard surface, nor is it screwed in place, it simply gets sandwiched between several sets of these small poron foam gaskets. 
+	- This gasket mount system will not only give the finished keyboard better acoustics, but it will also greatly improve the typing feel, by reducing the bottom-out shock--among other things.
+- The PCB itself is physically attached to the plate with some standoffs, and between them is some more poron foam, this time a 3mm sheet. This is often called the Plate foam and it's main purpose is again to achieve better acoustics.
+- I was going to add some silicone below the PCB to further improve the acoustics, but I wanted to hold off on that until I've tested the finished keyboard to decide if it's necessary or not.
+- A couple other details that might be worth mentioning, I added a cutout for the Unified daughter board with some slots for some silicone feet on the bottom to keep it from sliding around on your desk.
+- Now, you could really make the plate and case out of whatever materials you want, but I'm limited to the materials that I have the ability to machine in my own shop, at least for the first couple iterations
+- So for now, I'm going with a 3d printed main body, but it's too big for any of my printers, so I had to split it up into two halves. That leaves a pretty ugly seam, but I have to keep telling myself this is still just a very early prototype.
 - 
 
 # Firmware
