@@ -90,7 +90,11 @@ So I slapped together a simple firmware build and to my absolute horror... it, n
 - A couple other details that might be worth mentioning, I added a cutout for the Unified daughter board and some slots on the bottom for some silicone feet to keep it from sliding around on your desk.
 - Now, you could really make the plate and case out of whatever materials you want, but I'm limited to the materials that I have the ability to machine in my own shop, at least for the first couple iterations
 - So for now, I'm going to be 3d printing the main body, but it's too big for any of my printers, so I had to split it up into two halves. That leaves a pretty ugly seam, but I have to keep telling myself this is still just a very early prototype.
+- I also changed the mounting holes on the top of the case to be able to take some heat set inserts, but eventually I'd like it to be made out of aluminum, so the holes could just be threaded instead.
 - I made the plate out of 1.5mm thick acrylic, which honestly isn't a bad choice, it's nice and flexible which makes for a really soft and quiet typing experience, and it's super easy for me to machine with my CO2 laser.
+- I also cut the plate foam and the little gaskets on my laser, but even though it's supposedly "safe" with proper ventilation, it's still pretty stinky, and it leaves the edges covered in a sticky black residue that isn't ideal when the keyboard you're building is entirely white.
+	- So hopefully any manufacturers I work with in the future have a better way to cut this stuff.
+- 
 
 # Firmware
 - Since this isn't a split keyboard, the firmware itself is fairly simple and it's extremely customizable, but what makes it a little bit harder is the display. 
