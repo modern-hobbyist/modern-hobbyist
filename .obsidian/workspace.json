@@ -81,13 +81,14 @@
             "id": "5d862f7003eb0dc1",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Planning/Keyboard - Mk. 3/Actual Build - 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Actual Build - 1"
             }
           },
           {
@@ -351,10 +352,11 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "7cb2194fe6c89b2c",
+  "active": "5d862f7003eb0dc1",
   "lastOpenFiles": [
-    "Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md",
+    "Notes/CNC Bitsetter and Tool Changes.md",
     "Untitled.base",
+    "Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md",
     "Planning/Keyboard - Mk. 3/Product Design Phases.canvas",
     "Planning/Keyboard - Mk. 3/YouTube Description.md",
     "Planning/Keyboard - Mk. 3/Manufacturing.md",
@@ -388,7 +390,6 @@
     "screenRecording-000186.png",
     "Planning/Hermod Mk. 2/img/screenRecording-000185.png",
     "Planning/Hermod Mk. 2/img",
-    "Notes/CNC Bitsetter and Tool Changes.md",
     "Planning/Laser Cut PCB Stencils/Notes.md",
     "Notes",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6750.jpg",
