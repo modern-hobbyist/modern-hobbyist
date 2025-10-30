@@ -348,12 +348,12 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-livesync:P2P Replicator": false,
       "obsidian-livesync:Show Log": false,
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:Show Customization sync": false
+      "obsidian-livesync:Replicate": false
     }
   },
   "active": "5d862f7003eb0dc1",
   "lastOpenFiles": [
+    "livesync_log_2025-10-30.md",
     "Notes/CNC Bitsetter and Tool Changes.md",
     "Untitled.base",
     "Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md",
