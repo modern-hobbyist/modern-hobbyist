@@ -115,7 +115,3 @@ So I slapped together a simple firmware build and to my absolute horror... it, n
 - Also, let me know what other materials you'd like to see the plate or case to be made out of so I can get some extra prototypes put together.
 - Lastly, make sure to check out PCBWay for all your PCB manufacturing needs and use the code MODHOB or the link in the description to get $5 off your first order.
 - So, at the beginning of this video, I set out to design a keyboard that everybody loves... How'd I do?
-
-			asdfasdghjkllgfasdgh wtygsdf asdfasdfasdffgfggfhkoplsghhhhfgsdfg;''2gfsdfgkjlpygfsdfgkl0ogbgdssssssssssaaaaaaaaaaaaaaaaaaaaaqqw```````QWERTYUIOP[]\
-			0.
-			`12`
