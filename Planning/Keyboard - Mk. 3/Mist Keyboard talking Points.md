@@ -109,8 +109,8 @@ So I slapped together a simple firmware build and to my absolute horror... it, n
 - This is project Mist. A full size keyboard with a 2.2" LCD, per-key RGB lighting, a gasket-mounted plate system, and a reimagined bottom row replacing the boring ol spacebar with a thumb cluster for each hand, 10 new macro keys and arrow keys tucked neatly beneath the right palm.
 - This build has an acrylic plate paired with 3.3mm plate foam and Gateron Milky Yellow switches for a smooth and creamy typing experience
 # Conclusion
-- Obviously, this is just a 3d printed version of what I plan to make out of aluminum some day
-- I wanna know if this project is worth pursuing as an actual product, so I'll have a comment pinned down below and if this is a keyboard that you would actually want to buy, either like or respond to that comment.
+- Now, obviously, I still have a long way to go before this design is ready to sell, it's nowhere near perfect, and in fact most of this keyboard was designed and assembled with a baby strapped to my chest.
+- But, I still wanna know if this project is worth pursuing as an actual product, so I'll have a comment pinned down below and if this is a keyboard that you would actually want to buy, either like or respond to that comment.
 - That way, once I've got all the design wrinkles ironed out, I can see if it's worth putting together a production run.
 - Also, let me know what other materials you'd like to see the plate or case to be made out of so I can get some extra prototypes put together.
 - Lastly, make sure to check out PCBWay for all your PCB manufacturing needs and use the code MODHOB or the link in the description to get $5 off your first order.
