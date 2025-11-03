@@ -117,4 +117,5 @@ So I slapped together a simple firmware build and to my absolute horror... it, n
 - So, at the beginning of this video, I set out to design a keyboard that everybody loves... How'd I do?
 
 			asdfasdghjkllgfasdgh wtygsdf asdfasdfasdffgfggfhkoplsghhhhfgsdfg;''2gfsdfgkjlpygfsdfgkl0ogbgdssssssssssaaaaaaaaaaaaaaaaaaaaaqqw```````QWERTYUIOP[]\
-			
+			0.
+			`12`
