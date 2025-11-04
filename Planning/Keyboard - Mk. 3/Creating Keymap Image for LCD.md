@@ -28,5 +28,5 @@ layer_1 = qp_load_image_mem(gfx_layer_1);
 if(layer_1 != NULL) {
 	qp_drawimage(lcd, 0, 25, layer_1);
 }
-```
+
 

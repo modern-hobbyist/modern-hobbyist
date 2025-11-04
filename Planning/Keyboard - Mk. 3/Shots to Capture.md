@@ -1,0 +1,7 @@
+- Lots of finished shots of the keyboard
+- Lots of shots of me typing
+- Pusing down on the keys or the plate to show flex and gasket flex
+- LCD Changing layers
+- Assembly in short aspect ratio
+- All the wasted parts
+- 
