@@ -4,4 +4,3 @@
 - LCD Changing layers
 - Assembly in short aspect ratio
 - All the wasted parts
-- 
