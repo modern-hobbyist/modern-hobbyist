@@ -99,7 +99,8 @@ So I slapped together a simple firmware build and to my absolute horror... it, n
 
 # Assembly
 - I haven't had time to design a low-profile version of this case to work with the KS-33 switches, so for now the case is specific to MX profile switches.
-- However, I do tend to prefer a lower profile keyboard, so I did my best to bring the overall height of this build down, and I was able to get the 
+- However, I do tend to prefer a lower profile keyboard, so I did my best to bring the overall height of this build down, and I was able to get the front down to about 17mm and the back to about 28mm which with some wrist pads feels pretty good.
+- But I'm actually using this keyboard while I'm making this video and I can tell you, I'm really excited to build the low-profile version as well. I've got 4 more PCB's so I'll likely make a couple variations just to mess around with.
 # Firmware
 - I wrote the firmware in QMK and since this isn't a split keyboard, it's actually fairly simple and it's extremely customizable, but what makes it a little bit harder is the display. 
 - It's not hard to put text or graphics on the display, but since this keyboard has several dedicated macro keys and I chose to use blank keycaps, I'd really like a way to see what each key does ON THE DISPLAY.
