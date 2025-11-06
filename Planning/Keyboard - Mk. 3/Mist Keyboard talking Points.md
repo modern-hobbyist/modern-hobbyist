@@ -103,6 +103,8 @@ So I slapped together a simple firmware build and to my absolute horror... it, n
 - I also added a dab of superglue to each of the gasket slots since the adhesive they come with isn't very strong.
 - For the standoffs that mount the PCB to the plate, it's incredibly hard to find 3mm long ones, so instead I ordered 6mm long nylon ones and cut them in half with a razor blade.
 - Then after placing the 3mm foam, I used a couple flathead M2 bolts to mount the plate and the PCB together.
+- With the plate and PCB assembled together, I could move on to the unified daughter board and to make it easier to install or remove, I added some M3 heat set inserts here as well.
+- Once the UDB was installed, I could wire it up to the PCB and drop the plate into it's place on the gaskets.
 - I haven't had time to design a low-profile version of this case to work with the KS-33 switches, so for now the case is specific to MX profile switches.
 - However, I do tend to prefer a lower profile keyboard, so I did my best to bring the overall height of this build down, and I was able to get the front down to about 17mm and the back to about 28mm which with some wrist pads feels pretty good.
 - But I'm actually using this keyboard while I'm making this video and I can tell you, I'm really excited to build the low-profile version as well. I've got 4 more PCB's so I'll likely make a couple variations just to mess around with.
