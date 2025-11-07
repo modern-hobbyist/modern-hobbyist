@@ -24,3 +24,4 @@
 
 # Firmware
 - GitHub Link
+- Firmware Builds
