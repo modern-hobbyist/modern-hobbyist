@@ -47,3 +47,5 @@ if(layer_1 != NULL) {
 }
 ```
 
+# Enjoy!
+That should be all you need to do to get a custom image on your LCD, whether it be a custom keymap or a photo of your kids!
