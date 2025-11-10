@@ -26,6 +26,7 @@ You'll next need to actually compile custom firmware for your keyboard, but if y
 - In the `rules.mk` file for your keymap, you'll have to tell qmk to compile your .c file along with the source files. Add the following line to `rules.mk`
 	- `SRC += ./graphics/mist/layer-1.qgf.c`
 - In your `keymap.c` file, include the `.h` file, create a variable to store the `.c` image, then load the actual image into that variable 
+
 ```c
 // At top of `keymap.c`
 #include "./graphics/mist/layer-1.qgf.h"
@@ -44,5 +45,5 @@ layer_1 = qp_load_image_mem(gfx_layer_1);
 if(layer_1 != NULL) {
 	qp_drawimage(lcd, 0, 25, layer_1);
 }
-
+```
 
