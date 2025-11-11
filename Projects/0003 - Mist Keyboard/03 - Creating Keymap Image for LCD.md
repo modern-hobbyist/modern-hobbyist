@@ -1,7 +1,7 @@
-Whether you have several macro keys that you can't seem to keep straight in your mind or if you want to put a custom logo on your keyboard's LCD, the process to do that is the same, and it's relatively simple!
+Whether you have several macro keys that you can't seem to keep straight in your mind or if you want to put a picture of your dog Fufu on your keyboard's LCD, the process to do that is the same, and it's relatively simple.
 
 # Create Your Image
-This is probably the part that will take the longest, as you'll find yourself constantly tweaking the design to achieve the esthetic you're after, but the tldr; is that you need an image that you intend to put on your keyboard's LCD. It can be any image or even gif that you want, but for my keymap I did the following. 
+This is probably the part that will take the longest, as you'll find yourself constantly tweaking the design to achieve the esthetic you're after, but the `tldr;` is that you need an image that you intend to put on your keyboard's LCD. It can be any image or even gif that you want, but for my keymap I did the following. 
 
 1. Create an image in Photoshop that matches the LCD size (320px x 240px)
 2. Add squares for all the keys I want and add the proper text
