@@ -1,5 +1,5 @@
 ---
-title: Mist Keyboard
+title: Project Mist
 layout: home
 nav_order: "0"
 parent: Projects

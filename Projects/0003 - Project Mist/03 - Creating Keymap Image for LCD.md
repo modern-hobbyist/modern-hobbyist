@@ -2,7 +2,7 @@
 title: Flashing custom images to the LCD
 layout: home
 nav_order: "2"
-parent: Split Keyboard - Mk. 1
+parent: Project Mist
 ---
 Whether you have several macro keys that you can't seem to keep straight in your mind or if you want to put a picture of your dog Fufu on your keyboard's LCD, the process to do that is the same, and it's relatively simple.
 

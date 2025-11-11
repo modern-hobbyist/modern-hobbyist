@@ -2,7 +2,7 @@
 title: Instructions
 layout: home
 nav_order: "1"
-parent: Split Keyboard - Mk. 1
+parent: Project Mist
 hidden: "true"
 ---
 # Electronics

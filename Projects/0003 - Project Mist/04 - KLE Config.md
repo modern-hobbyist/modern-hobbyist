@@ -2,7 +2,7 @@
 title: KLE Config
 layout: home
 nav_order: "3"
-parent: Split Keyboard - Mk. 1
+parent: Project Mist
 ---
 ```
 [{a:7},"\n\n\n\n1",{x:0.25},"\n\n\n\n2","\n\n\n\n3","\n\n\n\n4","\n\n\n\n5",{x:0.25},"\n\n\n\n6","\n\n\n\n7","\n\n\n\n8","\n\n\n\n9",{x:0.25},"\n\n\n\n10","\n\n\n\n11","\n\n\n\n12","\n\n\n\n13",{x:0.25},"\n\n\n\n14"],
