@@ -1,0 +1,1 @@
+I think for the time being I'd like to sell kits rather than assembled keyboards. 
