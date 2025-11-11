@@ -32,3 +32,5 @@ I think for the time being I'd like to sell kits rather than assembled keyboards
 		- Add on USB cable?
 
 # Cost
+PCB: 17.28 (bare PCB cost) + 68.40 (bare non-bulk SMD components cost) = **85.688** 
+Case: 
