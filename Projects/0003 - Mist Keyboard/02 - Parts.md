@@ -1,4 +1,10 @@
-
+---
+title: Instructions
+layout: home
+nav_order: "1"
+parent: Split Keyboard - Mk. 1
+hidden: "true"
+---
 # Electronics
 - Digikey Parts LIst
 - ILI9341 LCD
