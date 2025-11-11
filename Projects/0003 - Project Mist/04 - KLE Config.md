@@ -4,6 +4,9 @@ layout: home
 nav_order: "3"
 parent: Project Mist
 ---
+You can use this config by pasting it into the Raw Data tab in [Keyboard Layout Editor](https://www.keyboard-layout-editor.com/)
+
+It might be useful 
 ```
 [{a:7},"\n\n\n\n1",{x:0.25},"\n\n\n\n2","\n\n\n\n3","\n\n\n\n4","\n\n\n\n5",{x:0.25},"\n\n\n\n6","\n\n\n\n7","\n\n\n\n8","\n\n\n\n9",{x:0.25},"\n\n\n\n10","\n\n\n\n11","\n\n\n\n12","\n\n\n\n13",{x:0.25},"\n\n\n\n14"],
 [{y:0.25},"\n\n\n\n15","\n\n\n\n16","\n\n\n\n17","\n\n\n\n18","\n\n\n\n19","\n\n\n\n20","\n\n\n\n21","\n\n\n\n22","\n\n\n\n23","\n\n\n\n24","\n\n\n\n25","\n\n\n\n26","\n\n\n\n27",{w:2},"\n\n\n\n28"],
