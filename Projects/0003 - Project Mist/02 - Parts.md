@@ -1,5 +1,5 @@
 ---
-title: Instructions
+title: Part
 layout: home
 nav_order: "1"
 parent: Project Mist
