@@ -29,4 +29,6 @@ I think for the time being I'd like to sell kits rather than assembled keyboards
 		- Add On Case and plate--> $X
 			- Choose color of case and material of plate?
 		- Add on plate foam --> $X
-		- Add on USB cable?'
+		- Add on USB cable?
+
+# Cost
