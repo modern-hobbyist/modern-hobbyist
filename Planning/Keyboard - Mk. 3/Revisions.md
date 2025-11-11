@@ -2,9 +2,8 @@
 	- it seems to push it up due to the electronics under the PCB, so the USB C port doesn't line up properly.
 - Logo on the case
 - More detail on the case
-- Add more bolt holes around perimeter?
-	- Maybe just for 3d printed case
-	- I would imagine the aluminum would be sturdy enough and straight/stiff enough
+- Add more bolt holes around perimeter, specifically the top. 
+- Fix space under top, something from the display is colliding with it.
 - Gasket to keep top/bottom parts vibration isolated?
 - Silicone under the PCB?
 - Redesign for KS33 switches
