@@ -45,8 +45,6 @@ If you want to set up something similar, here’s a rough outline of what you ne
 
 This setup allows me to focus on documenting my learning process without worrying about deployment or version control. If you have questions or want to tweak this workflow for your own use, feel free to reach out!
 
-Thanks!
-
 Charlie Steenhagen  
 [Modern Hobbyist](https://www.youtube.com/@ModernHobbyist)
 
