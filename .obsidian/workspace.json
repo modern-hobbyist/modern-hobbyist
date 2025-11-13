@@ -67,14 +67,12 @@
             "id": "eb499d12bc7b3358",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Planning/Keyboard - Mk. 3/Selling Kits.md",
-                "mode": "source",
-                "source": false
+                "file": "screenRecording-000186.png"
               },
-              "icon": "lucide-file",
-              "title": "Selling Kits"
+              "icon": "lucide-image",
+              "title": "screenRecording-000186"
             }
           },
           {
@@ -338,11 +336,16 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "eb499d12bc7b3358",
+  "active": "7cb2194fe6c89b2c",
   "lastOpenFiles": [
     "livesync_log_2025-11-13.md",
-    "Planning/Keyboard - Mk. 3/Revisions.md",
+    "screenRecording-000186.png",
+    "Untitled.base",
+    "index.md",
+    "livesync_log_2025-10-30.md",
     "Planning/Keyboard - Mk. 3/Selling Kits.md",
+    "redflag.md",
+    "Planning/Keyboard - Mk. 3/Revisions.md",
     "Planning/Keyboard - Mk. 3/Selling plans.md",
     "Projects/0003 - Project Mist/04 - KLE Config.md",
     "Projects/0003 - Project Mist/02 - Parts.md",
@@ -365,11 +368,6 @@
     "Planning/Keyboard - Mk. 3/Instructions/Untitled",
     "Planning/Keyboard - Mk. 3/Instructions",
     "Planning/Keyboard - Mk. 3/Shots to Capture.md",
-    "livesync_log_2025-11-05.md",
-    "Planning/Keyboard - Mk. 3/Actual Build - 1.md",
-    "livesync_log_2025-10-30.md",
-    "Notes/CNC Bitsetter and Tool Changes.md",
-    "Untitled.base",
     "Planning/Keyboard - Mk. 3/Product Design Phases.canvas",
     "temp",
     "Planning/Untitled",
@@ -377,7 +375,6 @@
     "Projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-numpad.json",
     "Projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-right.json",
     "Topics/Keyboard Building",
-    "screenRecording-000186.png",
     "Planning/Hermod Mk. 2/img/screenRecording-000185.png",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6750.jpg",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6752.jpg",
