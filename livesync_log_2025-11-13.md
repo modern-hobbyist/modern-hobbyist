@@ -31,3 +31,6 @@ modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:27:13 PM->OneShot Sync begin... (
 modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:27:13 PM->[HiddenFileSync]  Hidden file will skip 0 files
 modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:27:14 PM->Configuration mismatching between the clients has been detected. This can be harmful or extra capacity consumption. We have to make these value unified.
 modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:27:14 PM->Could not connect to server.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:30:03 PM->Database is now ready.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:30:03 PM->[HiddenFileSync]  Hidden file will skip 0 files
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:30:03 PM->The red flag is raised! The whole initialize steps are skipped, and any file changes are not captured.
