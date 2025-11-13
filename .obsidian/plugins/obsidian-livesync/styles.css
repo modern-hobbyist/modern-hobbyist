@@ -393,13 +393,13 @@ span.ls-mark-cr::after {
 div.workspace-leaf-content[data-type=bases]  .livesync-status {
     top: calc(var(--bases-header-height) + var(--header-height));
     padding: 5px;
-    padding-right:18px;
+    padding-right: 18px;
 }
 
 .is-mobile div.workspace-leaf-content[data-type=bases]  .livesync-status {
     top: calc(var(--bases-header-height) + var(--view-header-height));
     padding: 6px;
-    padding-right:18px;
+    padding-right: 18px;
 }
 
 .livesync-status div {
@@ -414,12 +414,19 @@ div.workspace-leaf-content[data-type=bases]  .livesync-status {
 
 }
 
-.livesync-status div.livesync-status-messagearea {
+.livesync-status div.livesync-status-messagearea:empty {
+    display: none;
+}
+
+.livesync-status div.livesync-status-messagearea:not(:empty) {
     opacity: 0.6;
     color: var(--text-on-accent);
-    background: var(--background-modifier-error);
+    border: 1px solid var(--background-modifier-error);
+    background-color: rgba(var(--background-modifier-error-rgb), 0.2);
     -webkit-filter: unset;
     filter: unset;
+    width: fit-content;
+    margin-left: auto;
 }
 
 
@@ -442,6 +449,10 @@ div.workspace-leaf-content[data-type=bases]  .livesync-status {
     background-color: var(--background-secondary-alt);
     border-radius: 10px;
     padding: 0.5em 1.0em;
+}
+
+.active-pane .sls-setting-panel-title {
+    border: 1px solid var(--interactive-accent);
 }
 
 .sls-dialogue-note-wrapper {
