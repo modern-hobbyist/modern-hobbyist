@@ -1,3 +1,6 @@
+---
+aliases:
+---
 One thing to keep in mind when designing a custom keyboard is the keycaps you wanna use.  There are services you can use to order keycaps with custom text or graphics on them, but the only come in a limited set of layouts. So if you go too crazy adjusting keycap sizes, you'll have a hard time finding keycaps that fit. 
 
 So for this design, I started with the ANSI 104 layout and adjusted it by moving keys around, rather than adding them entirely from scratch. 

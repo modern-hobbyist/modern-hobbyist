@@ -56,3 +56,109 @@ modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:32:11 PM->OneShot Sync begin... (
 modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:32:11 PM->Configuration mismatching between the clients has been detected. This can be harmful or extra capacity consumption. We have to make these value unified.
 modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:32:11 PM->Could not connect to server.
 modern-hobbyist-documents/Modern Hobbyist:11/12/2025, 8:36:17 PM->Database is now ready.
+modern-hobbyist-documents/Modern Hobbyist:11/12/2025, 8:36:22 PM->Connected to modern-hobbyist successfully
+modern-hobbyist-documents/Modern Hobbyist:11/12/2025, 8:36:24 PM->Remote configuration applied.
+modern-hobbyist-documents/Modern Hobbyist:11/12/2025, 8:36:24 PM->[ModuleRedFlag]  Fetching everything with settings: makeLocalChunkBeforeSync=false, makeLocalFilesBeforeSync=false
+modern-hobbyist-documents/Modern Hobbyist:11/12/2025, 8:36:24 PM->Suspending reflection: Database and storage changes will not be reflected in each other until completely finished the fetching.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:24 PM->Database closed for reset Database.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:24 PM->Opening Database...
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:24 PM->Database is now ready.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:24 PM->Local Database Reset
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:25 PM->Database closed (by close)
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:25 PM->[ModuleLocalDatabaseObsidian]  Waiting for ready...
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:25 PM->Opening Database...
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:25 PM->Database is now ready.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:26 PM->Mark this device as 'resolved'.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:27 PM->Fetched synchronisation parameters
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:27 PM->Synchronisation parameters fetched successfully
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:27 PM->OneShot Sync begin... (pullOnly)
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:28 PM->Looking for the point last synchronized point.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:30 PM->Replication activated
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:31 PM->↑0 ↓3 (LIVE)
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:32 PM->Replication completed
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:33 PM->OneShot Sync begin... (pullOnly)
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->Looking for the point last synchronized point.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->Replication completed
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->Database and storage reflection has been resumed!
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->Initializing
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->[ModuleInitializerFile]  Initialize and checking database files
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->[ModuleInitializerFile]  Checking deleted files
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->Collecting local files on the DB: 25
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->Collecting local files on the DB: 50
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->Collecting local files on the DB: 75
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->[ModuleInitializerFile]  Synchronising...
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->[ModuleInitializerFile]  UPDATE DATABASE
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->[ModuleInitializerFile]  UPDATE STORAGE: Nothing to do
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->[ModuleInitializerFile]  SYNC DATABASE AND STORAGE
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->SYNC DATABASE AND STORAGE: DONE:1, FAILED:0, LAST:84
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->[ModuleInitializerFile]  SYNC DATABASE AND STORAGE: Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md has conflicts. skipped
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->[ModuleInitializerFile]  Initialized, NOW TRACKING!
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->Initialize done!
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->[ModuleFileHandler]  Processing Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md (planning :2-4f2) : Done
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:34 PM->SYNC DATABASE AND STORAGE: DONE:1, FAILED:0, LAST:84
+UPDATE DATABASE All done: DONE:2, FAILED:0
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:35 PM->Writing fetched chunks (11) to the database...
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:35 PM->Sensible merge:Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:35 PM->[ModuleDatabaseFileAccess]  STORAGE -> DB (plain) Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:35 PM->[ModuleDatabaseFileAccess]  deleteDB By path:Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:35 PM->Entry removed:Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md (planning-3-5573303fd391c83cbacfd11612340531)
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:35 PM->[ModuleConflictResolver]  Resolving [Sensible]: Conflicted revision has been deleted 2-19ece0 Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:35 PM->Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md has been merged automatically
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:35 PM->[ModuleConflictResolver]  [conflict] Automatically merged, but we have to check it again
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->Fetch everything operation completed. Vault files will be gradually synced.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->[ModuleInitializerFile]  Initialize and checking database files
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->[ModuleInitializerFile]  Checking deleted files
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->[ModuleInitializerFile]  Collecting local files on the DB: 25
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->[ModuleInitializerFile]  Collecting local files on the DB: 50
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->[ModuleInitializerFile]  Collecting local files on the DB: 75
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->[ModuleInitializerFile]  Synchronising...
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->[ModuleInitializerFile]  UPDATE DATABASE
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->[ModuleInitializerFile]  UPDATE STORAGE: Nothing to do
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->[ModuleInitializerFile]  SYNC DATABASE AND STORAGE
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->[ModuleInitializerFile]  SYNC DATABASE AND STORAGE: DONE:1, FAILED:0, LAST:84
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->[ModuleInitializerFile]  Initialized, NOW TRACKING!
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->Rule satisfied: sendChunksBulk is false
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->Rule satisfied: sendChunksBulkMaxSize is 1
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->Rule violation: doNotUseFixedRevisionForChunks is false but should be true
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->Rule satisfied: handleFilenameCaseSensitive is false
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->Rule satisfied: useEden is false
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->Rule satisfied: hashAlg is xxhash64
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->Rule satisfied: disableCheckingConfigMismatch is false
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->Rule satisfied: enableCompression is false
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->Rule satisfied: usePluginSyncV2 is true
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->Rule satisfied: chunkSplitterVersion is v3-rabin-karp
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->Rule violation: customChunkSize is 50 but should be 60
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->Rule satisfied: E2EEAlgorithm is v2
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:37 PM->[ModuleInitializerFile]  SYNC DATABASE AND STORAGE: DONE:1, FAILED:0, LAST:84
+UPDATE DATABASE All done: DONE:1, FAILED:0
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:57 PM->LiveSync Enabled.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:57 PM->Before LiveSync, start OneShot once...
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:57 PM->OneShot Sync begin... (pullOnly)
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:59 PM->Replication completed
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:36:59 PM->LiveSync begin...
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->Database is now ready.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->[ModuleInitializerFile]  Initialize and checking database files
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->[ModuleInitializerFile]  Checking deleted files
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->[ModuleInitializerFile]  Collecting local files on the DB: 25
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->[ModuleInitializerFile]  Collecting local files on the DB: 50
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->[ModuleInitializerFile]  Collecting local files on the DB: 75
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->[ModuleInitializerFile]  Synchronising...
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->[ModuleInitializerFile]  UPDATE DATABASE
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->[ModuleInitializerFile]  UPDATE STORAGE: Nothing to do
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->[ModuleInitializerFile]  SYNC DATABASE AND STORAGE
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->[ModuleInitializerFile]  SYNC DATABASE AND STORAGE: DONE:1, FAILED:0, LAST:84
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->[ModuleInitializerFile]  Initialized, NOW TRACKING!
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->Rule satisfied: sendChunksBulk is false
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->Rule satisfied: sendChunksBulkMaxSize is 1
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->Rule violation: doNotUseFixedRevisionForChunks is false but should be true
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->Rule satisfied: handleFilenameCaseSensitive is false
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->Rule satisfied: useEden is false
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->Rule satisfied: hashAlg is xxhash64
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->Rule satisfied: disableCheckingConfigMismatch is false
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->Rule satisfied: enableCompression is false
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->Rule satisfied: usePluginSyncV2 is true
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->Rule satisfied: chunkSplitterVersion is v3-rabin-karp
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->Rule violation: customChunkSize is 50 but should be 60
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->Rule satisfied: E2EEAlgorithm is v2
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:37:05 PM->[ModuleInitializerFile]  SYNC DATABASE AND STORAGE: DONE:1, FAILED:0, LAST:84
+UPDATE DATABASE All done: DONE:1, FAILED:0
