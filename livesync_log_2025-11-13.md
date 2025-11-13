@@ -15,3 +15,19 @@ modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:25:24 PM->Rule satisfied: usePlug
 modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:25:24 PM->Rule satisfied: chunkSplitterVersion is v3-rabin-karp
 modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:25:24 PM->Rule satisfied: customChunkSize is 60
 modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:25:24 PM->Rule satisfied: E2EEAlgorithm is v2
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:26:40 PM->LiveSync Enabled.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:26:40 PM->[HiddenFileSync]  Hidden file will skip 0 files
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:26:40 PM->Fetched synchronisation parameters
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:26:40 PM->Synchronisation parameters fetched successfully
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:26:40 PM->Before LiveSync, start OneShot once...
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:26:40 PM->OneShot Sync begin... (pullOnly)
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:26:41 PM->Configuration mismatching between the clients has been detected. This can be harmful or extra capacity consumption. We have to make these value unified.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:26:41 PM->Could not connect to server.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:27:11 PM->LiveSync Disabled.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:27:11 PM->[HiddenFileSync]  Hidden file will skip 0 files
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:27:13 PM->LiveSync Enabled.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:27:13 PM->Before LiveSync, start OneShot once...
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:27:13 PM->OneShot Sync begin... (pullOnly)
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:27:13 PM->[HiddenFileSync]  Hidden file will skip 0 files
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:27:14 PM->Configuration mismatching between the clients has been detected. This can be harmful or extra capacity consumption. We have to make these value unified.
+modern-hobbyist-1b84c62eb98c0f74:11/12/2025, 8:27:14 PM->Could not connect to server.
