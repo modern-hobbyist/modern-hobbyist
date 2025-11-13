@@ -334,11 +334,13 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-livesync:P2P Replicator": false,
       "obsidian-livesync:Show Log": false,
-      "obsidian-livesync:Replicate": false
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
   "active": "eb499d12bc7b3358",
   "lastOpenFiles": [
+    "livesync_log_2025-11-13.md",
     "Planning/Keyboard - Mk. 3/Revisions.md",
     "Planning/Keyboard - Mk. 3/Selling Kits.md",
     "Planning/Keyboard - Mk. 3/Selling plans.md",
@@ -369,7 +371,6 @@
     "Notes/CNC Bitsetter and Tool Changes.md",
     "Untitled.base",
     "Planning/Keyboard - Mk. 3/Product Design Phases.canvas",
-    "Planning/Keyboard - Mk. 3/YouTube Description.md",
     "temp",
     "Planning/Untitled",
     "Projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-left.json",
