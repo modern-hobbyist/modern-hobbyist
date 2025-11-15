@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how-i-made-this-wiki.md",
+                "file": "Projects/TinyCNC/Settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how-i-made-this-wiki"
+              "title": "Settings"
             }
           },
           {
@@ -340,6 +340,10 @@
   },
   "active": "eb499d12bc7b3358",
   "lastOpenFiles": [
+    "how-i-made-this-wiki.md",
+    "Projects/TinyCNC/Settings.md",
+    "Projects/TinyCNC",
+    "livesync_log_2025-11-15.md",
     "screenRecording-000186.png",
     "Untitled.base",
     "livesync_log_2025-11-13.md",
@@ -366,17 +370,14 @@
     "Planning/Keyboard - Mk. 3/Drawing 2025-07-10 22.13.01.excalidraw.md",
     "Planning/Keyboard - Mk. 3/Manufacturing.md",
     "Planning/Keyboard - Mk. 3/Mist Keyboard talking Points.md",
-    "Planning/Keyboard - Mk. 3/Notes.md",
     "Planning/Keyboard - Mk. 3/Instructions/Untitled",
     "Planning/Keyboard - Mk. 3/Instructions",
-    "Planning/Keyboard - Mk. 3/Shots to Capture.md",
     "Planning/Keyboard - Mk. 3/Product Design Phases.canvas",
     "temp",
     "Planning/Untitled",
     "Projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-left.json",
     "Projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-numpad.json",
     "Projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-right.json",
-    "Topics/Keyboard Building",
     "Planning/Hermod Mk. 2/img/screenRecording-000185.png",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6750.jpg",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6752.jpg",
