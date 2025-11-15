@@ -1,4 +1,6 @@
 {
   "id@@colorblind_protan-deutan": true,
-  "id@@colorblind_tritan": true
+  "id@@colorblind_tritan": true,
+  "id@@h-color-theme@@light": "#FD9926",
+  "id@@h-color-theme@@dark": "#FD9926"
 }
