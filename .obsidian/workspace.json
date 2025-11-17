@@ -334,11 +334,13 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-livesync:P2P Replicator": false,
       "obsidian-livesync:Show Log": false,
-      "obsidian-livesync:Replicate": false
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
   "active": "eb499d12bc7b3358",
   "lastOpenFiles": [
+    "livesync_log_2025-11-17.md",
     "livesync_log_2025-11-16.md",
     "how-i-made-this-wiki.md",
     "Projects/TinyCNC/Settings.md",
@@ -368,7 +370,6 @@
     "livesync_log_2025-11-11.md",
     "Planning/Keyboard - Mk. 3/Instructions/Replacing LCD Image.md",
     "Planning/Keyboard - Mk. 3/Drawing 2025-07-10 22.13.01.excalidraw.md",
-    "Planning/Keyboard - Mk. 3/Manufacturing.md",
     "Planning/Keyboard - Mk. 3/Instructions/Untitled",
     "Planning/Keyboard - Mk. 3/Instructions",
     "Planning/Keyboard - Mk. 3/Product Design Phases.canvas",
