@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/TinyCNC/Settings.md",
+                "file": "Planning/Keyboard - Mk. 3/YouTube Description.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Settings"
+              "title": "YouTube Description"
             }
           },
           {
@@ -340,10 +340,16 @@
   },
   "active": "eb499d12bc7b3358",
   "lastOpenFiles": [
+    "Planning/Keyboard - Mk. 3/Selling plans.md",
+    "Planning/Keyboard - Mk. 3/YouTube Description.md",
+    "Planning/Keyboard - Mk. 3/Shots to Capture.md",
+    "Projects/0003 - Project Mist/01 - Overview.md",
+    "Projects/TinyCNC/Settings.md",
+    "Untitled 1.base",
+    "livesync_log_2025-11-19.md",
     "livesync_log_2025-11-17.md",
     "livesync_log_2025-11-16.md",
     "how-i-made-this-wiki.md",
-    "Projects/TinyCNC/Settings.md",
     "Projects/TinyCNC",
     "livesync_log_2025-11-15.md",
     "screenRecording-000186.png",
@@ -354,10 +360,8 @@
     "Planning/Keyboard - Mk. 3/Selling Kits.md",
     "redflag.md",
     "Planning/Keyboard - Mk. 3/Revisions.md",
-    "Planning/Keyboard - Mk. 3/Selling plans.md",
     "Projects/0003 - Project Mist/04 - KLE Config.md",
     "Projects/0003 - Project Mist/02 - Parts.md",
-    "Projects/0003 - Project Mist/01 - Overview.md",
     "Projects/0003 - Project Mist/03 - Creating Keymap Image for LCD.md",
     "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
     "Projects/0002 - Split Keyboard - Mk. 1/0 - Split Keyboard - Mk. 1.md",
@@ -367,9 +371,6 @@
     "Projects/0003.md",
     "Projects/0001 - DIY Keyboard.md",
     "Projects/0003 - Project Mist",
-    "livesync_log_2025-11-11.md",
-    "Planning/Keyboard - Mk. 3/Instructions/Replacing LCD Image.md",
-    "Planning/Keyboard - Mk. 3/Drawing 2025-07-10 22.13.01.excalidraw.md",
     "Planning/Keyboard - Mk. 3/Instructions/Untitled",
     "Planning/Keyboard - Mk. 3/Instructions",
     "Planning/Keyboard - Mk. 3/Product Design Phases.canvas",
@@ -377,7 +378,6 @@
     "Planning/Untitled",
     "Projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-left.json",
     "Projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-numpad.json",
-    "Projects/0002 - Split Keyboard - Mk. 1/img/hermod-final-right.json",
     "Planning/Hermod Mk. 2/img/screenRecording-000185.png",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6750.jpg",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6752.jpg",

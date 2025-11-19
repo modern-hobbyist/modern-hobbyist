@@ -1,3 +1,4 @@
 - Access to the Fusion360 Design
 - DXF files for laser cutting
+- Step by step assembly and manufacturing instructions
 - 
