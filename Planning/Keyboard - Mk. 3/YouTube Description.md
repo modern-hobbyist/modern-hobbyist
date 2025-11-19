@@ -25,5 +25,6 @@ Learning Resources -
 		- [ ] M3 bolts
 		- [ ] Stabilizers
 		- [ ] Unified Daugher board
+		- [ ] LCD Mounting bolts and nuts
 	- [ ] DigiKey BOM link
 - [ ] 
