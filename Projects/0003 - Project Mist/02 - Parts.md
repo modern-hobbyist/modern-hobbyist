@@ -17,7 +17,7 @@ hidden: "true"
 ### Hardware
 
 - [1.5mm Acrylic Sheet](https://a.co/d/8NMezDu)
-- M3x8mm Bolts - x13
+- [M3x8mm Bolts - x13](https://boltdepot.com/Product-Details?product=13635)
 - M3 Nuts - x4
 - Heatset Inserts - M3x3mm
 - [3mm Poron Sheet](https://www.aliexpress.us/item/3256804497716681.html?spm=a2g0o.order_list.order_list_main.52.32781802UqhhF2&gatewayAdapt=glo2usa)
