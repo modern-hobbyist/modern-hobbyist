@@ -33,6 +33,11 @@ Aside from the UDB connector and the lack of USB-C/on-board ESD protection circu
 - **Display**: 2.2" LCD (320x240 resolution) per half.
 - **Lighting**: SK6812 Mini RGB LEDs.
 
+## PCB
+
+- [KiCAD Projects](https://github.com/modern-hobbyist/aesir/tree/main/mist-udb)
+	- Contains KiCAD projects, BOM and some additional instructions.
+- [PCBWay Project](https://www.pcbway.com/project/shareproject/Custom_Mechanical_Keyboard_7a40c23a.html)
 ## Firmware
 
 Since this is a custom keyboard, it's generally assumed that you'll want to customize the firmware as well. This board is compatible with QMK and I've put together a basic starter firmware in my fork of the main QMK repository. You'll be able to learn more from the QMK Docs or Discord than I can teach you in a single README file, but my fork, and my QMK Userspace should be good resources to help you get your own custom firmware going. 
@@ -45,7 +50,7 @@ However, if you happen to love the way I've got my firmware set up, you can find
 
 Since this keyboard has an LCD, the odds are you'll want to put something on there. If I'm correct in thinking that, below you can find a more detailed walk through of how to get a custom keymap PNG for your display:
 
-- [[03 - Creating Keymap Image for LCD|Flashing a custom image to your LCD]]
+- [Flashing a custom image to your LCD](https://wiki.modhobbyist.com/Projects/0003%20-%20Project%20Mist/03%20-%20Creating%20Keymap%20Image%20for%20LCD.html)
 
 ## License
 
