@@ -10,13 +10,13 @@ hidden: "true"
 - [Digikey Parts LIst](https://www.digikey.com/en/mylists/list/XUNNWUFIT7)
 - [ILI9341 LCD](https://www.aliexpress.us/item/2255800032844649.html?spm=a2g0o.order_list.order_list_main.107.32781802UqhhF2&gatewayAdapt=glo2usa)
 - PCB's
-- Unified Daughter Board
+- [Unified Daughter Board](https://cannonkeys.com/products/unified-daughterboard-and-jst-cable?variant=41613867843695)
 - [Hotswap Sockets I used](https://www.aliexpress.us/item/3256807081236706.html?spm=a2g0o.order_list.order_list_main.5.32781802UqhhF2&gatewayAdapt=glo2usa)
 - [Keycaps I used](https://www.aliexpress.us/item/3256805029855838.html?spm=a2g0o.order_list.order_list_main.16.32781802UqhhF2&gatewayAdapt=glo2usa)
-- Switches of Choice 
+- Switches of Choice
 ### Hardware
 
-- 1.5mm Acrylic Sheet
+- [1.5mm Acrylic Sheet](https://a.co/d/8NMezDu)
 - M3x8mm Bolts - x13
 - M3 Nuts - x4
 - [3mm Poron Sheet](https://www.aliexpress.us/item/3256804497716681.html?spm=a2g0o.order_list.order_list_main.52.32781802UqhhF2&gatewayAdapt=glo2usa)
