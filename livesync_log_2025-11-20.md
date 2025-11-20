@@ -1180,3 +1180,17 @@ modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 1:32:17 PM->Failed to fetch: AbortE
 modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 1:32:17 PM->AbortError:signal is aborted without reason
 modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 1:35:00 PM->OneShot Sync begin... (sync)
 modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 1:35:02 PM->Replication completed
+modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 2:24:02 PM->OneShot Sync begin... (sync)
+modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 2:24:14 PM->[ModuleObsidianAPI]  Failed to fetch by native fetch API. Trying to fetch by API to get more information.
+modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 2:24:35 PM->Error:net::ERR_NAME_NOT_RESOLVED
+modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 2:24:35 PM->Failed to fetch: Error:net::ERR_NAME_NOT_RESOLVED
+modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 2:24:35 PM->Error:net::ERR_NAME_NOT_RESOLVED
+modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 2:24:35 PM->Could not connect to https://obsidian.steenhagens.com/modern-hobbyist:Error:net::ERR_NAME_NOT_RESOLVED
+modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 2:24:35 PM->Could not connect to server.
+modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 2:24:50 PM->OneShot Sync begin... (sync)
+modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 2:25:15 PM->[ModuleObsidianAPI]  Failed to fetch by native fetch API. Trying to fetch by API to get more information.
+modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 2:26:08 PM->Error:net::ERR_NETWORK_CHANGED
+modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 2:26:08 PM->Failed to fetch: Error:net::ERR_NETWORK_CHANGED
+modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 2:26:08 PM->Error:net::ERR_NETWORK_CHANGED
+modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 2:26:08 PM->Could not connect to https://obsidian.steenhagens.com/modern-hobbyist:Error:net::ERR_NETWORK_CHANGED
+modern-hobbyist-1b84c62eb98c0f74:11/20/2025, 2:26:08 PM->Could not connect to server.
