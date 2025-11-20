@@ -14,6 +14,7 @@ hidden: "true"
 - [Hotswap Sockets I used](https://www.aliexpress.us/item/3256807081236706.html?spm=a2g0o.order_list.order_list_main.5.32781802UqhhF2&gatewayAdapt=glo2usa)
 - [Keycaps I used](https://www.aliexpress.us/item/3256805029855838.html?spm=a2g0o.order_list.order_list_main.16.32781802UqhhF2&gatewayAdapt=glo2usa)
 - [Switches of Choice](https://www.gateron.com/products/gateron-ks-3x1-full-milky-switch-feature?VariantsId=10405)
+- [Stabilizers of Choice](https://a.co/d/hJjX7h8)
 ### Hardware
 
 - [1.5mm Acrylic Sheet](https://a.co/d/8NMezDu)
