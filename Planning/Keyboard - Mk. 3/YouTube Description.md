@@ -1,3 +1,5 @@
+Project Write-up: https://www.modhobbyist.com/projects/
+Wiki: http://wiki.modhobbyist.com/Projects/0003%20-%20Project%20Mist/01%20-%20Overview.html
 PCBWay Project - https://www.pcbway.com/project/shareproject/Custom_Mechanical_Keyboard_7a40c23a.html
 3d Models - https://www.printables.com/model/1486920
 KB Placer Plugin - https://github.com/adamws/kicad-kbplacer
