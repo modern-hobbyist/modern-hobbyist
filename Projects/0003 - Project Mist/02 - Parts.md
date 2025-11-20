@@ -15,6 +15,7 @@ hidden: "true"
 - [Keycaps I used](https://www.aliexpress.us/item/3256805029855838.html?spm=a2g0o.order_list.order_list_main.16.32781802UqhhF2&gatewayAdapt=glo2usa)
 - [Switches of Choice](https://a.co/d/3fji9Gi)
 - [Stabilizers of Choice](https://a.co/d/hJjX7h8)
+
 ### Hardware
 
 - [1.5mm Acrylic Sheet](https://a.co/d/8NMezDu)
@@ -26,6 +27,7 @@ hidden: "true"
 - [M2x6mm Nylon Standoffs](https://www.aliexpress.us/item/3256808418665069.html?spm=a2g0o.order_list.order_list_main.37.32781802UqhhF2&gatewayAdapt=glo2usa) - Female - Female
 - [M2x3mm screws](https://www.aliexpress.us/item/3256807746050750.html?spm=a2g0o.order_list.order_list_main.32.32781802UqhhF2&gatewayAdapt=glo2usa)
 - [8mm Steel Rods](https://a.co/d/39idH9k)
+  
 # Tools
 - [Heat Set Insert tips](https://a.co/d/3we9tOl)
 - 3d Printer
