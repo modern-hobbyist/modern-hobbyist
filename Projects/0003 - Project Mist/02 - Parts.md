@@ -8,10 +8,11 @@ hidden: "true"
 ### Electronics
 
 - [Digikey Parts LIst](https://www.digikey.com/en/mylists/list/XUNNWUFIT7)
-- ILI9341 LCD
+- [ILI9341 LCD](https://www.aliexpress.us/item/2255800032844649.html?spm=a2g0o.order_list.order_list_main.107.32781802UqhhF2&gatewayAdapt=glo2usa)
 - PCB's
 - Unified Daughter Board
-- Hotswap Sockets
+- Hotswap Sockets I used
+- [Keycaps I used](https://www.aliexpress.us/item/3256805029855838.html?spm=a2g0o.order_list.order_list_main.16.32781802UqhhF2&gatewayAdapt=glo2usa)
 - Switches of Choice 
 ### Hardware
 
