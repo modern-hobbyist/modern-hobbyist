@@ -7,7 +7,7 @@ hidden: "true"
 ---
 ### Electronics
 
-- Digikey Parts LIst
+- [Digikey Parts LIst](https://www.digikey.com/en/mylists/list/XUNNWUFIT7)
 - ILI9341 LCD
 - PCB's
 - Unified Daughter Board
