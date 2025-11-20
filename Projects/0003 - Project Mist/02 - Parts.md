@@ -19,11 +19,7 @@ hidden: "true"
 - 3mm gaskets
 - 6mm Nylon Standoffs
 - 8mm Steel Rods
-- 
 - M2 screws
-- Switches
-- Stabilizers
-- Hotswap Sockets
 - 
 # Tools
 - 3d Printer
