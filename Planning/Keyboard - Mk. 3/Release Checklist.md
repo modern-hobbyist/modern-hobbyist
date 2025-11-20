@@ -5,9 +5,9 @@
 	- [ ] BOM for KS-33
 	- [ ] BOM for Cherry/Gateron Standard
 - [ ] Open source files I need
-	- [ ] 3d models (Printables)
-	- [ ] Firmware link
-	- [ ] PCBWay Files Link
+	- [x] 3d models (Printables)
+	- [x] Firmware link
+	- [x] PCBWay Files Link
 	- [ ] Non SMD BOM 
 		- [ ] Switches I used
 		- [ ] Keycaps I used
