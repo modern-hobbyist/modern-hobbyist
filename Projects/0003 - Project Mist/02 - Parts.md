@@ -14,13 +14,13 @@ hidden: "true"
 - Switches of Choice
 # Hardware
 - 1.5mm Acrylic Sheet
-- M3x8mm Bolts - x9
+- M3x8mm Bolts - x13
+- M3 Nuts - x4
 - 3mm Poron Sheet
 - 3mm gaskets
 - 6mm Nylon Standoffs
 - 8mm Steel Rods
 - M2 screws
-- 
 # Tools
 - 3d Printer
 - Allen Wrenches
