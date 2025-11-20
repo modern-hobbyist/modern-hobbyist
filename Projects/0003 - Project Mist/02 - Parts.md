@@ -33,6 +33,7 @@ hidden: "true"
 - Computer
 - USB C Cable
 - Super Glue
+- Heat Set Inse
 
 # Firmware
 - GitHub Link
