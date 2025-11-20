@@ -26,6 +26,7 @@ hidden: "true"
 - [M2x3mm screws](https://www.aliexpress.us/item/3256807746050750.html?spm=a2g0o.order_list.order_list_main.32.32781802UqhhF2&gatewayAdapt=glo2usa)
 - [8mm Steel Rods](https://a.co/d/39idH9k)
 # Tools
+- [Heat Set Insert tips](https://a.co/d/3we9tOl)
 - 3d Printer
 - Allen Wrenches
 - Razor Blade
@@ -33,7 +34,6 @@ hidden: "true"
 - Computer
 - USB C Cable
 - Super Glue
-- Heat Set Inse
 
 # Firmware
 - GitHub Link
