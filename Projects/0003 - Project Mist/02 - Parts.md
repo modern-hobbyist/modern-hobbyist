@@ -18,7 +18,13 @@ hidden: "true"
 - 3mm Poron Sheet
 - 3mm gaskets
 - 6mm Nylon Standoffs
-- 5mm Steel Rods
+- 8mm Steel Rods
+- 
+- M2 screws
+- Switches
+- Stabilizers
+- Hotswap Sockets
+- 
 # Tools
 - 3d Printer
 - Allen Wrenches
