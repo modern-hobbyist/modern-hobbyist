@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/0003 - Project Mist/02 - Parts.md",
+                "file": "Planning/Keyboard - Mk. 3/Release Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Parts"
+              "title": "Release Checklist"
             }
           },
           {
@@ -340,9 +340,10 @@
   },
   "active": "eb499d12bc7b3358",
   "lastOpenFiles": [
-    "Projects/0003 - Project Mist/01 - Overview.md",
-    "Projects/0003 - Project Mist/02 - Parts.md",
     "Planning/Keyboard - Mk. 3/YouTube Description.md",
+    "Planning/Keyboard - Mk. 3/Release Checklist.md",
+    "Projects/0003 - Project Mist/02 - Parts.md",
+    "Projects/0003 - Project Mist/01 - Overview.md",
     "Projects/0003 - Project Mist/03 - Creating Keymap Image for LCD.md",
     "Topics/Keyboard Building/5. Keyboard Resouces.md",
     "Projects/0001 - DIY Keyboard.md",
@@ -369,7 +370,6 @@
     "redflag.md",
     "Planning/Keyboard - Mk. 3/Revisions.md",
     "Projects/0003 - Project Mist/04 - KLE Config.md",
-    "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
     "Projects/0003 - Project Mist",
     "Planning/Keyboard - Mk. 3/Instructions/Untitled",
     "Planning/Keyboard - Mk. 3/Instructions",

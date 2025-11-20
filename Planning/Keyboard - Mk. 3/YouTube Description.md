@@ -8,26 +8,3 @@ UDB - https://unified-daughterboard.github.io/#/db-spec-s
 Learning Resources -  https://wiki.modhobbyist.com/Topics/Keyboard%20Building/5.%20Keyboard%20Resouces.html
 Help Me Keep Making Projects: https://www.paypal.biz/modernhobbyist
 Support Me On Patreon: https://patreon.com/modernhobbyist
-# Release Checklist
-- [ ] Finish Video
-- [ ] Finish Thumbnail
-- [ ] Update video links on website
-- [ ] Update GitHub Repo
-	- [ ] BOM for KS-33
-	- [ ] BOM for Cherry/Gateron Standard
-- [ ] Open source files I need
-	- [ ] 3d models (Printables)
-	- [ ] Firmware link
-	- [ ] PCBWay Files Link
-	- [ ] Non SMD BOM 
-		- [ ] Switches I used
-		- [ ] Keycaps I used
-		- [ ] LCD I used
-		- [ ] Standoffs
-		- [ ] M2 screws
-		- [ ] M3 bolts
-		- [ ] Stabilizers
-		- [ ] Unified Daugher board
-		- [ ] LCD Mounting bolts and nuts
-	- [ ] DigiKey BOM link
-- [ ] Post on Discord
