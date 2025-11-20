@@ -6,6 +6,8 @@ KB Placer Plugin - https://github.com/adamws/kicad-kbplacer
 PCBWay Plugin - https://www.pcbway.com/blog/News/PCBWay_Plug_In_for_KiCad_3ea6219c.html
 UDB - https://unified-daughterboard.github.io/#/db-spec-s
 Learning Resources -  https://wiki.modhobbyist.com/Topics/Keyboard%20Building/5.%20Keyboard%20Resouces.html
+Help Me Keep Making Projects: https://www.paypal.biz/modernhobbyist
+Support Me On Patreon: https://patreon.com/modernhobbyist
 # Release Checklist
 - [ ] Finish Video
 - [ ] Finish Thumbnail
