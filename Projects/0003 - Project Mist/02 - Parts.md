@@ -5,14 +5,16 @@ nav_order: "1"
 parent: Project Mist
 hidden: "true"
 ---
-# Electronics
+### Electronics
+
 - Digikey Parts LIst
 - ILI9341 LCD
 - PCB's
 - Unified Daughter Board
 - Hotswap Sockets
-- Switches of Choice
-# Hardware
+- Switches of Choice 
+### Hardware
+
 - 1.5mm Acrylic Sheet
 - M3x8mm Bolts - x13
 - M3 Nuts - x4
