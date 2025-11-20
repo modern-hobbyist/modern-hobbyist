@@ -9,6 +9,7 @@ Learning Resources -  https://wiki.modhobbyist.com/Topics/Keyboard%20Building/5.
 # Release Checklist
 - [ ] Finish Video
 - [ ] Finish Thumbnail
+- [ ] Update video links on website
 - [ ] Update GitHub Repo
 	- [ ] BOM for KS-33
 	- [ ] BOM for Cherry/Gateron Standard
@@ -27,4 +28,4 @@ Learning Resources -  https://wiki.modhobbyist.com/Topics/Keyboard%20Building/5.
 		- [ ] Unified Daugher board
 		- [ ] LCD Mounting bolts and nuts
 	- [ ] DigiKey BOM link
-- [ ] 
+- [ ] Post on Discord
