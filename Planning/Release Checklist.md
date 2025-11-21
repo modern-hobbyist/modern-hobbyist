@@ -47,6 +47,9 @@
 - [ ] Link to video, website, or GitHub
 - [ ] Post in announcements
 
+## Reddit
+- [ ] 
+
 ## Website (Optional)
 - [x] Update project page
 - [x] Add support links (Patreon, PayPal)
