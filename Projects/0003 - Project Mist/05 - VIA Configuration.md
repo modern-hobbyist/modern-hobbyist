@@ -1,1 +1,1 @@
-Via can be a tricky beast when it comes to custom keyboards that aren't in the QMK main repo
+Via can be a tricky beast when it comes to custom keyboards 
