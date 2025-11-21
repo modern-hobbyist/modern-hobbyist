@@ -772,3 +772,11 @@ modern-hobbyist-1b84c62eb98c0f74:11/21/2025, 2:15:51 PM->Rule violation: customC
 modern-hobbyist-1b84c62eb98c0f74:11/21/2025, 2:15:51 PM->Rule satisfied: E2EEAlgorithm is v2
 modern-hobbyist-1b84c62eb98c0f74:11/21/2025, 2:15:51 PM->[ModuleInitializerFile]  UPDATE STORAGE: DONE:1, FAILED:0, LAST:12
 UPDATE DATABASE All done: DONE:7, FAILED:0
+modern-hobbyist-1b84c62eb98c0f74:11/21/2025, 2:15:53 PM->Fetched synchronisation parameters
+modern-hobbyist-1b84c62eb98c0f74:11/21/2025, 2:15:53 PM->Synchronisation parameters fetched successfully
+modern-hobbyist-1b84c62eb98c0f74:11/21/2025, 2:15:53 PM->OneShot Sync begin... (sync)
+modern-hobbyist-1b84c62eb98c0f74:11/21/2025, 2:15:55 PM->Replication completed
+modern-hobbyist-1b84c62eb98c0f74:11/21/2025, 2:16:51 PM->OneShot Sync begin... (sync)
+modern-hobbyist-1b84c62eb98c0f74:11/21/2025, 2:16:52 PM->Replication completed
+modern-hobbyist-1b84c62eb98c0f74:11/21/2025, 2:17:37 PM->OneShot Sync begin... (sync)
+modern-hobbyist-1b84c62eb98c0f74:11/21/2025, 2:17:38 PM->Replication closed
