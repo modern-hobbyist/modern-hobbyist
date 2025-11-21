@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Keyboard - Mk. 3/Discord Post.md",
+                "file": "Planning/Release Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discord Post"
+              "title": "Release Checklist"
             }
           },
           {
@@ -340,8 +340,9 @@
   },
   "active": "eb499d12bc7b3358",
   "lastOpenFiles": [
-    "Projects/0003 - Project Mist/01 - Overview.md",
     "Planning/Keyboard - Mk. 3/Discord Post.md",
+    "Planning/Release Checklist.md",
+    "Projects/0003 - Project Mist/01 - Overview.md",
     "Projects/0003 - Project Mist/02 - Parts.md",
     "Planning/Keyboard - Mk. 3/YouTube Description.md",
     "Planning/Keyboard - Mk. 3/Release Checklist.md",
@@ -371,7 +372,6 @@
     "livesync_log_2025-11-15.md",
     "screenRecording-000186.png",
     "Untitled.base",
-    "livesync_log_2025-11-13.md",
     "Projects/0003 - Project Mist",
     "Planning/Keyboard - Mk. 3/Instructions/Untitled",
     "Planning/Keyboard - Mk. 3/Instructions",
