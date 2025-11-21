@@ -1,27 +1,34 @@
 # Release Checklist
 
 ## Core Content
-- [ ] Finish video edit
-- [ ] Export captions
-- [ ] Create thumbnails (YouTube + Shorts)
-- [ ] Write video title & description
-- [ ] Upload video & schedule release
-- [ ] Upload 3D models / project files
-- [ ] Update GitHub repo (files, README, changelog)
+- [x] Finish video edit
+- [x] Export captions
+- [x] Create thumbnails (YouTube + Shorts)
+- [x] Write video title & description
+- [x] Upload video & schedule release
+- [x] Upload 3D models / project files
+- [x] Update GitHub repo (files, README, changelog)
 
 ## Patreon
-- [ ] Write detailed Patreon post
+- [x] Write detailed Patreon post
 - [ ] Add behind-the-scenes or bonus photos
 - [ ] Include early access link (if applicable)
-- [ ] Publish or schedule post
+- [x] Publish or schedule post
 
 ## Pinterest
-- [ ] Create Pinterest pin images (vertical)
-- [ ] Write pin title & description
-- [ ] Add tags and link to video or site
-- [ ] Publish pin
+- [x] Create Pinterest pin images (vertical)
+- [x] Write pin title & description
+- [x] Add tags and link to video or site
+- [x] Publish pin
 
 ## Instagram
+- [ ] Create reels (Short/vertical cut from main video)
+- [ ] Write caption & add hashtags
+- [ ] Add cover image
+- [ ] Schedule or post reel
+- [ ] Add still photos to a carousel (optional)
+
+## Facebook
 - [ ] Create reels (Short/vertical cut from main video)
 - [ ] Write caption & add hashtags
 - [ ] Add cover image
@@ -41,9 +48,9 @@
 - [ ] Post in announcements
 
 ## Website (Optional)
-- [ ] Update project page
-- [ ] Add support links (Patreon, PayPal)
-- [ ] Add images or gallery
+- [x] Update project page
+- [x] Add support links (Patreon, PayPal)
+- [x] Add images or gallery
 
 ## Final Checks
 - [ ] Test all links (YouTube, GitHub, Patreon, Pinterest)
