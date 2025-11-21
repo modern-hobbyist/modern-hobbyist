@@ -9,4 +9,11 @@ However, VIA does provide a work around for this, but it can be a little finicky
 
 # Import JSON to VIA
 - Open VIA
-- 
+- Navigate to the `Settings` tab and enable `Show Design Tab`
+  <img src="../../img/mist/mist-via-design-tab.png" alt="enable-design-tab"/>
+- Plug in your keyboard
+- Go to the Design Tab and click `Load`
+- Select the JSON file linked above
+- Navigate back to the `Configure` tab
+
+> VIA will "save" the JSON file in a list in the design tab, but in my experience you have to load the JSON through the file-picker in order for it to properly appear in the `Configure` tab.
