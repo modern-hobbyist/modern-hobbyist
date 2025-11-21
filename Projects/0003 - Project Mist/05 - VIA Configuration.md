@@ -1,1 +1,1 @@
-Via can be a tricky beast when it comes to custom keyboards since 
+Via can be a tricky beast when it comes to custom keyboards since they aren't a part of the official VIA re
