@@ -8,4 +8,5 @@ However, VIA does provide a work around for this, but it can be a little finicky
  - [QMK Userspace VIA JSON](https://github.com/modern-hobbyist/qmk_userspace/blob/main/keyboards/aesir/mist/keymaps/via-mist.json)
 
 # Import JSON to VIA
-From there
+- Open VIA
+- 
