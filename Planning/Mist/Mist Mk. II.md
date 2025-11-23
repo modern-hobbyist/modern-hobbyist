@@ -1,0 +1,6 @@
+- Rotate switches 180º (LEDs to top of switch)
+	- Seems to be standard across the industry
+	- Works better with backlit keycap legends
+- Figure out low profile stabilizers
+	- Might need cutouts in PCB for them, which means would need plate mounted stabs for standard profile.
+- 
