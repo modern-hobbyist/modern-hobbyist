@@ -3,4 +3,8 @@
 	- Works better with backlit keycap legends
 - Figure out low profile stabilizers
 	- Might need cutouts in PCB for them, which means would need plate mounted stabs for standard profile.
-- 
+- Firmware to programmatically update display for macro keys
+- Get custom keycaps made
+- Lower profile screws, lower profile case overall
+- Same case should be usable for KS-33 and normal profile switches
+- More screw holes on top of case
