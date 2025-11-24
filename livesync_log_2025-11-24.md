@@ -94,3 +94,9 @@ modern-hobbyist-1b84c62eb98c0f74:11/24/2025, 4:06:17 PM->Replication completed
 modern-hobbyist-1b84c62eb98c0f74:11/24/2025, 4:06:35 PM->OneShot Sync begin... (sync)
 modern-hobbyist-1b84c62eb98c0f74:11/24/2025, 4:06:36 PM->Replication completed
 modern-hobbyist-1b84c62eb98c0f74:11/24/2025, 4:31:45 PM->OneShot Sync begin... (sync)
+modern-hobbyist-1b84c62eb98c0f74:11/24/2025, 4:32:50 PM->[ModuleObsidianAPI]  Failed to fetch by native fetch API. Trying to fetch by API to get more information.
+modern-hobbyist-1b84c62eb98c0f74:11/24/2025, 4:33:56 PM->Error:net::ERR_NAME_NOT_RESOLVED
+modern-hobbyist-1b84c62eb98c0f74:11/24/2025, 4:33:56 PM->Failed to fetch: Error:net::ERR_NAME_NOT_RESOLVED
+modern-hobbyist-1b84c62eb98c0f74:11/24/2025, 4:33:56 PM->Error:net::ERR_NAME_NOT_RESOLVED
+modern-hobbyist-1b84c62eb98c0f74:11/24/2025, 4:33:56 PM->Could not connect to https://obsidian.steenhagens.com/modern-hobbyist:Error:net::ERR_NAME_NOT_RESOLVED
+modern-hobbyist-1b84c62eb98c0f74:11/24/2025, 4:33:56 PM->Could not connect to server.
