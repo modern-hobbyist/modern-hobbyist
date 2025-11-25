@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Mist/Mist Mk. II.md",
+                "file": "Planning/Mist Mk. II/Mist Mk. II.md",
                 "mode": "source",
                 "source": false
               },
@@ -324,12 +324,13 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "b54a132aaa7d1f3b",
+  "active": "7cb2194fe6c89b2c",
   "lastOpenFiles": [
+    "Planning/Mist Mk. II",
     "livesync_log_2025-11-25.md",
     "livesync_log_2025-11-24.md",
     "README.md",
-    "Planning/Mist/Mist Mk. II.md",
+    "Planning/Mist Mk. II/Mist Mk. II.md",
     "livesync_log_2025-11-23.md",
     "Untitled.base",
     "Untitled 1.base",
@@ -359,7 +360,6 @@
     "Topics/Keyboard Building/4. Choosing Hardware.md",
     "Topics/Topics.md",
     "Topics/Keyboard Building/Untitled.md",
-    "livesync_log_2025-11-20.md",
     "Projects/TinyCNC",
     "screenRecording-000186.png",
     "Projects/0003 - Project Mist",
@@ -367,7 +367,6 @@
     "Planning/Keyboard - Mk. 3/Instructions",
     "Planning/Mist/Product Design Phases.canvas",
     "temp",
-    "Planning/Untitled",
     "Planning/Hermod Mk. 2/img/screenRecording-000185.png",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6750.jpg",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6752.jpg",

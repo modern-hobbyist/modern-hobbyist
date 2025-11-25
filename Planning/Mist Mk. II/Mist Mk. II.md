@@ -7,4 +7,4 @@
 - Get custom keycaps made
 - Lower profile screws, lower profile case overall
 - Same case should be usable for KS-33 and normal profile switches
-- More screw holes on top of case
+- More screw holes to attach top case
