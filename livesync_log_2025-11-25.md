@@ -9,3 +9,7 @@ modern-hobbyist-1b84c62eb98c0f74:11/25/2025, 8:43:00 AM->OneShot Sync begin... (
 modern-hobbyist-1b84c62eb98c0f74:11/25/2025, 8:43:01 AM->Replication completed
 modern-hobbyist-1b84c62eb98c0f74:11/25/2025, 9:01:51 AM->OneShot Sync begin... (sync)
 modern-hobbyist-1b84c62eb98c0f74:11/25/2025, 9:01:55 AM->Replication completed
+modern-hobbyist-1b84c62eb98c0f74:11/25/2025, 9:05:24 AM->OneShot Sync begin... (sync)
+modern-hobbyist-1b84c62eb98c0f74:11/25/2025, 9:05:25 AM->Replication closed
+modern-hobbyist-1b84c62eb98c0f74:11/25/2025, 9:05:28 AM->OneShot Sync begin... (sync)
+modern-hobbyist-1b84c62eb98c0f74:11/25/2025, 9:05:29 AM->Replication closed
