@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "463c3d374bc578ec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "e482fd8e64ed972e",
             "type": "leaf",
             "state": {
@@ -158,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -324,7 +336,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "b54a132aaa7d1f3b",
+  "active": "463c3d374bc578ec",
   "lastOpenFiles": [
     "livesync_log_2025-11-26.md",
     "Planning/Mist Mk. II",
