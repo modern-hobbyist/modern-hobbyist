@@ -8,3 +8,6 @@
 - Lower profile screws, lower profile case overall
 - Same case should be usable for KS-33 and normal profile switches
 - More screw holes to attach top case
+- Seems like single boot/reset button doesn't always work
+- Doesn't always wake my computer when asleep
+- Display doesn't go to sleep after timeout
