@@ -49,3 +49,11 @@ modern-hobbyist-1b84c62eb98c0f74:11/26/2025, 8:26:28 AM->Rule satisfied: E2EEAlg
 modern-hobbyist-1b84c62eb98c0f74:11/26/2025, 8:26:28 AM->[ModuleInitializerFile]  UPDATE STORAGE: DONE:1, FAILED:0, LAST:33
 SYNC DATABASE AND STORAGE All done: DONE:92, FAILED:0
 UPDATE DATABASE All done: DONE:11, FAILED:0
+modern-hobbyist-1b84c62eb98c0f74:11/26/2025, 8:26:32 AM->Fetched synchronisation parameters
+modern-hobbyist-1b84c62eb98c0f74:11/26/2025, 8:26:32 AM->Synchronisation parameters fetched successfully
+modern-hobbyist-1b84c62eb98c0f74:11/26/2025, 8:26:32 AM->OneShot Sync begin... (sync)
+modern-hobbyist-1b84c62eb98c0f74:11/26/2025, 8:26:33 AM->Replication completed
+modern-hobbyist-1b84c62eb98c0f74:11/26/2025, 8:26:48 AM->OneShot Sync begin... (sync)
+modern-hobbyist-1b84c62eb98c0f74:11/26/2025, 8:26:49 AM->Replication completed
+modern-hobbyist-1b84c62eb98c0f74:11/26/2025, 8:26:55 AM->OneShot Sync begin... (sync)
+modern-hobbyist-1b84c62eb98c0f74:11/26/2025, 8:26:56 AM->Replication closed
