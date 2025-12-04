@@ -37,3 +37,5 @@ modern-hobbyist-1b84c62eb98c0f74:12/4/2025, 11:16:00 AM->Failed to fetch: AbortE
 modern-hobbyist-1b84c62eb98c0f74:12/4/2025, 11:16:00 AM->AbortError:signal is aborted without reason
 modern-hobbyist-1b84c62eb98c0f74:12/4/2025, 11:16:33 AM->OneShot Sync begin... (sync)
 modern-hobbyist-1b84c62eb98c0f74:12/4/2025, 11:16:34 AM->Replication completed
+modern-hobbyist-1b84c62eb98c0f74:12/4/2025, 11:18:01 AM->OneShot Sync begin... (sync)
+modern-hobbyist-1b84c62eb98c0f74:12/4/2025, 11:18:02 AM->Replication closed
