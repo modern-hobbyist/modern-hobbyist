@@ -1,0 +1,14 @@
+# Options
+- Linear Actuator
+	- Pros: Strong, simple to rig up
+	- Cons: Slow or fast and weak
+	- [This one is 200N and decently fast ~9s](https://www.aliexpress.us/item/3256807433599352.html?spm=a2g0o.cart.0.0.5ca438daiXWJ9X&mp=1&pdp_npi=5%40dis%21USD%21USD%20115.70%21USD%20115.70%21%21USD%20114.77%21%21%21%402101d49617658545064504211efe9b%2112000051632554360%21ct%21US%213601384632%21%211%210&_gl=1*1orcuuo*_gcl_aw*R0NMLjE3NjU0NjYxMDUuQ2owS0NRaUE5T25KQmhELUFSSXNBUFY1MXhQM0h2RkswbmRqMWhYcFhNQ1BRSzdJNV9OQzh6YkY1bUxtWmhETkp3YlNrZWNFX3Z3bTBnQWFBdXNiRUFMd193Y0I.*_gcl_dc*R0NMLjE3NjU0NjYxMDUuQ2owS0NRaUE5T25KQmhELUFSSXNBUFY1MXhQM0h2RkswbmRqMWhYcFhNQ1BRSzdJNV9OQzh6YkY1bUxtWmhETkp3YlNrZWNFX3Z3bTBnQWFBdXNiRUFMd193Y0I.*_gcl_au*MjAxNDU4NTA1NS4xNzYzNjU4NjIz*_ga*OTgyMDAwMTEuMTc2NDY4NDQ2Mw..*_ga_VED1YSGNC7*czE3NjU4NTQ1MDEkbzExJGcxJHQxNzY1ODU0NTA2JGo1NSRsMCRoMA..&gatewayAdapt=glo2usa)
+- TV Lift
+	- Pros: Strong, Fast, Simple, Complete
+	- Cons: More Expensive, Too Long
+	- [Vevor has a cheap one](https://www.vevor.com/motorized-tv-mount-c_10898/1000mm-motorized-tv-lift-bracket-for-32-65-tv-remote-controller-carbon-steel-p_010118813370?adp=gmc&utm_source=google&utm_medium=cpc&utm_id=20932892620&ad_group=166136845668&ad_id=687167450857&utm_term=&gad_source=1&gad_campaignid=20932892620&gbraid=0AAAAACq8bLVrqTBQF4vhAhPNEKI2vpyGK&gclid=Cj0KCQiAgP_JBhD-ARIsANpEMxzctNbJR6D9fI9K8sIMGG6eii_TzlBpBqg5iE397XNlwrxu6Vrw8gIaArbGEALw_wcB)
+		- This one goes 35 inches which might be too much, but could just make for a taller shelf
+		- $150 all in, done. Then just cost for barrel and wood.
+- Ball Screw + DC Motor
+	- Pros: More customizable
+	- Cons: Parts, DIY, From Scratch
