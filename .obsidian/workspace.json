@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Whiskey Barrel/Lifting Mechanism.md",
+                "file": "Planning/Keyboard Midi Lights/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lifting Mechanism"
+              "title": "Overview"
             }
           },
           {
@@ -312,10 +312,12 @@
   },
   "active": "e482fd8e64ed972e",
   "lastOpenFiles": [
+    "Planning/Whiskey Barrel/Lifting Mechanism.md",
+    "Planning/Keyboard Midi Lights/Overview.md",
+    "Planning/Keyboard Midi Lights",
     "livesync_log_2025-12-18.md",
     "livesync_log_2025-12-17.md",
     "Planning/Whiskey Barrel/Overview.md",
-    "Planning/Whiskey Barrel/Lifting Mechanism.md",
     "Planning/Hermod Mk. 2/Overview.md",
     "Planning/Whiskey Barrel",
     "livesync_log_2025-12-16.md",
@@ -339,7 +341,6 @@
     "livesync_log_2025-11-26.md",
     "Planning/Mist Mk. II",
     "livesync_log_2025-11-25.md",
-    "livesync_log_2025-11-24.md",
     "Untitled.base",
     "Untitled 1.base",
     "img/mist/mist-via-design-tab.png",
@@ -352,7 +353,6 @@
     "screenRecording-000186.png",
     "Projects/0003 - Project Mist",
     "Planning/Keyboard - Mk. 3/Instructions/Untitled",
-    "Planning/Keyboard - Mk. 3/Instructions",
     "Planning/Mist/Product Design Phases.canvas",
     "Planning/Hermod Mk. 2/img/screenRecording-000185.png",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6750.jpg",
