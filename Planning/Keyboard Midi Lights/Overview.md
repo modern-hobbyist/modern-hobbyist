@@ -4,9 +4,13 @@ I'd like to revisit the Keyboard LED project I did a few years ago, but make it 
 - RP2040 MCU 
 - USB C for power and firmware flashing
 - RGB LEDs (144pix/m)
-
+- Could investigate multiple power options
+	- USB Only (detects data line and sets amp limit to 500mA)
+	- USB C Power (USB Power but not a computer connection, sets amp limit appropriately)
+	- Dedicated power (No power limit, much brighter LEDs)
 # Firmware
 - Automatically dims LEDs based on total estimated amperage
+	- `FastLED.setMaxPowerInVoltsAndMilliamps(5, 900);`
 - Multiple customizable modes
 - Reads Midi input, sustain pedal, etc...
 	- Adjust the fade speed based on pedal
