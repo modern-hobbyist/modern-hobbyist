@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Keyboard Midi Lights/Overview.md",
+                "file": "Planning/Keyboard Midi Lights/Schematic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Schematic"
             }
           },
           {
@@ -312,8 +312,9 @@
   },
   "active": "e482fd8e64ed972e",
   "lastOpenFiles": [
-    "Planning/Whiskey Barrel/Lifting Mechanism.md",
     "Planning/Keyboard Midi Lights/Overview.md",
+    "Planning/Keyboard Midi Lights/Schematic.md",
+    "Planning/Whiskey Barrel/Lifting Mechanism.md",
     "Planning/Keyboard Midi Lights",
     "livesync_log_2025-12-18.md",
     "livesync_log_2025-12-17.md",
@@ -340,7 +341,6 @@
     "Resources/0 - Resources.md",
     "livesync_log_2025-11-26.md",
     "Planning/Mist Mk. II",
-    "livesync_log_2025-11-25.md",
     "Untitled.base",
     "Untitled 1.base",
     "img/mist/mist-via-design-tab.png",
