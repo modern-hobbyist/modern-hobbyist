@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/KiCad/1. Custom Board Outlines.md",
+                "file": "how-i-made-this-wiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Custom Board Outlines"
+              "title": "how-i-made-this-wiki"
             }
           },
           {
@@ -312,13 +312,13 @@
   },
   "active": "e482fd8e64ed972e",
   "lastOpenFiles": [
-    "Topics/KiCad/2. Custom Pad Shapes.md",
     "Topics/KiCad/1. Custom Board Outlines.md",
+    "livesync_log_2025-12-23.md",
+    "Topics/KiCad/2. Custom Pad Shapes.md",
     "Topics/KiCad/0. KiCad.md",
     "Topics/Keyboard Building/0. Keyboard Building.md",
     "Planning/Keyboard Midi Lights/Schematic.md",
     "Topics/KiCad",
-    "livesync_log_2025-12-23.md",
     "livesync_log_2025-12-22.md",
     "livesync_log_2025-12-21.md",
     "livesync_log_2025-12-20.md",
