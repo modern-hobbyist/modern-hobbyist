@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how-i-made-this-wiki.md",
+                "file": "Topics/KiCad/2. Custom Pad Shapes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how-i-made-this-wiki"
+              "title": "2. Custom Pad Shapes"
             }
           },
           {
@@ -310,12 +310,14 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "e482fd8e64ed972e",
+  "active": "81601340a1115eeb",
   "lastOpenFiles": [
     "Topics/KiCad/1. Custom Board Outlines.md",
+    "Topics/KiCad/0. KiCad.md",
+    "Topics/Keyboard Building/1. Layout.md",
+    "how-i-made-this-wiki.md",
     "livesync_log_2025-12-23.md",
     "Topics/KiCad/2. Custom Pad Shapes.md",
-    "Topics/KiCad/0. KiCad.md",
     "Topics/Keyboard Building/0. Keyboard Building.md",
     "Planning/Keyboard Midi Lights/Schematic.md",
     "Topics/KiCad",
@@ -339,8 +341,6 @@
     "livesync_log_2025-12-10.md",
     "livesync_log_2025-12-09.md",
     "livesync_log_2025-12-08.md",
-    "livesync_log_2025-12-06.md",
-    "livesync_log_2025-12-05.md",
     "Planning/Mist Mk. II",
     "Untitled.base",
     "Untitled 1.base",
