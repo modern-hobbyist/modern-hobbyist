@@ -9,6 +9,7 @@
 	- [Vevor has a cheap one](https://www.vevor.com/motorized-tv-mount-c_10898/1000mm-motorized-tv-lift-bracket-for-32-65-tv-remote-controller-carbon-steel-p_010118813370?adp=gmc&utm_source=google&utm_medium=cpc&utm_id=20932892620&ad_group=166136845668&ad_id=687167450857&utm_term=&gad_source=1&gad_campaignid=20932892620&gbraid=0AAAAACq8bLVrqTBQF4vhAhPNEKI2vpyGK&gclid=Cj0KCQiAgP_JBhD-ARIsANpEMxzctNbJR6D9fI9K8sIMGG6eii_TzlBpBqg5iE397XNlwrxu6Vrw8gIaArbGEALw_wcB)
 		- This one goes 35 inches which might be too much, but could just make for a taller shelf
 		- $150 all in, done. Then just cost for barrel and wood.
+	- Hard part is gonna be customizing it so I can control it with my own buttons and pcb
 - Ball Screw + DC Motor
 	- Pros: More customizable
 	- Cons: Parts, DIY, From Scratch
