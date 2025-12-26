@@ -9,4 +9,5 @@ LEDs with configurable colors will turn on as it lifts up
 # Thoughts
 - should reach out to Cedar Ridge and see if they’d wanna collab or have any barrels they’d be willing to sell
 - Find the best way to get the top trimmed down to the right size
+- Line inside with tube to prevent bottles from getting stuck
 
