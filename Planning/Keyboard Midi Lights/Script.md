@@ -6,10 +6,12 @@ I still have the keyboard, though I haven’t gotten any better at piano in 5 ye
 
 <intro>
 
-The last time I built this project, I was definitely riding on the coat tails of <insert name>. I had designed circuit boards before, but I definitely wasn't experienced enough to make one as complex as this project required, so instead I went with a raspberry pi zero
+The last time I built this project, I was definitely riding on the coat tails of <insert name>. I had designed circuit boards before, but I definitely wasn't experienced enough to make one as complex as this project required, so instead I copied <insert name> and went with a raspberry pi zero. 
 
-- since I build this project I got deep into keyboard building. The other kind of keyboards
-- Learned a lot about PCB designing
-- Lots of people watched the first video and wanted to build it but didn’t have the experience required. 
-- Want to revisit and make it as consumer friendly as possible
-- 
+Since then, I've gotten DEEP into designing custom keyboards, the other kind of keyboards, and I've learned a ton about designing PCB's. 
+
+Real quick, shameless plug for my recent keyboard builds. I know that's not why you clicked on this video, but I worked really hard on them and I'm really proud of how they turned out, so I'm gonna make you look at them for a few seconds!
+
+Anyways, a lot of people were interested in the Piano LEDs, but they didn't quite have the right experience to build it themselves, so for the second iteration, I wanted to make it as consumer friendly as possible. 
+
+That means foolproof circuit design, plug and play assembly and making it customizable. 
