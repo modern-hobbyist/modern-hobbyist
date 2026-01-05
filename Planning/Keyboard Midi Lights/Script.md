@@ -2,7 +2,7 @@ Many many years ago I built this diy keyboard led visualizer or whatever I shoul
 
 A lot of things have changed since then. I've moved, several times actually, got a new shop, had a couple kids, shaved off my beard, grew it back again... and somewhere along the way, the LED visualizer got taken apart. 
 
-I kept that LED strip though and I still have the keyboard and while I haven't gotten any better at piano in the last 5 years, I have gotten better at designing custom circuit boards. So I figured it was time to give this project another shot. Let's get started!
+I did keep that LED strip though and I still have the keyboard and while I haven't gotten any better at piano in the last 5 years, I have gotten better at designing custom circuit boards. So I figured it was time to give this project another shot. Let's get started!
 
 <intro>
 
