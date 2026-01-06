@@ -7,5 +7,5 @@
 	- Realistically, I don't use this thing very often, but when I do, the hardest thing I cut is walnut.
 - My main concern is increasing the size by a reasonable amount.
 	- I've been building a lot of custom keyboards and I would love to make some cases out of walnut or polycarbonate.
-	- For that, I need a bigger work surface, but necessarily a super rigid machine.
+	- For that, I need a bigger work surface, but not necessarily a super rigid machine.
 - 
