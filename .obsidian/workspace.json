@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Keyboard Midi Lights/Script.md",
+                "file": "Planning/TinyCNC Upgrade/Script.md",
                 "mode": "source",
                 "source": false
               },
@@ -232,8 +232,10 @@
   },
   "active": "b54a132aaa7d1f3b",
   "lastOpenFiles": [
-    "Planning/Keyboard Midi Lights/BOM.md",
     "Planning/Keyboard Midi Lights/Script.md",
+    "Planning/TinyCNC Upgrade/Script.md",
+    "Planning/TinyCNC Upgrade",
+    "Planning/Keyboard Midi Lights/BOM.md",
     "Planning/Keyboard Midi Lights/Overview.md",
     "Planning/Mist Mk. II/Mist Mk. II.md",
     "index.md",
@@ -260,7 +262,6 @@
     "Planning/Whiskey Barrel",
     "livesync_log_2025-12-16.md",
     "livesync_log_2025-12-15.md",
-    "livesync_log_2025-12-13.md",
     "Planning/Mist Mk. II",
     "Untitled.base",
     "Untitled 1.base",
@@ -272,7 +273,6 @@
     "Planning/Mist/screenRecording-000166@2x.png",
     "Projects/TinyCNC",
     "screenRecording-000186.png",
-    "Projects/0003 - Project Mist",
     "Planning/Mist/Product Design Phases.canvas",
     "Planning/Hermod Mk. 2/img/screenRecording-000185.png",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6750.jpg",
