@@ -1,8 +1,11 @@
-- Increased size is the goal
 - This machine is made from 3d printed parts and aluminum extrusion
 - I always get some haters saying it's not 3d printed because it has an aluminum frame. Well first off, no shit sherlock. 
 	- The point is, the complex parts like plates and motor mounts, that are expensive or difficult to make out of aluminum or steel, are 3d printed for literal pocket change.
 - The other critique I get is that since it's made from aluminum and 3d printed parts, it's not going to be very rigid, and that is valid--But it's also OK.
 	- I don't need to be able to mill with any tight tolerances or perfectly flat faces, on this machine at least. 
-	- If I wanted to, I would either build a PrintNC or buy a sturdier machine off the shelf so to speak.
+	- If I wanted to, I would either build a PrintNC or buy a sturdier machine off the shelf
+	- Realistically, I don't use this thing very often, but when I do, the hardest thing I cut is walnut.
+- My main concern is increasing the size by a reasonable amount.
+	- I've been building a lot of custom keyboards and I would love to make some cases out of walnut or polycarbonate.
+	- For that, I need a bigger work surface, but necessarily a super rigid machine.
 - 
