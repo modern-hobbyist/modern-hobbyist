@@ -1,0 +1,3 @@
+- 144 pix/m LED strip: https://a.co/d/cOpvcr8
+- USB C to USB Midi: https://a.co/d/cR3vBcw
+	- Alt. USB C to Actual MIDI: https://a.co/d/b3RjRal
