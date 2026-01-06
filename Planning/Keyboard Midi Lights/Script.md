@@ -6,7 +6,7 @@ I did keep that LED strip though and I still have the keyboard and while I haven
 
 <intro>
 
-The last time I built this project, I was definitely riding on the coat tails of <insert name>. I had designed circuit boards before, but I definitely wasn't experienced enough to make one as complex as this project required, so instead I copied <insert name> and went with a raspberry pi zero. 
+The last time I built this project, I was definitely riding on the coat tails of Aleksander Evening. I had designed circuit boards before, but I definitely wasn't experienced enough to make one as complex as this project required, so instead I copied Alexsander and went with a raspberry pi zero. 
 
 Since then, I've gotten DEEP into designing custom keyboards, the other kind of keyboards, and I've learned a ton about designing PCB's. 
 
