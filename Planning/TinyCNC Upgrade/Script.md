@@ -1,2 +1,5 @@
 - Increased size is the goal
-- 
+- This machine is made from 3d printed parts and aluminum extrusion
+- I always get some haters saying it's not 3d printed because it has an aluminum frame. Well first off, no shit sherlock. 
+	- The point is, the complex parts like plates and motor mounts, that are expensive or difficult to make out of aluminum or steel, are 3d printed for literal pennies.
+	- 
