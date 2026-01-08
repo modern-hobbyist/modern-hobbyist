@@ -1,0 +1,7 @@
+- Motors aren't strong enough
+- "bearing" is hard to make/hard to reproduce
+- Gear really should be a bevel gear
+- Weak latches are hard to install and hard to latch
+- Not sure I like the ropes. They are comfy to grab, but make the boards harder to carry (not stiff enough)
+- Love the custom PCB's but people might not want to order PCB's for this project. A simpler build that's not a spit roaster would probably sell really well.
+- 
