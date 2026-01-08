@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Bags Boards Mk. 2/Issues.md",
+                "file": "Planning/Anycubic Kobra S1/Planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Issues"
+              "title": "Planning"
             }
           }
         ],
@@ -232,8 +232,10 @@
   },
   "active": "b54a132aaa7d1f3b",
   "lastOpenFiles": [
-    "Planning/TinyCNC Upgrade/Jokes or things to tell.md",
     "Planning/Bags Boards Mk. 2/Issues.md",
+    "Planning/Anycubic Kobra S1/Planning.md",
+    "Planning/Anycubic Kobra S1",
+    "Planning/TinyCNC Upgrade/Jokes or things to tell.md",
     "Planning/Bags Boards Mk. 2",
     "Planning/TinyCNC Upgrade/Script.md",
     "Planning/Keyboard Midi Lights/Script.md",
@@ -261,14 +263,12 @@
     "livesync_log_2025-12-18.md",
     "livesync_log_2025-12-17.md",
     "Planning/Whiskey Barrel/Overview.md",
-    "Planning/Hermod Mk. 2/Overview.md",
     "Planning/Whiskey Barrel",
     "Planning/Mist Mk. II",
     "Untitled.base",
     "Untitled 1.base",
     "img/mist/mist-via-design-tab.png",
     "img/mist",
-    "Projects/0003 - Project Mist/img",
     "Projects/0003 - Project Mist/Untitled.canvas",
     "Planning/Mist/screenRecording-000175@2x.png",
     "Planning/Mist/screenRecording-000166@2x.png",
