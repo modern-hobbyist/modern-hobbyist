@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Whiskey Barrel/BOM.md",
+                "file": "Planning/TinyCNC Upgrade/Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BOM"
+              "title": "Script"
             }
           },
           {
@@ -203,8 +203,12 @@
   },
   "active": "3ec528ef510e3c5b",
   "lastOpenFiles": [
-    "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
+    "Planning/Whiskey Barrel/Script.md",
     "Planning/Whiskey Barrel/BOM.md",
+    "Planning/Whiskey Barrel/Cedar Ridge.md",
+    "Planning/Whiskey Barrel/Lifting Mechanism.md",
+    "Planning/Whiskey Barrel/Overview.md",
+    "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
     "Planning/Anycubic Kobra S1/Planning.md",
     "Planning/Bags Boards Mk. 2/Issues.md",
     "Planning/Anycubic Kobra S1",
@@ -217,7 +221,6 @@
     "Planning/Keyboard Midi Lights/Overview.md",
     "Planning/Mist Mk. II/Mist Mk. II.md",
     "index.md",
-    "Planning/Whiskey Barrel/Cedar Ridge.md",
     "Topics/KiCad/2. Custom Pad Shapes.md",
     "Topics/KiCad/1. Custom Board Outlines.md",
     "Topics/KiCad/0. KiCad.md",
@@ -230,10 +233,7 @@
     "livesync_log_2025-12-22.md",
     "livesync_log_2025-12-21.md",
     "livesync_log_2025-12-20.md",
-    "livesync_log_2025-12-19.md",
-    "Planning/Whiskey Barrel/Lifting Mechanism.md",
     "Planning/Keyboard Midi Lights",
-    "livesync_log_2025-12-18.md",
     "Planning/Whiskey Barrel",
     "Planning/Mist Mk. II",
     "Untitled.base",

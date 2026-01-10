@@ -1,0 +1,16 @@
+- Had several options when it came to lift mechanism
+	- Bare Linear actuator
+		- More control over the electronics and design
+		- But have to design a mount for it
+		- have to design the electronics
+		- Strong and slow or fast and weak
+		- Would need more than 1 for it to be decently fast
+	- Scissor lift
+		- Might be faster, but much more engineering
+		- Takes up more lateral space
+		- Nothing off the shelf that I could find that satisfies my needs
+	- TV Lift
+		- More expensive, but pretty much a complete package
+		- Con: comes with a controller, so might have to reverse engineer
+			- I'd like to control it myself so I can have it and the LED logic together
+	- 
