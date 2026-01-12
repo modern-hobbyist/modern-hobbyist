@@ -22,29 +22,17 @@
             }
           },
           {
-            "id": "eb036e910b55773c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
-          },
-          {
             "id": "b54a132aaa7d1f3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Anycubic Kobra S1/Planning.md",
+                "file": "Planning/Whiskey Barrel/BOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planning"
+              "title": "BOM"
             }
           }
         ],
@@ -210,11 +198,13 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-livesync:P2P Replicator": false,
       "obsidian-livesync:Show Log": false,
-      "obsidian-livesync:Replicate": false
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "eb036e910b55773c",
+  "active": "b54a132aaa7d1f3b",
   "lastOpenFiles": [
+    "Planning/Anycubic Kobra S1/Planning.md",
     "Planning/Whiskey Barrel/Wiring.md",
     "Planning/TinyCNC Upgrade/Script.md",
     "Planning/Whiskey Barrel/Script.md",
@@ -223,7 +213,6 @@
     "Planning/Whiskey Barrel/Lifting Mechanism.md",
     "Planning/Whiskey Barrel/Overview.md",
     "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
-    "Planning/Anycubic Kobra S1/Planning.md",
     "Planning/Bags Boards Mk. 2/Issues.md",
     "Planning/Anycubic Kobra S1",
     "Planning/TinyCNC Upgrade/Jokes or things to tell.md",
