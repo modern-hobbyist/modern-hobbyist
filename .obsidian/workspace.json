@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "eb036e910b55773c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
             "id": "b54a132aaa7d1f3b",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Planning"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,11 +210,10 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-livesync:P2P Replicator": false,
       "obsidian-livesync:Show Log": false,
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:Show Customization sync": false
+      "obsidian-livesync:Replicate": false
     }
   },
-  "active": "3ec528ef510e3c5b",
+  "active": "eb036e910b55773c",
   "lastOpenFiles": [
     "Planning/Whiskey Barrel/Wiring.md",
     "Planning/TinyCNC Upgrade/Script.md",
