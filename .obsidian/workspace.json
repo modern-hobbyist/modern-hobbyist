@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/TinyCNC Upgrade/Script.md",
+                "file": "Planning/Whiskey Barrel/Wiring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Script"
+              "title": "Wiring"
             }
           },
           {
@@ -203,6 +203,8 @@
   },
   "active": "3ec528ef510e3c5b",
   "lastOpenFiles": [
+    "Planning/TinyCNC Upgrade/Script.md",
+    "Planning/Whiskey Barrel/Wiring.md",
     "Planning/Whiskey Barrel/Script.md",
     "Planning/Whiskey Barrel/BOM.md",
     "Planning/Whiskey Barrel/Cedar Ridge.md",
@@ -214,7 +216,6 @@
     "Planning/Anycubic Kobra S1",
     "Planning/TinyCNC Upgrade/Jokes or things to tell.md",
     "Planning/Bags Boards Mk. 2",
-    "Planning/TinyCNC Upgrade/Script.md",
     "Planning/Keyboard Midi Lights/Script.md",
     "Planning/TinyCNC Upgrade",
     "Planning/Keyboard Midi Lights/BOM.md",
@@ -232,7 +233,6 @@
     "Topics/KiCad",
     "livesync_log_2025-12-22.md",
     "livesync_log_2025-12-21.md",
-    "livesync_log_2025-12-20.md",
     "Planning/Keyboard Midi Lights",
     "Planning/Whiskey Barrel",
     "Planning/Mist Mk. II",
