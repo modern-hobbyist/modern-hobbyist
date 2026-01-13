@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Whiskey Barrel/BOM.md",
+                "file": "Planning/Whiskey Barrel/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BOM"
+              "title": "Untitled"
             }
           }
         ],
@@ -204,9 +204,10 @@
   },
   "active": "b54a132aaa7d1f3b",
   "lastOpenFiles": [
+    "Planning/Whiskey Barrel/BOM.md",
+    "Planning/Whiskey Barrel/Untitled.md",
     "Planning/Release Checklist.md",
     "Planning/Whiskey Barrel/Wiring.md",
-    "Planning/Whiskey Barrel/BOM.md",
     "Planning/Anycubic Kobra S1/Planning.md",
     "Planning/TinyCNC Upgrade/Script.md",
     "Planning/Whiskey Barrel/Script.md",
@@ -233,7 +234,6 @@
     "Topics/Keyboard Building/0. Keyboard Building.md",
     "Planning/Keyboard Midi Lights/Schematic.md",
     "Topics/KiCad",
-    "livesync_log_2025-12-22.md",
     "Planning/Keyboard Midi Lights",
     "Planning/Whiskey Barrel",
     "Planning/Mist Mk. II",
