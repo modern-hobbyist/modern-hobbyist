@@ -11,3 +11,4 @@ Whiskey Barrel: 53 Gallon, standard size, provided by Cedar Ridge distillery
 | Current Sensor (optional) | ACS758-050B Hall Current Sensor | Detects stall / overload by current spike       | https://a.co/d/ftulnU2                                             |
 | Momentary Button          | Panel-mount SPST NO pushbutton  | Single control input                            | https://www.adafruit.com/product/1442                              |
 | Connector (optional)      | Molex Micro-Fit 3.0 6-pin       | Clean mate to motor harness                     | https://www.digikey.com/en/products/detail/molex/0436450600/252516 |
+| Capacitive Touch Sensor   | TTP223                          | Hidden sensor for opening/closing cabinet       | https://a.co/d/26alJja                                             |
