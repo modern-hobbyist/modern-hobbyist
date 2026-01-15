@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Whiskey Barrel/WLED.md",
+                "file": "Projects/0002 - Split Keyboard - Mk. 1/0 - Split Keyboard - Mk. 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WLED"
+              "title": "0 - Split Keyboard - Mk. 1"
             }
           }
         ],
@@ -204,9 +204,12 @@
   },
   "active": "b54a132aaa7d1f3b",
   "lastOpenFiles": [
+    "Projects/0002 - Split Keyboard - Mk. 1/0 - Split Keyboard - Mk. 1.md",
+    "Projects/0003 - Project Mist/01 - Overview.md",
+    "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
+    "Planning/Whiskey Barrel/WLED.md",
     "screenRecording-000954.png",
     "Planning/Whiskey Barrel/Power Supply Voltage vs Current (Why Higher Voltage Buses Make Sense).md",
-    "Planning/Whiskey Barrel/WLED.md",
     "Planning/Whiskey Barrel/BOM.md",
     "Planning/Whiskey Barrel/Wiring.md",
     "Planning/Whiskey Barrel/Finish.md",
@@ -217,7 +220,6 @@
     "Planning/Whiskey Barrel/Cedar Ridge.md",
     "Planning/Whiskey Barrel/Lifting Mechanism.md",
     "Planning/Whiskey Barrel/Overview.md",
-    "Projects/0002 - Split Keyboard - Mk. 1/1 - Instructions.md",
     "Planning/Bags Boards Mk. 2/Issues.md",
     "Planning/Anycubic Kobra S1",
     "Planning/TinyCNC Upgrade/Jokes or things to tell.md",
@@ -232,7 +234,6 @@
     "Topics/KiCad/1. Custom Board Outlines.md",
     "Topics/KiCad/0. KiCad.md",
     "Topics/Keyboard Building/1. Layout.md",
-    "how-i-made-this-wiki.md",
     "Topics/KiCad",
     "Planning/Keyboard Midi Lights",
     "Planning/Whiskey Barrel",
@@ -251,7 +252,6 @@
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6752.jpg",
     "Projects/0002 - Split Keyboard - Mk. 1/img/IMG_6751.jpg",
     "Topics/CNC Machining/img/Pasted image 20250601111306.png",
-    "Planning/Keyboard - Mk. 3/screenRecording-000174@2x.png",
     "_site/Untitled.canvas"
   ]
 }
