@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Whiskey Barrel/Power Supply Voltage vs Current (Why Higher Voltage Buses Make Sense).md",
+                "file": "Planning/Whiskey Barrel/WLED.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Power Supply Voltage vs Current (Why Higher Voltage Buses Make Sense)"
+              "title": "WLED"
             }
           }
         ],
@@ -204,8 +204,9 @@
   },
   "active": "b54a132aaa7d1f3b",
   "lastOpenFiles": [
-    "Planning/Whiskey Barrel/BOM.md",
     "Planning/Whiskey Barrel/Power Supply Voltage vs Current (Why Higher Voltage Buses Make Sense).md",
+    "Planning/Whiskey Barrel/WLED.md",
+    "Planning/Whiskey Barrel/BOM.md",
     "Planning/Whiskey Barrel/Wiring.md",
     "Planning/Whiskey Barrel/Finish.md",
     "Planning/Release Checklist.md",
@@ -232,7 +233,6 @@
     "Topics/Keyboard Building/1. Layout.md",
     "how-i-made-this-wiki.md",
     "livesync_log_2025-12-23.md",
-    "Topics/Keyboard Building/0. Keyboard Building.md",
     "Topics/KiCad",
     "Planning/Keyboard Midi Lights",
     "Planning/Whiskey Barrel",
