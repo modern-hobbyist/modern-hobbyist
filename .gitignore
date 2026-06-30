@@ -17,3 +17,6 @@ vendor/
 # Ignore the private directory for private notes and thoughts
 temp/
 private/
+
+# Ignore Obsidian LiveSync daily log files
+livesync_log_*.md

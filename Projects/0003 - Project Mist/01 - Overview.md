@@ -6,9 +6,11 @@ parent: Projects
 ---
 # Mist
 
+<img src="../../img/mist/583A4433.jpg" alt="mist-thumbnail"/>
+
 **Mist** is my take on a full size keyboard, but with some upgrades I carried over from my second keyboard build--**Hermod**. Furthermore, this is the UDB version of **Mist**, which stands for Unified Daughter Board
 
-Aside from the UDB connector and the lack of USB-C/on-board ESD protection circuitry, this keyboard is functionally identical to the base **Mist** keyboard.
+Aside from the UDB connector and the lack of USB-C/on-board ESD protection circuitry, this keyboard is functionally identical to my first iteration of **Mist**.
 
 ## Why?
 
