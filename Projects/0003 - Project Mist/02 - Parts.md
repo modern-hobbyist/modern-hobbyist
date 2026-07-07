@@ -11,7 +11,7 @@ hidden: "true"
 - [ILI9341 LCD](https://www.aliexpress.us/item/2255800032844649.html?spm=a2g0o.order_list.order_list_main.107.32781802UqhhF2&gatewayAdapt=glo2usa)
 - [PCBWay Project](https://www.pcbway.com/project/shareproject/Custom_Mechanical_Keyboard_7a40c23a.html)
 - [Unified Daughter Board](https://cannonkeys.com/products/unified-daughterboard-and-jst-cable?variant=41613867843695)
-- [Hotswap Sockets I used](https://www.aliexpress.us/item/3256807081236706.html?spm=a2g0o.order_list.order_list_main.5.32781802UqhhF2&gatewayAdapt=glo2usa)
+- [Hotswap Sockets I used](https://www.aliexpress.us/item/3256802450835694.html?gatewayAdapt=glo2usa)
 - [Keycaps I used](https://www.aliexpress.us/item/3256805029855838.html?spm=a2g0o.order_list.order_list_main.16.32781802UqhhF2&gatewayAdapt=glo2usa)
 - [Switches of Choice](https://a.co/d/3fji9Gi)
 - [Stabilizers of Choice](https://a.co/d/hJjX7h8)
